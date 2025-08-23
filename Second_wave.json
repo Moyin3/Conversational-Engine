@@ -1,0 +1,2564 @@
+[{
+  "conversation_id": "eval_bar_conv_001",
+  "no_of_messages": 7,
+  "messages": [
+    {
+      "speaker": "A",
+      "text": "are u busy",
+      "timestamp": "2024-01-20T03:58:00Z",
+      "sacrifice": false,
+      "book_move": false,
+      "rubric": {
+        "understandability": ,
+        "interestingness": ,
+        "contextuality": ,
+        "naturalness": ,
+        "timeliness": ,
+        "repetitiveness": ,
+        "appropriateness": 
+      }
+    },
+    {
+      "speaker": "B",
+      "text": "Rn?",
+      "in_reply_to": "are u busy",
+      "timestamp": "2024-01-20T03:59:00Z",
+      "sacrifice": false,
+      "book_move": false,
+      "rubric": {
+        "understandability": ,
+        "interestingness": ,
+        "contextuality": ,
+        "naturalness": ,
+        "timeliness": ,
+        "repetitiveness": ,
+        "appropriateness": 
+      }
+    },
+    {
+      "speaker": "A",
+      "text": "yep",
+      "in_reply_to": "Rn?",
+      "timestamp": "2024-01-20T03:59:00Z",
+      "sacrifice": false,
+      "book_move": false,
+      "rubric": {
+        "understandability": ,
+        "interestingness": ,
+        "contextuality": ,
+        "naturalness": ,
+        "timeliness": ,
+        "repetitiveness": ,
+        "appropriateness": 
+      }
+    },
+    {
+      "speaker": "B",
+      "text": "No not really why?",
+      "timestamp": "2024-01-20T03:59:00Z",
+      "sacrifice": false,
+      "book_move": false,
+      "rubric": {
+        "understandability": ,
+        "interestingness": ,
+        "contextuality": ,
+        "naturalness": ,
+        "timeliness": ,
+        "repetitiveness": ,
+        "appropriateness": 
+      }
+    },
+    {
+      "speaker": "A",
+      "text": "i'm not either",
+      "timestamp": "2024-01-20T03:59:00Z",
+      "sacrifice": false,
+      "book_move": false,
+      "rubric": {
+        "understandability": ,
+        "interestingness": ,
+        "contextuality": ,
+        "naturalness": ,
+        "timeliness": ,
+        "repetitiveness": ,
+        "appropriateness": 
+      }
+    },
+    {
+      "speaker": "B",
+      "text": "Ok.....",
+      "timestamp": "2024-01-20T03:59:00Z",
+      "sacrifice": false,
+      "book_move": false,
+      "rubric": {
+        "understandability": ,
+        "interestingness": ,
+        "contextuality": ,
+        "naturalness": ,
+        "timeliness": ,
+        "repetitiveness": ,
+        "appropriateness": 
+      }
+    },
+    {
+      "speaker": "B",
+      "text": "Cliff hanger 😳😳",
+      "timestamp": "2024-01-20T04:00:00Z",
+      "sacrifice": false,
+      "book_move": false,
+      "rubric": {
+        "understandability": ,
+        "interestingness": ,
+        "contextuality": ,
+        "naturalness": ,
+        "timeliness": ,
+        "repetitiveness": ,
+        "appropriateness": 
+      }
+    }
+  ]
+},
+{
+  "conversation_id": "eval_bar_conv_002",
+  "no_of_messages": 22,
+  "messages": [
+    {
+      "speaker": "A",
+      "text": "well",
+      "timestamp": "2024-01-20T04:00:00Z",
+      "sacrifice": false,
+      "book_move": false,
+      "rubric": {
+        "understandability": ,
+        "interestingness": ,
+        "contextuality": ,
+        "naturalness": ,
+        "timeliness": ,
+        "repetitiveness": ,
+        "appropriateness": 
+      }
+    },
+    {
+      "speaker": "A",
+      "text": "you know what i'm saying",
+      "timestamp": "2024-01-20T04:00:00Z",
+      "sacrifice": false,
+      "book_move": false,
+      "rubric": {
+        "understandability": ,
+        "interestingness": ,
+        "contextuality": ,
+        "naturalness": ,
+        "timeliness": ,
+        "repetitiveness": ,
+        "appropriateness": 
+      }
+    },
+    {
+      "speaker": "B",
+      "text": "No I don't",
+      "timestamp": "2024-01-20T04:00:00Z",
+      "sacrifice": false,
+      "book_move": false,
+      "rubric": {
+        "understandability": ,
+        "interestingness": ,
+        "contextuality": ,
+        "naturalness": ,
+        "timeliness": ,
+        "repetitiveness": ,
+        "appropriateness": 
+      }
+    },
+    {
+      "speaker": "A",
+      "text": "right",
+      "timestamp":"2024-01-20T04:00:00Z",
+      "sacrifice": false,
+      "book_move": false,
+      "rubric": {
+        "understandability": ,
+        "interestingness": ,
+        "contextuality": ,
+        "naturalness": ,
+        "timeliness": ,
+        "repetitiveness": ,
+        "appropriateness": 
+      }
+    },
+    {
+      "speaker": "A",
+      "text": "i think u do",
+      "timestamp": "2024-01-20T04:00:00Z",
+      "sacrifice": false,
+      "book_move": false,
+      "rubric": {
+        "understandability": ,
+        "interestingness": ,
+        "contextuality": ,
+        "naturalness": ,
+        "timeliness": ,
+        "repetitiveness": ,
+        "appropriateness": 
+      }
+    },
+    {
+      "speaker": "B",
+      "text": "Left",
+      "in_reply_to": "right",
+      "timestamp": "2024-01-20T04:00:00Z",
+      "sacrifice": false,
+      "book_move": false,
+      "rubric": {
+        "understandability": ,
+        "interestingness": ,
+        "contextuality": ,
+        "naturalness": ,
+        "timeliness": ,
+        "repetitiveness": ,
+        "appropriateness": 
+      }
+    },
+    {
+      "speaker": "B",
+      "text": "Can't read minds love",
+      "in_reply_to": "i think u do",
+      "timestamp": "2024-01-20T04:00:00Z",
+      "sacrifice": false,
+      "book_move": false,
+      "rubric": {
+        "understandability": ,
+        "interestingness": ,
+        "contextuality": ,
+        "naturalness": ,
+        "timeliness": ,
+        "repetitiveness": ,
+        "appropriateness": 
+      }
+    },
+    {
+      "speaker": "A",
+      "text": "if you're gonna be weird i won't say it",
+      "timestamp": "2024-01-20T04:00:00Z",
+      "sacrifice": false,
+      "book_move": false,
+      "rubric": {
+        "understandability": ,
+        "interestingness": ,
+        "contextuality": ,
+        "naturalness": ,
+        "timeliness": ,
+        "repetitiveness": ,
+        "appropriateness": 
+      }
+    },
+    {
+      "speaker": "B",
+      "text": "K I won't be weird promise",
+      "timestamp": "2024-01-20T04:01:00Z",
+      "sacrifice": false,
+      "book_move": false,
+      "rubric": {
+        "understandability": ,
+        "interestingness": ,
+        "contextuality": ,
+        "naturalness": ,
+        "timeliness": ,
+        "repetitiveness": ,
+        "appropriateness": 
+      }
+    },
+    {
+      "speaker": "B",
+      "text": "I'll be honest",
+      "timestamp": "2024-01-20T04:01:00Z",
+      "sacrifice": false,
+      "book_move": false,
+      "rubric": {
+        "understandability": ,
+        "interestingness": ,
+        "contextuality": ,
+        "naturalness": ,
+        "timeliness": ,
+        "repetitiveness": ,
+        "appropriateness": 
+      }
+    },
+    {
+      "speaker": "A",
+      "text": "do u feel like travelling",
+      "timestamp": "2024-01-20T04:01:00Z",
+      "sacrifice": false,
+      "book_move": false,
+      "rubric": {
+        "understandability": ,
+        "interestingness": ,
+        "contextuality": ,
+        "naturalness": ,
+        "timeliness": ,
+        "repetitiveness": ,
+        "appropriateness": 
+      }
+    },
+    {
+      "speaker": "B",
+      "text": "To?",
+      "in_reply_to": "do u feel like travelling",
+      "timestamp": null,
+      "sacrifice": false,
+      "book_move": false,
+      "rubric": {
+        "understandability": ,
+        "interestingness": ,
+        "contextuality": ,
+        "naturalness": ,
+        "timeliness": ,
+        "repetitiveness": ,
+        "appropriateness": 
+      }
+    },
+    {
+      "speaker": "A",
+      "text": "come on",
+      "timestamp": "2024-01-20T04:01:00Z",
+      "sacrifice": false,
+      "book_move": false,
+      "rubric": {
+        "understandability": ,
+        "interestingness": ,
+        "contextuality": ,
+        "naturalness": ,
+        "timeliness": ,
+        "repetitiveness": ,
+        "appropriateness": 
+      }
+    },
+    {
+      "speaker": "A",
+      "text": "oh you're so boring",
+      "timestamp": "2024-01-20T04:01:00Z",
+      "sacrifice": false,
+      "book_move": false,
+      "rubric": {
+        "understandability": ,
+        "interestingness": ,
+        "contextuality": ,
+        "naturalness": ,
+        "timeliness": ,
+        "repetitiveness": ,
+        "appropriateness": 
+      }
+    },
+    {
+      "speaker": "B",
+      "text": "Ye ik",
+      "in_reply_to": "come on",
+      "timestamp": "2024-01-20T04:01:00Z",
+      "sacrifice": false,
+      "book_move": false,
+      "rubric": {
+        "understandability": ,
+        "interestingness": ,
+        "contextuality": ,
+        "naturalness": ,
+        "timeliness": ,
+        "repetitiveness": ,
+        "appropriateness": 
+      }
+    },
+    {
+      "speaker": "B",
+      "text": "I just like when people spell shit out",
+      "timestamp": "2024-01-20T04:02:00Z",
+      "sacrifice": false,
+      "book_move": false,
+      "rubric": {
+        "understandability": ,
+        "interestingness": ,
+        "contextuality": ,
+        "naturalness": ,
+        "timeliness": ,
+        "repetitiveness": ,
+        "appropriateness": 
+      }
+    },
+    {
+      "speaker": "B",
+      "text": "Kinda used to it",
+      "timestamp": "2024-01-20T04:02:00Z",
+      "sacrifice": false,
+      "book_move": false,
+      "rubric": {
+        "understandability": ,
+        "interestingness": ,
+        "contextuality": ,
+        "naturalness": ,
+        "timeliness": ,
+        "repetitiveness": ,
+        "appropriateness": 
+      }
+    },
+    {
+      "speaker": "A",
+      "text": "then come",
+      "timestamp": "2024-01-20T04:02:00Z",
+      "sacrifice": false,
+      "book_move": false,
+      "rubric": {
+        "understandability": ,
+        "interestingness": ,
+        "contextuality": ,
+        "naturalness": ,
+        "timeliness": ,
+        "repetitiveness": ,
+        "appropriateness": 
+      }
+    },
+    {
+      "speaker": "B",
+      "text": "Don't engage otherwise",
+      "timestamp": "2024-01-20T04:02:00Z",
+      "sacrifice": false,
+      "book_move": false,
+      "rubric": {
+        "understandability": ,
+        "interestingness": ,
+        "contextuality": ,
+        "naturalness": ,
+        "timeliness": ,
+        "repetitiveness": ,
+        "appropriateness": 
+      }
+    },
+    {
+      "speaker": "B",
+      "text": "Come where?",
+      "in_reply_to": "then come",
+      "timestamp": "2024-01-20T04:02:00Z",
+      "sacrifice": false,
+      "book_move": false,
+      "rubric": {
+        "understandability": ,
+        "interestingness": ,
+        "contextuality": ,
+        "naturalness": ,
+        "timeliness": ,
+        "repetitiveness": ,
+        "appropriateness": 
+      }
+    },
+    {
+      "speaker": "B",
+      "text": "Send a voicenote or sum",
+      "timestamp": "2024-01-20T04:02:00Z",
+      "sacrifice": false,
+      "book_move": false,
+      "rubric": {
+        "understandability": ,
+        "interestingness": ,
+        "contextuality": ,
+        "naturalness": ,
+        "timeliness": ,
+        "repetitiveness": ,
+        "appropriateness": 
+      }
+    },
+    {
+      "speaker": "B",
+      "text": "I'll send one back",
+      "timestamp": "2024-01-20T04:02:00Z",
+      "sacrifice": false,
+      "book_move": false,
+      "rubric": {
+        "understandability": ,
+        "interestingness": ,
+        "contextuality": ,
+        "naturalness": ,
+        "timeliness": ,
+        "repetitiveness": ,
+        "appropriateness": 
+      }
+    }
+  ]
+},
+{
+      "conversation_id": "",
+      "no_of_messages": 14,
+      "messages": [
+        {
+        "speaker": "A",
+        "text": "so I got left on read by <NAME>",
+        "timestamp": "2025-03-10T01:40:00Z",
+        "sacrifice": false,
+        "book_move": false,
+        "rubric": {
+            "understandability": ,
+            "interestingness": ,
+            "contextuality": ,
+            "naturalness": ,
+            "timeliness": ,
+            "repetitiveness": ,
+            "appropriateness": 
+            }
+        },
+    {
+    "speaker": "A",
+    "text": "time to pack up this music shit and focus on my degree",
+    "timestamp": "2025-03-10T01:41:00Z",
+    "sacrifice": false,
+    "book_move": false,
+    "rubric": {
+        "understandability": ,
+        "interestingness": ,
+        "contextuality": ,
+        "naturalness": ,
+        "timeliness": ,
+        "repetitiveness": ,
+        "appropriateness": 
+    }
+    },
+    {
+      "speaker": "B",
+      "text": "Dfkm",
+      "timestamp": "2025-03-10T01:44:00Z",
+      "sacrifice": false,
+      "book_move": false,
+      "rubric": {
+        "understandability": ,
+        "interestingness": ,
+        "contextuality": ,
+        "naturalness": ,
+        "timeliness": ,
+        "repetitiveness": ,
+        "appropriateness": 
+      }
+    },
+    {
+      "speaker": "B",
+      "text": "Just checking <NAME> is babe from Brown right?",
+      "timestamp": "2025-03-10T01:44:00Z",
+      "sacrifice": false,
+      "book_move": false,
+      "rubric": {
+        "understandability": ,
+        "interestingness": ,
+        "contextuality": ,
+        "naturalness": ,
+        "timeliness": ,
+        "repetitiveness": ,
+        "appropriateness": 
+      }
+    },
+    {
+      "speaker": "B",
+      "text": "That happened to be in studio",
+      "timestamp": "2025-03-10T01:44:00Z",
+      "sacrifice": false,
+      "book_move": false,
+      "rubric": {
+        "understandability": ,
+        "interestingness": ,
+        "contextuality": ,
+        "naturalness": ,
+        "timeliness": ,
+        "repetitiveness": ,
+        "appropriateness": 
+      }
+    },
+    {
+    "speaker": "A",
+    "text": "yuh",
+    "timestamp": "2025-03-10T01:44:00Z",
+    "sacrifice": false,
+    "book_move": false,
+    "rubric": {
+        "understandability": ,
+        "interestingness": ,
+        "contextuality": ,
+        "naturalness": ,
+        "timeliness": ,
+        "repetitiveness": ,
+        "appropriateness": 
+        }
+    },
+    {
+      "speaker": "B",
+      "text": "Bro that's not deep then",
+      "timestamp": "2025-03-10T01:45:00Z",
+      "sacrifice": false,
+      "book_move": false,
+      "rubric": {
+        "understandability": ,
+        "interestingness": ,
+        "contextuality": ,
+        "naturalness": ,
+        "timeliness": ,
+        "repetitiveness": ,
+        "appropriateness": 
+      }
+    },
+    {
+      "speaker": "B",
+      "text": "You're still finding your sound",
+      "timestamp": "2025-03-10T01:45:00Z",
+      "sacrifice": false,
+      "book_move": false,
+      "rubric": {
+        "understandability": ,
+        "interestingness": ,
+        "contextuality": ,
+        "naturalness": ,
+        "timeliness": ,
+        "repetitiveness": ,
+        "appropriateness": 
+      }
+    },
+    {
+      "speaker": "A",
+      "text": "my biggest fumble of the year so far for sure",
+      "timestamp": "2025-03-10T01:46:00Z",
+      "sacrifice": false,
+      "book_move": false,
+      "rubric": {
+        "understandability": ,
+        "interestingness": ,
+        "contextuality": ,
+        "naturalness": ,
+        "timeliness": ,
+        "repetitiveness": ,
+        "appropriateness": 
+      }
+    },
+    {
+      "speaker": "A",
+      "text": "the song has 1 million streams alr",
+      "timestamp": "2025-03-10T01:46:00Z",
+      "sacrifice": false,
+      "book_move": false,
+      "rubric": {
+        "understandability": ,
+        "interestingness": ,
+        "contextuality": ,
+        "naturalness": ,
+        "timeliness": ,
+        "repetitiveness": ,
+        "appropriateness": 
+      }
+    },
+    {
+      "speaker": "B",
+      "text": "Just rewrite and send another",
+      "timestamp": "2025-03-10T01:47:00Z",
+      "sacrifice": false,
+      "book_move": false,
+      "rubric": {
+        "understandability": ,
+        "interestingness": ,
+        "contextuality": ,
+        "naturalness": ,
+        "timeliness": ,
+        "repetitiveness": ,
+        "appropriateness": 
+      }
+    },
+    {
+      "speaker": "B",
+      "text": "Show her you're hungry",
+      "timestamp": "2025-03-10T01:47:00Z",
+      "sacrifice": false,
+      "book_move": false,
+      "rubric": {
+        "understandability": ,
+        "interestingness": ,
+        "contextuality": ,
+        "naturalness": ,
+        "timeliness": ,
+        "repetitiveness": ,
+        "appropriateness": 
+      }
+    },
+    {
+      "speaker": "B",
+      "text": "You might not get on this song but who knows?",
+      "timestamp": "2025-03-10T01:47:00Z",
+      "sacrifice": false,
+      "book_move": false,
+      "rubric": {
+        "understandability": ,
+        "interestingness": ,
+        "contextuality": ,
+        "naturalness": ,
+        "timeliness": ,
+        "repetitiveness": ,
+        "appropriateness": 
+      }
+    },
+    {
+      "speaker": "A",
+      "text": "nah pretty sure she heard from her bassist that i'm cooked",
+      "timestamp": "2025-03-10T01:48:00Z",
+      "sacrifice": false,
+      "book_move": false,
+      "rubric": {
+        "understandability": ,
+        "interestingness": ,
+        "contextuality": ,
+        "naturalness": ,
+        "timeliness": ,
+        "repetitiveness": ,
+        "appropriateness": 
+      }
+    }
+]
+},
+{
+  "conversation_id": "",
+  "no_of_messages": 13,
+  "messages": [
+    {
+      "speaker": "A",
+      "text": "Kinda hard to have bad sex with a woman",
+      "timestamp": "2025-01-06T18:57:00Z",
+      "sacrifice": false,
+      "book_move": false,
+      "rubric": {
+        "understandability": ,
+        "interestingness": ,
+        "contextuality": ,
+        "naturalness": ,
+        "timeliness": ,
+        "repetitiveness": ,
+        "appropriateness": 
+      }
+    },
+    {
+      "speaker": "B",
+      "text": "See? This makes it sound like you have bi tendencies",
+      "in_reply_to": "Kinda hard to have bad sex with a woman",
+      "timestamp": "2025-01-06T18:58:00Z",
+      "sacrifice": false,
+      "book_move": false,
+      "rubric": {
+        "understandability": ,
+        "interestingness": ,
+        "contextuality": ,
+        "naturalness": ,
+        "timeliness": ,
+        "repetitiveness": ,
+        "appropriateness": 
+      }
+    },
+    {
+      "speaker": "A",
+      "text": "Women have a hard time all the time sigh",
+      "timestamp": "2025-01-06T18:58:00Z",
+      "sacrifice": false,
+      "book_move": false,
+      "rubric": {
+        "understandability": ,
+        "interestingness": ,
+        "contextuality": ,
+        "naturalness": ,
+        "timeliness": ,
+        "repetitiveness": ,
+        "appropriateness": 
+      }
+    },
+    {
+      "speaker": "B",
+      "text": "You can never be too careful",
+      "timestamp": "2025-01-06T18:58:00Z",
+      "sacrifice": false,
+      "book_move": false,
+      "rubric": {
+        "understandability": ,
+        "interestingness": ,
+        "contextuality": ,
+        "naturalness": ,
+        "timeliness": ,
+        "repetitiveness": ,
+        "appropriateness": 
+      }
+    },
+    {
+      "speaker": "A",
+      "text": "Omg",
+      "in_reply_to": "You can never be too careful",
+      "timestamp": "2025-01-06T18:58:00Z",
+      "sacrifice": false,
+      "book_move": false,
+      "rubric": {
+        "understandability": ,
+        "interestingness": ,
+        "contextuality": ,
+        "naturalness": ,
+        "timeliness": ,
+        "repetitiveness": ,
+        "appropriateness": 
+      }
+    },
+    {
+      "speaker": "A",
+      "text": "Stop",
+      "timestamp": "2025-01-06T18:58:00Z",
+      "sacrifice": false,
+      "book_move": false,
+      "rubric": {
+        "understandability": ,
+        "interestingness": ,
+        "contextuality": ,
+        "naturalness": ,
+        "timeliness": ,
+        "repetitiveness": ,
+        "appropriateness": 
+      }
+    },
+    {
+      "speaker": "A",
+      "text": "No:/ I was convinced recently that most people thought I was bi",
+      "timestamp": "2025-01-06T18:58:00Z",
+      "sacrifice": false,
+      "book_move": false,
+      "rubric": {
+        "understandability": ,
+        "interestingness": ,
+        "contextuality": ,
+        "naturalness": ,
+        "timeliness": ,
+        "repetitiveness": ,
+        "appropriateness": 
+      }
+    },
+    {
+      "speaker": "B",
+      "text": "It's sounding like it tho icl",
+      "timestamp": "2025-01-06T19:01:00Z",
+      "sacrifice": false,
+      "book_move": false,
+      "rubric": {
+        "understandability": ,
+        "interestingness": ,
+        "contextuality": ,
+        "naturalness": ,
+        "timeliness": ,
+        "repetitiveness": ,
+        "appropriateness": 
+      }
+    },
+    {
+      "speaker": "B",
+      "text": "No they don't",
+      "in_reply_to": "Women have a hard time all the time sigh",
+      "timestamp": "2025-01-06T19:01:00Z",
+      "sacrifice": false,
+      "book_move": false,
+      "rubric": {
+        "understandability": ,
+        "interestingness": ,
+        "contextuality": ,
+        "naturalness": ,
+        "timeliness": ,
+        "repetitiveness": ,
+        "appropriateness": 
+      }
+    },
+    {
+      "speaker": "A",
+      "text": "No. I'm not. Not my kinda thing",
+      "timestamp": "2025-01-06T19:01:00Z",
+      "sacrifice": false,
+      "book_move": false,
+      "rubric": {
+        "understandability": ,
+        "interestingness": ,
+        "contextuality": ,
+        "naturalness": ,
+        "timeliness": ,
+        "repetitiveness": ,
+        "appropriateness": 
+      }
+    },
+    {
+      "speaker": "A",
+      "text": "I'm straight as fuck",
+      "timestamp": "2025-01-06T19:01:00Z",
+      "sacrifice": false,
+      "book_move": false,
+      "rubric": {
+        "understandability": ,
+        "interestingness": ,
+        "contextuality": ,
+        "naturalness": ,
+        "timeliness": ,
+        "repetitiveness": ,
+        "appropriateness": 
+      }
+    },
+    {
+      "speaker": "A",
+      "text": "Unfortunately sometimes I think",
+      "timestamp": "2025-01-06T19:02:00Z",
+      "sacrifice": false,
+      "book_move": false,
+      "rubric": {
+        "understandability": ,
+        "interestingness": ,
+        "contextuality": ,
+        "naturalness": ,
+        "timeliness": ,
+        "repetitiveness": ,
+        "appropriateness": 
+      }
+    },
+    {
+      "speaker": "A",
+      "text": "Ah we do",
+      "in_reply_to": "No they don't",
+      "timestamp": "2025-01-06T19:02:00Z",
+      "sacrifice": false,
+      "book_move": false,
+      "rubric": {
+        "understandability": ,
+        "interestingness": ,
+        "contextuality": ,
+        "naturalness": ,
+        "timeliness": ,
+        "repetitiveness": ,
+        "appropriateness": 
+      }
+    }
+  ]
+},
+{
+  "conversation_id": "",
+  "no_of_messages": 13,
+  "messages": [
+    {
+      "speaker": "A",
+      "text": "Timbs on too must have your feet feeling heavy",
+      "timestamp": "2024-09-30T22:59:00Z",
+      "sacrifice": false,
+      "book_move": false,
+      "rubric": {
+        "understandability": ,
+        "interestingness": ,
+        "contextuality": ,
+        "naturalness": ,
+        "timeliness": ,
+        "repetitiveness": ,
+        "appropriateness": 
+      }
+    },
+    {
+      "speaker": "B",
+      "text": "So so heavy",
+      "timestamp": "2024-09-30T22:59:00Z",
+      "sacrifice": false,
+      "book_move": false,
+      "rubric": {
+        "understandability": ,
+        "interestingness": ,
+        "contextuality": ,
+        "naturalness": ,
+        "timeliness": ,
+        "repetitiveness": ,
+        "appropriateness": 
+      }
+    },
+    {
+      "speaker": "B",
+      "text": "Timbs are a big shoe",
+      "timestamp": "2024-09-30T22:59:00Z",
+      "sacrifice": false,
+      "book_move": false,
+      "rubric": {
+        "understandability": ,
+        "interestingness": ,
+        "contextuality": ,
+        "naturalness": ,
+        "timeliness": ,
+        "repetitiveness": ,
+        "appropriateness": 
+      }
+    },
+    {
+      "speaker": "B",
+      "text": "i wish someone told me😭😭",
+      "timestamp": "2024-09-30T22:59:00Z",
+      "sacrifice": false,
+      "book_move": false,
+      "rubric": {
+        "understandability": ,
+        "interestingness": ,
+        "contextuality": ,
+        "naturalness": ,
+        "timeliness": ,
+        "repetitiveness": ,
+        "appropriateness": 
+      }
+    },
+    {
+      "speaker": "A",
+      "text": "If you see me in the same carhartt jumper mind your business",
+      "timestamp": "2024-09-30T22:59:00Z",
+      "sacrifice": false,
+      "book_move": false,
+      "rubric": {
+        "understandability": ,
+        "interestingness": ,
+        "contextuality": ,
+        "naturalness": ,
+        "timeliness": ,
+        "repetitiveness": ,
+        "appropriateness": 
+      }
+    },
+    {
+      "speaker": "B",
+      "text": "☠️☠️☠️☠️",
+      "in_reply_to": "If you seee me in the same carhartt jumper mind your business",
+      "timestamp": "2024-09-30T23:00:00Z",
+      "sacrifice": false,
+      "book_move": false,
+      "rubric": {
+        "understandability": ,
+        "interestingness": ,
+        "contextuality": ,
+        "naturalness": ,
+        "timeliness": ,
+        "repetitiveness": ,
+        "appropriateness": 
+      }
+    },
+    {
+      "speaker": "A",
+      "text": "You needed someone to tell you 😂😂",
+      "in_reply_to": "I wish someone told me😭😭",
+      "timestamp": "2024-09-30T23:00:00Z",
+      "sacrifice": false,
+      "book_move": false,
+      "rubric": {
+        "understandability": ,
+        "interestingness": ,
+        "contextuality": ,
+        "naturalness": ,
+        "timeliness": ,
+        "repetitiveness": ,
+        "appropriateness": 
+      }
+    },
+    {
+      "speaker": "B",
+      "text": "Yeeee. I thought they would've been light like my bruck down air forces",
+      "in_reply_to": "You needed someone to tell you 😂😂"
+      "timestamp": "2024-09-30T23:01:00Z",
+      "sacrifice": false,
+      "book_move": false,
+      "rubric": {
+        "understandability": ,
+        "interestingness": ,
+        "contextuality": ,
+        "naturalness": ,
+        "timeliness": ,
+        "repetitiveness": ,
+        "appropriateness": 
+      }
+    },
+    {
+      "speaker": "B",
+      "text": "😭😭",
+      "timestamp": "2024-09-30T23:01:00Z",
+      "sacrifice": false,
+      "book_move": false,
+      "rubric": {
+        "understandability": ,
+        "interestingness": ,
+        "contextuality": ,
+        "naturalness": ,
+        "timeliness": ,
+        "repetitiveness": ,
+        "appropriateness": 
+      }
+    },
+    {
+      "speaker": "A",
+      "text": "Nah timbs will have you stomping around",
+      "timestamp": "2024-09-30T23:02:00Z",
+      "sacrifice": false,
+      "book_move": false,
+      "rubric": {
+        "understandability": ,
+        "interestingness": ,
+        "contextuality": ,
+        "naturalness": ,
+        "timeliness": ,
+        "repetitiveness": ,
+        "appropriateness": 
+      }
+    },
+    {
+      "speaker": "B",
+      "text": "Ongggg",
+      "in_reply_to": "Nah timbs will have you stomping around",
+      "timestamp": null,
+      "sacrifice": false,
+      "book_move": false,
+      "rubric": {
+        "understandability": ,
+        "interestingness": ,
+        "contextuality": ,
+        "naturalness": ,
+        "timeliness": ,
+        "repetitiveness": ,
+        "appropriateness": 
+      }
+    },
+    {
+      "speaker": "A",
+      "text": "But I've worn some before",
+      "timestamp": "2024-09-30T23:02:00Z",
+      "sacrifice": false,
+      "book_move": false,
+      "rubric": {
+        "understandability": ,
+        "interestingness": ,
+        "contextuality": ,
+        "naturalness": ,
+        "timeliness": ,
+        "repetitiveness": ,
+        "appropriateness": 
+      }
+    },
+    {
+      "speaker": "A",
+      "text": "I like the power it gives me😂",
+      "timestamp": "2024-09-30T23:02:00Z",
+      "sacrifice": false,
+      "book_move": false,
+      "rubric": {
+        "understandability": ,
+        "interestingness": ,
+        "contextuality": ,
+        "naturalness": ,
+        "timeliness": ,
+        "repetitiveness": ,
+        "appropriateness": 
+      }
+    }
+  ]
+},
+{
+  "conversation_id": "",
+  "no_of_messages": 7,
+  "messages": [
+    {
+      "speaker": "A",
+      "text": "Hby? Haha Ukraine seems fun?",
+      "timestamp": null,
+      "sacrifice": false,
+      "book_move": false,
+      "rubric": {
+        "understandability": ,
+        "interestingness": ,
+        "contextuality": ,
+        "naturalness": ,
+        "timeliness": ,
+        "repetitiveness": ,
+        "appropriateness": 
+      }
+    },
+    {
+      "speaker": "A",
+      "text": "I have about 4 years left in total before being oficially done but I graudate next year and then residency",
+      "timestamp": null,
+      "sacrifice": false,
+      "book_move": false,
+      "rubric": {
+        "understandability": ,
+        "interestingness": ,
+        "contextuality": ,
+        "naturalness": ,
+        "timeliness": ,
+        "repetitiveness": ,
+        "appropriateness": 
+      }
+    },
+    {
+      "speaker": "B",
+      "text": "Ukraine seems fun?🤔🤨",
+      "timestamp": null,
+      "sacrifice": false,
+      "book_move": false,
+      "rubric": {
+        "understandability": ,
+        "interestingness": ,
+        "contextuality": ,
+        "naturalness": ,
+        "timeliness": ,
+        "repetitiveness": ,
+        "appropriateness": 
+      }
+    },
+    {
+      "speaker": "A",
+      "text": "lol is that where you're from?",
+      "timestamp": null,
+      "sacrifice": false,
+      "book_move": false,
+      "rubric": {
+        "understandability": ,
+        "interestingness": ,
+        "contextuality": ,
+        "naturalness": ,
+        "timeliness": ,
+        "repetitiveness": ,
+        "appropriateness": 
+      }
+    },
+    {
+      "speaker": "B",
+      "text": "Yeah I am lol I've just never heard anyone say it seems fun",
+      "timestamp": null,
+      "sacrifice": false,
+      "book_move": false,
+      "rubric": {
+        "understandability": ,
+        "interestingness": ,
+        "contextuality": ,
+        "naturalness": ,
+        "timeliness": ,
+        "repetitiveness": ,
+        "appropriateness": 
+      }
+    },
+    {
+      "speaker": "A",
+      "text": "Haha idk anywhere seems fun to travel to. Is it not?",
+      "timestamp": null,
+      "sacrifice": false,
+      "book_move": false,
+      "rubric": {
+        "understandability": ,
+        "interestingness": ,
+        "contextuality": ,
+        "naturalness": ,
+        "timeliness": ,
+        "repetitiveness": ,
+        "appropriateness": 
+      }
+    },
+    {
+      "speaker": "B",
+      "text": "They've been getting bombed basically every day for the past 3 years but other than that yeah it's really fun lol",
+      "timestamp": null,
+      "sacrifice": false,
+      "book_move": false,
+      "rubric": {
+        "understandability": ,
+        "interestingness": ,
+        "contextuality": ,
+        "naturalness": ,
+        "timeliness": ,
+        "repetitiveness": ,
+        "appropriateness": 
+      }
+    }
+  ]
+},
+{
+  "conversation_id": "",
+  "no_of_messages": 10,
+  "messages": [
+    {
+      "speaker": "A",
+      "text": "Would you enjoy cuddling me ?
+                🙈😘😊",
+      "timestamp": "2000-01-01T21:42:00Z",
+      "sacrifice": false,
+      "book_move": false,
+      "rubric": {
+        "understandability": ,
+        "interestingness": ,
+        "contextuality": ,
+        "naturalness": ,
+        "timeliness": ,
+        "repetitiveness": ,
+        "appropriateness": 
+      }
+    },
+    {
+      "speaker": "A",
+      "text": "Be aware I may only be in my underwear while we cuddle 🙈",
+      "timestamp": "2000-01-01T21:43:00Z",
+      "sacrifice": false,
+      "book_move": false,
+      "rubric": {
+        "understandability": ,
+        "interestingness": ,
+        "contextuality": ,
+        "naturalness": ,
+        "timeliness": ,
+        "repetitiveness": ,
+        "appropriateness": 
+      }
+    },
+    {
+      "speaker": "A",
+      "text": "Also I'm glad you are cuddly 😊🥰",
+      "timestamp": "2000-01-01T21:45:00Z",
+      "sacrifice": false,
+      "book_move": false,
+      "rubric": {
+        "understandability": ,
+        "interestingness": ,
+        "contextuality": ,
+        "naturalness": ,
+        "timeliness": ,
+        "repetitiveness": ,
+        "appropriateness": 
+      }
+    },
+    {
+      "speaker": "A",
+      "text": "Definitely would cuddle you 😘🤭",
+      "timestamp": "2000-01-01T21:52:00Z",
+      "sacrifice": false,
+      "book_move": false,
+      "rubric": {
+        "understandability": ,
+        "interestingness": ,
+        "contextuality": ,
+        "naturalness": ,
+        "timeliness": ,
+        "repetitiveness": ,
+        "appropriateness": 
+      }
+    },
+    {
+      "speaker": "A",
+      "text": "Sorry to be so blunt babe 🙈",
+      "timestamp": "2000-01-01T22:01:00Z",
+      "sacrifice": false,
+      "book_move": false,
+      "rubric": {
+        "understandability": ,
+        "interestingness": ,
+        "contextuality": ,
+        "naturalness": ,
+        "timeliness": ,
+        "repetitiveness": ,
+        "appropriateness": 
+      }
+    },
+    {
+      "speaker": "A",
+      "text": "Just texted what I felt 🙈😘😊",
+      "timestamp": "2000-01-01T22:04:00Z",
+      "sacrifice": false,
+      "book_move": false,
+      "rubric": {
+        "understandability": ,
+        "interestingness": ,
+        "contextuality": ,
+        "naturalness": ,
+        "timeliness": ,
+        "repetitiveness": ,
+        "appropriateness": 
+      }
+    },
+    {
+      "speaker": "A",
+      "text": "Well sorry babe if I offended you 😔",
+      "timestamp": "2000-01-01T22:07:00Z",
+      "sacrifice": false,
+      "book_move": false,
+      "rubric": {
+        "understandability": ,
+        "interestingness": ,
+        "contextuality": ,
+        "naturalness": ,
+        "timeliness": ,
+        "repetitiveness": ,
+        "appropriateness": 
+      }
+    },
+    {
+      "speaker": "A",
+      "text": "Did you fall asleep on me babe ? 🫣😘",
+      "timestamp": null,
+      "sacrifice": false,
+      "book_move": false,
+      "rubric": {
+        "understandability": ,
+        "interestingness": ,
+        "contextuality": ,
+        "naturalness": ,
+        "timeliness": ,
+        "repetitiveness": ,
+        "appropriateness": 
+      }
+    },
+    {
+      "speaker": "A",
+      "text": "Just saying I'd be down to cuddle you 😘😊",
+      "timestamp": "2000-01-01T22:15:00Z",
+      "sacrifice": false,
+      "book_move": false,
+      "rubric": {
+        "understandability": ,
+        "interestingness": ,
+        "contextuality": ,
+        "naturalness": ,
+        "timeliness": ,
+        "repetitiveness": ,
+        "appropriateness": 
+      }
+    },
+    {
+      "speaker": "A",
+      "text": "Can I come cuddle you cutie 🥰😘😊",
+      "timestamp": "2000-01-01T22:22:00Z",
+      "sacrifice": false,
+      "book_move": false,
+      "rubric": {
+        "understandability": ,
+        "interestingness": ,
+        "contextuality": ,
+        "naturalness": ,
+        "timeliness": ,
+        "repetitiveness": ,
+        "appropriateness": 
+      }
+    }
+  ]
+},
+{
+  "conversation_id": "",
+  "no_of_messages": 9,
+  "messages": [
+    {
+      "speaker": "A",
+      "text": "Your boyfriend a goal head.",
+      "timestamp": null,
+      "sacrifice": false,
+      "book_move": false,
+      "rubric": {
+        "understandability": ,
+        "interestingness": ,
+        "contextuality": ,
+        "naturalness": ,
+        "timeliness": ,
+        "repetitiveness": ,
+        "appropriateness": 
+      }
+    },
+    {
+      "speaker": "A",
+      "text": "Meant 'goat head'.",
+      "timestamp": null,
+      "sacrifice": false,
+      "book_move": false,
+      "rubric": {
+        "understandability": ,
+        "interestingness": ,
+        "contextuality": ,
+        "naturalness": ,
+        "timeliness": ,
+        "repetitiveness": ,
+        "appropriateness": 
+      }
+    },
+    {
+      "speaker": "B",
+      "text": "GOAT = greatest of all time",
+      "timestamp": null,
+      "sacrifice": false,
+      "book_move": false,
+      "rubric": {
+        "understandability": ,
+        "interestingness": ,
+        "contextuality": ,
+        "naturalness": ,
+        "timeliness": ,
+        "repetitiveness": ,
+        "appropriateness": 
+      }
+    },
+    {
+      "speaker": "A",
+      "text": "Butt head.",
+      "timestamp": null,
+      "sacrifice": false,
+      "book_move": false,
+      "rubric": {
+        "understandability": ,
+        "interestingness": ,
+        "contextuality": ,
+        "naturalness": ,
+        "timeliness": ,
+        "repetitiveness": ,
+        "appropriateness": 
+      }
+    },
+    {
+      "speaker": "B",
+      "text": "BUTT = best under the threshold",
+      "timestamp": null,
+      "sacrifice": false,
+      "book_move": false,
+      "rubric": {
+        "understandability": ,
+        "interestingness": ,
+        "contextuality": ,
+        "naturalness": ,
+        "timeliness": ,
+        "repetitiveness": ,
+        "appropriateness": 
+      }
+    },
+    {
+      "speaker": "B",
+      "text": "Now I'm just making stuff up",
+      "timestamp": null,
+      "sacrifice": false,
+      "book_move": false,
+      "rubric": {
+        "understandability": ,
+        "interestingness": ,
+        "contextuality": ,
+        "naturalness": ,
+        "timeliness": ,
+        "repetitiveness": ,
+        "appropriateness": 
+      }
+    },
+    {
+      "speaker": "A",
+      "text": "Nice try",
+      "timestamp": null,
+      "sacrifice": false,
+      "book_move": false,
+      "rubric": {
+        "understandability": ,
+        "interestingness": ,
+        "contextuality": ,
+        "naturalness": ,
+        "timeliness": ,
+        "repetitiveness": ,
+        "appropriateness": 
+      }
+    },
+    {
+      "speaker": "B",
+      "text": "😣",
+      "timestamp": null,
+      "sacrifice": false,
+      "book_move": false,
+      "rubric": {
+        "understandability": ,
+        "interestingness": ,
+        "contextuality": ,
+        "naturalness": ,
+        "timeliness": ,
+        "repetitiveness": ,
+        "appropriateness": 
+      }
+    },
+    {
+      "speaker": "B",
+      "text": "BUTT = beautiful, understanding, talented, treasure",
+      "timestamp": null,
+      "sacrifice": false,
+      "book_move": false,
+      "rubric": {
+        "understandability": ,
+        "interestingness": ,
+        "contextuality": ,
+        "naturalness": ,
+        "timeliness": ,
+        "repetitiveness": ,
+        "appropriateness": 
+      }
+    }
+  ]
+}
+{
+  "conversation_id": "",
+  "no_of_messages": 5,
+  "messages": [
+    {
+  "speaker": "A",
+  "text": "Your great aunt just passed away. LOL",
+  "timestamp": null,
+  "sacrifice": false,
+  "book_move": false,
+  "rubric": {
+    "understandability": ,
+    "interestingness": ,
+    "contextuality": ,
+    "naturalness": ,
+    "timeliness": ,
+    "repetitiveness": ,
+    "appropriateness": 
+  }
+},
+{
+  "speaker": "B",
+  "text": "Why is that funny?",
+  "timestamp": null,
+  "sacrifice": false,
+  "book_move": false,
+  "rubric": {
+    "understandability": ,
+    "interestingness": ,
+    "contextuality": ,
+    "naturalness": ,
+    "timeliness": ,
+    "repetitiveness": ,
+    "appropriateness": 
+  }
+},
+{
+  "speaker": "A",
+  "text": "It's not funny <NAME>! Wht do you mean?",
+  "timestamp": null,
+  "sacrifice": false,
+  "book_move": false,
+  "rubric": {
+    "understandability": ,
+    "interestingness": ,
+    "contextuality": ,
+    "naturalness": ,
+    "timeliness": ,
+    "repetitiveness": ,
+    "appropriateness": 
+  }
+},
+{
+  "speaker": "B",
+  "text": "Mom lol means laughing out loud!",
+  "timestamp": null,
+  "sacrifice": false,
+  "book_move": false,
+  "rubric": {
+    "understandability": ,
+    "interestingness": ,
+    "contextuality": ,
+    "naturalness": ,
+    "timeliness": ,
+    "repetitiveness": ,
+    "appropriateness": 
+  }
+},
+{
+  "speaker": "A",
+  "text": "Ohmy goodness!! I sent that to everyone I thought it meant lots of love. I have tocall everyone back oh god",
+  "timestamp": null,
+  "sacrifice": false,
+  "book_move": false,
+  "rubric": {
+    "understandability": ,
+    "interestingness": ,
+    "contextuality": ,
+    "naturalness": ,
+    "timeliness": ,
+    "repetitiveness": ,
+    "appropriateness": 
+  }
+}
+  ]
+},
+{
+  "conversation_id": "",
+  "no_of_messages": 5,
+  "messages": [
+    {
+      "speaker": "A",
+      "text": "i'm sorry but how exactly did you become aware of the hole?",
+      "timestamp": null,
+      "sacrifice": false,
+      "book_move": false,
+      "rubric": {
+        "understandability": ,
+        "interestingness": ,
+        "contextuality": ,
+        "naturalness": ,
+        "timeliness": ,
+        "repetitiveness": ,
+        "appropriateness": 
+      }
+    },
+    {
+      "speaker": "B",
+      "text": "that's besides the point, i will be taking this out of your deposit",
+      "timestamp": null,
+      "sacrifice": false,
+      "book_move": false,
+      "rubric": {
+        "understandability": ,
+        "interestingness": ,
+        "contextuality": ,
+        "naturalness": ,
+        "timeliness": ,
+        "repetitiveness": ,
+        "appropriateness": 
+      }
+    },
+    {
+      "speaker": "A",
+      "text": "I... don't really think it is besides the point. are you in my apartment right now? because that hole was made this morning before i left.",
+      "timestamp": null,
+      "sacrifice": false,
+      "book_move": false,
+      "rubric": {
+        "understandability": ,
+        "interestingness": ,
+        "contextuality": ,
+        "naturalness": ,
+        "timeliness": ,
+        "repetitiveness": ,
+        "appropriateness": 
+      }
+    },
+    {
+      "speaker": "B",
+      "text": "like i said, that's besides the point. if you continue to press me about this i will begin formal eviction proceedings.",
+      "timestamp": null,
+      "sacrifice": false,
+      "book_move": false,
+      "rubric": {
+        "understandability": ,
+        "interestingness": ,
+        "contextuality": ,
+        "naturalness": ,
+        "timeliness": ,
+        "repetitiveness": ,
+        "appropriateness": 
+      }
+    },
+    {
+      "speaker": "B",
+      "text": "also, i noticed a hole that you covered up with spackle in your bedroom.",
+      "timestamp": null,
+      "sacrifice": false,
+      "book_move": false,
+      "rubric": {
+        "understandability": ,
+        "interestingness": ,
+        "contextuality": ,
+        "naturalness": ,
+        "timeliness": ,
+        "repetitiveness": ,
+        "appropriateness": 
+      }
+    }
+  ]
+},
+{
+  "conversation_id": "",
+  "no_of_messages": 5,
+  "messages": [
+    {
+      "speaker": "A",
+      "text": "Jesus you see that ozzy osbourne passed away?",
+      "timestamp": "2000-01-01T:16:30:00Z",
+      "sacrifice": false,
+      "book_move": false,
+      "rubric": {
+        "understandability": ,
+        "interestingness": ,
+        "contextuality": ,
+        "naturalness": ,
+        "timeliness": ,
+        "repetitiveness": ,
+        "appropriateness": 
+      }
+    },
+    {
+      "speaker": "B",
+      "text": "Oh no",
+      "timestamp": "2000-01-01T:16:31:00Z",
+      "sacrifice": false,
+      "book_move": false,
+      "rubric": {
+        "understandability": ,
+        "interestingness": ,
+        "contextuality": ,
+        "naturalness": ,
+        "timeliness": ,
+        "repetitiveness": ,
+        "appropriateness": 
+      }
+    },
+    {
+      "speaker": "B",
+      "text": "Josh Lucas got married yesterday.",
+      "timestamp": "2000-01-01T:16:31:00Z",
+      "sacrifice": false,
+      "book_move": false,
+      "rubric": {
+        "understandability": ,
+        "interestingness": ,
+        "contextuality": ,
+        "naturalness": ,
+        "timeliness": ,
+        "repetitiveness": ,
+        "appropriateness": 
+      }
+    },
+    {
+      "speaker": "A",
+      "text": "Oh sorry to hear that",
+      "timestamp": "2000-01-01T:16:31:00Z",
+      "sacrifice": false,
+      "book_move": false,
+      "rubric": {
+        "understandability": ,
+        "interestingness": ,
+        "contextuality": ,
+        "naturalness": ,
+        "timeliness": ,
+        "repetitiveness": ,
+        "appropriateness": 
+      }
+    },
+    {
+      "speaker": "B",
+      "text": "Me too!! lol",
+      "timestamp": "2000-01-01T:16:32:00Z",
+      "sacrifice": false,
+      "book_move": false,
+      "rubric": {
+        "understandability": ,
+        "interestingness": ,
+        "contextuality": ,
+        "naturalness": ,
+        "timeliness": ,
+        "repetitiveness": ,
+        "appropriateness": 
+      }
+    }
+  ]
+},
+{
+  "conversation_id": "",
+  "no_of_messages": 9,
+  "messages": [
+    {
+      "speaker": "A",
+      "text": "It might be! I'm not sure",
+      "timestamp": null,
+      "sacrifice": false,
+      "book_move": false,
+      "rubric": {
+        "understandability": ,
+        "interestingness": ,
+        "contextuality": ,
+        "naturalness": ,
+        "timeliness": ,
+        "repetitiveness": ,
+        "appropriateness": 
+      }
+    },
+    {
+      "speaker": "B",
+      "text": "If you cannot conform to my subscriptions then I cannot support you",
+      "timestamp": null,
+      "sacrifice": false,
+      "book_move": false,
+      "rubric": {
+        "understandability": ,
+        "interestingness": ,
+        "contextuality": ,
+        "naturalness": ,
+        "timeliness": ,
+        "repetitiveness": ,
+        "appropriateness": 
+      }
+    },
+    {
+      "speaker": "B",
+      "text": "Even if you do conform you didn't conform initially",
+      "timestamp": null,
+      "sacrifice": false,
+      "book_move": false,
+      "rubric": {
+        "understandability": ,
+        "interestingness": ,
+        "contextuality": ,
+        "naturalness": ,
+        "timeliness": ,
+        "repetitiveness": ,
+        "appropriateness": 
+      }
+    },
+    {
+      "speaker": "A",
+      "text": "I appreciate your non support",
+      "timestamp": null,
+      "sacrifice": false,
+      "book_move": false,
+      "rubric": {
+        "understandability": ,
+        "interestingness": ,
+        "contextuality": ,
+        "naturalness": ,
+        "timeliness": ,
+        "repetitiveness": ,
+        "appropriateness": 
+      }
+    },
+    {
+      "speaker": "B",
+      "text": "I don't appreciate your support of my non support",
+      "timestamp": null,
+      "sacrifice": false,
+      "book_move": false,
+      "rubric": {
+        "understandability": ,
+        "interestingness": ,
+        "contextuality": ,
+        "naturalness": ,
+        "timeliness": ,
+        "repetitiveness": ,
+        "appropriateness": 
+      }
+    },
+    {
+      "speaker": "B",
+      "text": "Looks like it is on Spotify, mf got lucky",
+      "timestamp": null,
+      "sacrifice": false,
+      "book_move": false,
+      "rubric": {
+        "understandability": ,
+        "interestingness": ,
+        "contextuality": ,
+        "naturalness": ,
+        "timeliness": ,
+        "repetitiveness": ,
+        "appropriateness": 
+      }
+    },
+    {
+      "speaker": "A",
+      "text": "I appreciate your unappreciation",
+      "timestamp": null,
+      "sacrifice": false,
+      "book_move": false,
+      "rubric": {
+        "understandability": ,
+        "interestingness": ,
+        "contextuality": ,
+        "naturalness": ,
+        "timeliness": ,
+        "repetitiveness": ,
+        "appropriateness": 
+      }
+    },
+    {
+      "speaker": "B",
+      "text": "I considered appreciating your appreciation of my unappreciative stance, but after further consideration, I'm just as unappreciative and would appreciate you not being appreciative of my unappreciation",
+      "timestamp": null,
+      "sacrifice": false,
+      "book_move": false,
+      "rubric": {
+        "understandability": ,
+        "interestingness": ,
+        "contextuality": ,
+        "naturalness": ,
+        "timeliness": ,
+        "repetitiveness": ,
+        "appropriateness": 
+      }
+    },
+    {
+      "speaker": "A",
+      "text": "I can appreciate that",
+      "timestamp": null,
+      "sacrifice": false,
+      "book_move": false,
+      "rubric": {
+        "understandability": ,
+        "interestingness": ,
+        "contextuality": ,
+        "naturalness": ,
+        "timeliness": ,
+        "repetitiveness": ,
+        "appropriateness": 
+      }
+    },
+    {
+      "speaker": "",
+      "text": "",
+      "timestamp": null,
+      "sacrifice": false,
+      "book_move": false,
+      "rubric": {
+        "understandability": ,
+        "interestingness": ,
+        "contextuality": ,
+        "naturalness": ,
+        "timeliness": ,
+        "repetitiveness": ,
+        "appropriateness": 
+      }
+    }
+  ]
+},
+{
+  "conversation_id": "",
+  "no_of_messages": 6,
+  "messages": [
+    {
+      "speaker": "A",
+      "text": "whereabouts in ldn r u",
+      "timestamp": null,
+      "sacrifice": false,
+      "book_move": false,
+      "rubric": {
+        "understandability": ,
+        "interestingness": ,
+        "contextuality": ,
+        "naturalness": ,
+        "timeliness": ,
+        "repetitiveness": ,
+        "appropriateness": 
+      }
+    },
+    {
+      "speaker": "B",
+      "text": "Why? You want me to come see you?",
+      "timestamp": null,
+      "sacrifice": false,
+      "book_move": false,
+      "rubric": {
+        "understandability": ,
+        "interestingness": ,
+        "contextuality": ,
+        "naturalness": ,
+        "timeliness": ,
+        "repetitiveness": ,
+        "appropriateness": 
+      }
+    },
+    {
+      "speaker": "A",
+      "text": "obvs",
+      "timestamp": null,
+      "sacrifice": false,
+      "book_move": false,
+      "rubric": {
+        "understandability": ,
+        "interestingness": ,
+        "contextuality": ,
+        "naturalness": ,
+        "timeliness": ,
+        "repetitiveness": ,
+        "appropriateness": 
+      }
+    },
+    {
+      "speaker": "A",
+      "text": "making sure ur in range",
+      "timestamp": null,
+      "sacrifice": false,
+      "book_move": false,
+      "rubric": {
+        "understandability": ,
+        "interestingness": ,
+        "contextuality": ,
+        "naturalness": ,
+        "timeliness": ,
+        "repetitiveness": ,
+        "appropriateness": 
+      }
+    },
+    {
+      "speaker": "B",
+      "text": "Not sure I want to see you tho",
+      "timestamp": null,
+      "sacrifice": false,
+      "book_move": false,
+      "rubric": {
+        "understandability": ,
+        "interestingness": ,
+        "contextuality": ,
+        "naturalness": ,
+        "timeliness": ,
+        "repetitiveness": ,
+        "appropriateness": 
+      }
+    },
+    {
+      "speaker": "B",
+      "text": "🤔",
+      "timestamp": null,
+      "sacrifice": false,
+      "book_move": false,
+      "rubric": {
+        "understandability": ,
+        "interestingness": ,
+        "contextuality": ,
+        "naturalness": ,
+        "timeliness": ,
+        "repetitiveness": ,
+        "appropriateness": 
+      }
+    }
+  ]
+},
+{
+  "conversation_id": "",
+  "no_of_messages": 10,
+  "messages": [
+    {
+      "speaker": "A",
+      "text": "lol send me a tenner",
+      "timestamp": null,
+      "sacrifice": false,
+      "book_move": false,
+      "rubric": {
+        "understandability": ,
+        "interestingness": ,
+        "contextuality": ,
+        "naturalness": ,
+        "timeliness": ,
+        "repetitiveness": ,
+        "appropriateness": 
+      }
+    },
+    {
+      "speaker": "B",
+      "text": "😭😭😭😭😭",
+      "timestamp": null,
+      "sacrifice": false,
+      "book_move": false,
+      "rubric": {
+        "understandability": ,
+        "interestingness": ,
+        "contextuality": ,
+        "naturalness": ,
+        "timeliness": ,
+        "repetitiveness": ,
+        "appropriateness": 
+      }
+    },
+    {
+      "speaker": "B",
+      "text": "Don't think you're worth that just yet",
+      "timestamp": null,
+      "sacrifice": false,
+      "book_move": false,
+      "rubric": {
+        "understandability": ,
+        "interestingness": ,
+        "contextuality": ,
+        "naturalness": ,
+        "timeliness": ,
+        "repetitiveness": ,
+        "appropriateness": 
+      }
+    },
+    {
+      "speaker": "A",
+      "text": "oh",
+      "timestamp": null,
+      "sacrifice": false,
+      "book_move": false,
+      "rubric": {
+        "understandability": ,
+        "interestingness": ,
+        "contextuality": ,
+        "naturalness": ,
+        "timeliness": ,
+        "repetitiveness": ,
+        "appropriateness": 
+      }
+    },
+    {
+      "speaker": "A",
+      "text": "that's mean",
+      "timestamp": null,
+      "sacrifice": false,
+      "book_move": false,
+      "rubric": {
+        "understandability": ,
+        "interestingness": ,
+        "contextuality": ,
+        "naturalness": ,
+        "timeliness": ,
+        "repetitiveness": ,
+        "appropriateness": 
+      }
+    },
+    {
+      "speaker": "B",
+      "text": "Prove me wrong if you're bad then",
+      "timestamp": null,
+      "sacrifice": false,
+      "book_move": false,
+      "rubric": {
+        "understandability": ,
+        "interestingness": ,
+        "contextuality": ,
+        "naturalness": ,
+        "timeliness": ,
+        "repetitiveness": ,
+        "appropriateness": 
+      }
+    },
+    {
+      "speaker": "A",
+      "text": "i work when i'm paid",
+      "timestamp": null,
+      "sacrifice": false,
+      "book_move": false,
+      "rubric": {
+        "understandability": ,
+        "interestingness": ,
+        "contextuality": ,
+        "naturalness": ,
+        "timeliness": ,
+        "repetitiveness": ,
+        "appropriateness": 
+      }
+    },
+    {
+      "speaker": "B",
+      "text": "Guess I'll never see you work🤷🏾‍♂️",
+      "timestamp": null,
+      "sacrifice": false,
+      "book_move": false,
+      "rubric": {
+        "understandability": ,
+        "interestingness": ,
+        "contextuality": ,
+        "naturalness": ,
+        "timeliness": ,
+        "repetitiveness": ,
+        "appropriateness": 
+      }
+    },
+    {
+      "speaker": "A",
+      "text": "bye then",
+      "timestamp": null,
+      "sacrifice": false,
+      "book_move": false,
+      "rubric": {
+        "understandability": ,
+        "interestingness": ,
+        "contextuality": ,
+        "naturalness": ,
+        "timeliness": ,
+        "repetitiveness": ,
+        "appropriateness": 
+      }
+    },
+    {
+      "speaker": "B",
+      "text": "✌🏾",
+      "timestamp": null,
+      "sacrifice": false,
+      "book_move": false,
+      "rubric": {
+        "understandability": ,
+        "interestingness": ,
+        "contextuality": ,
+        "naturalness": ,
+        "timeliness": ,
+        "repetitiveness": ,
+        "appropriateness": 
+      }
+    }
+  ]
+},
+{
+  "conversation_id": "",
+  "no_of_messages": 7,
+  "messages": [
+    {
+      "speaker": "A",
+      "text": "Ok thanks for letting me know. Low-key confused but ok why sleepover and do all these things with me if u just want to be my friend. That's makes me feel used and I don't appreciate that.",
+      "timestamp": "2024-07-30T23:00:00Z",
+      "sacrifice": false,
+      "book_move": false,
+      "rubric": {
+        "understandability": ,
+        "interestingness": ,
+        "contextuality": ,
+        "naturalness": ,
+        "timeliness": ,
+        "repetitiveness": ,
+        "appropriateness": 
+      }
+    },
+    {
+      "speaker": "B",
+      "text": "Ig I slept over because you know I like doing things with you. Spending time and that shit. Defo cute. But ig I just don't have the head for a relationship just yet😖",
+      "timestamp": "2024-07-31T10:48:00Z",
+      "sacrifice": false,
+      "book_move": false,
+      "rubric": {
+        "understandability": ,
+        "interestingness": ,
+        "contextuality": ,
+        "naturalness": ,
+        "timeliness": ,
+        "repetitiveness": ,
+        "appropriateness": 
+      }
+    },
+    {
+      "speaker": "A",
+      "text": "I understand but like I told u from the beginning what I want and if u don't want that then like im good. I don't want to be someone's side hoe or whatever if u want to fuck other ppl then u can't have me. Plain and simple. Thx wasting my time✨🤟",
+      "timestamp": "2024-07-31T14:42:00Z",
+      "sacrifice": false,
+      "book_move": false,
+      "rubric": {
+        "understandability": ,
+        "interestingness": ,
+        "contextuality": ,
+        "naturalness": ,
+        "timeliness": ,
+        "repetitiveness": ,
+        "appropriateness": 
+      }
+    },
+    {
+      "speaker": "B",
+      "text": "Fairs honestly. I don't really want to be physical with anyone rn tho🫤",
+      "timestamp": "2024-07-31T14:48:00Z",
+      "sacrifice": false,
+      "book_move": false,
+      "rubric": {
+        "understandability": ,
+        "interestingness": ,
+        "contextuality": ,
+        "naturalness": ,
+        "timeliness": ,
+        "repetitiveness": ,
+        "appropriateness": 
+      }
+    },
+    {
+      "speaker": "A",
+      "text": "Like ok cool not really sure what u want me to say",
+      "timestamp": "2024-07-31T14:53:00Z",
+      "sacrifice": false,
+      "book_move": false,
+      "rubric": {
+        "understandability": ,
+        "interestingness": ,
+        "contextuality": ,
+        "naturalness": ,
+        "timeliness": ,
+        "repetitiveness": ,
+        "appropriateness": 
+      }
+    },
+    {
+      "speaker": "B",
+      "text": "Not really expecting much tbf. Just clarifying it ain't no side hoe ting",
+      "timestamp": "2024-07-31T14:57:00Z",
+      "sacrifice": false,
+      "book_move": false,
+      "rubric": {
+        "understandability": ,
+        "interestingness": ,
+        "contextuality": ,
+        "naturalness": ,
+        "timeliness": ,
+        "repetitiveness": ,
+        "appropriateness": 
+      }
+    },
+    {
+      "speaker": "A",
+      "text": "Mhm fs",
+      "timestamp": "2024-07-31T15:01:00Z",
+      "sacrifice": false,
+      "book_move": false,
+      "rubric": {
+        "understandability": ,
+        "interestingness": ,
+        "contextuality": ,
+        "naturalness": ,
+        "timeliness": ,
+        "repetitiveness": ,
+        "appropriateness": 
+      }
+    }
+  ]
+},
+{
+  "conversation_id": "",
+  "no_of_messages": 10,
+  "messages": [
+    {
+  "speaker": "A",
+  "text": "You reckon I get a reply this week?
+          🤓",
+  "timestamp": "2000-01-01T00:34:00Z",
+  "sacrifice": false,
+  "book_move": false,
+  "rubric": {
+    "understandability": ,
+    "interestingness": ,
+    "contextuality": ,
+    "naturalness": ,
+    "timeliness": ,
+    "repetitiveness": ,
+    "appropriateness": 
+  }
+},
+{
+  "speaker": "B",
+  "text": "no x",
+  "timestamp": "2000-01-01T18:06:00Z",
+  "sacrifice": false,
+  "book_move": false,
+  "rubric": {
+    "understandability": ,
+    "interestingness": ,
+    "contextuality": ,
+    "naturalness": ,
+    "timeliness": ,
+    "repetitiveness": ,
+    "appropriateness": 
+  }
+},
+{
+  "speaker": "B",
+  "text": "do u want to get a coffee this week",
+  "timestamp": "2000-01-01T18:06:00Z",
+  "sacrifice": false,
+  "book_move": false,
+  "rubric": {
+    "understandability": ,
+    "interestingness": ,
+    "contextuality": ,
+    "naturalness": ,
+    "timeliness": ,
+    "repetitiveness": ,
+    "appropriateness": 
+  }
+},
+{
+  "speaker": "A",
+  "text": "No.",
+  "in_reply_to": "do u want to get a coffee this week",
+  "timestamp": "2000-01-01T18:07:00Z",
+  "sacrifice": false,
+  "book_move": false,
+  "rubric": {
+    "understandability": ,
+    "interestingness": ,
+    "contextuality": ,
+    "naturalness": ,
+    "timeliness": ,
+    "repetitiveness": ,
+    "appropriateness": 
+  }
+},
+{
+  "speaker": "A",
+  "text": "Coffee is stinky",
+  "timestamp": "2000-01-01T18:08:00Z",
+  "sacrifice": false,
+  "book_move": false,
+  "rubric": {
+    "understandability": ,
+    "interestingness": ,
+    "contextuality": ,
+    "naturalness": ,
+    "timeliness": ,
+    "repetitiveness": ,
+    "appropriateness": 
+  }
+},
+{
+  "speaker": "A",
+  "text": "I'll watch you drink some tho🤓",
+  "timestamp": "2000-01-01T18:08:00Z",
+  "sacrifice": false,
+  "book_move": false,
+  "rubric": {
+    "understandability": ,
+    "interestingness": ,
+    "contextuality": ,
+    "naturalness": ,
+    "timeliness": ,
+    "repetitiveness": ,
+    "appropriateness": 
+  }
+},
+{
+  "speaker": "B",
+  "text": "we can chat somewhere else if u want i'm not bothered",
+  "timestamp": "2000-01-01T18:08:00Z",
+  "sacrifice": false,
+  "book_move": false,
+  "rubric": {
+    "understandability": ,
+    "interestingness": ,
+    "contextuality": ,
+    "naturalness": ,
+    "timeliness": ,
+    "repetitiveness": ,
+    "appropriateness": 
+  }
+},
+{
+  "speaker": "A",
+  "text": "Sounds scary 🥴",
+  "timestamp": "2000-01-01T18:09:00Z",
+  "sacrifice": false,
+  "book_move": false,
+  "rubric": {
+    "understandability": ,
+    "interestingness": ,
+    "contextuality": ,
+    "naturalness": ,
+    "timeliness": ,
+    "repetitiveness": ,
+    "appropriateness": 
+  }
+},
+{
+  "speaker": "A",
+  "text": "You decide I'll pull up",
+  "timestamp": "2000-01-01T18:09:00Z",
+  "sacrifice": false,
+  "book_move": false,
+  "rubric": {
+    "understandability": ,
+    "interestingness": ,
+    "contextuality": ,
+    "naturalness": ,
+    "timeliness": ,
+    "repetitiveness": ,
+    "appropriateness": 
+  }
+},
+{
+  "speaker": "B",
+  "text": "u should be",
+  "in_reply_to":"Sounds scary 🥴",
+  "timestamp": "2000-01-01T18:10:00Z",
+  "sacrifice": false,
+  "book_move": false,
+  "rubric": {
+    "understandability": ,
+    "interestingness": ,
+    "contextuality": ,
+    "naturalness": ,
+    "timeliness": ,
+    "repetitiveness": ,
+    "appropriateness": 
+  }
+}
+  ]
+}
+]
