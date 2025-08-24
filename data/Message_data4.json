@@ -12,13 +12,13 @@
         "rubric": [
           {
             "annotator_id": "ME",
-            "understandability": null,
-            "interestingness": null,
+            "understandability": 5,
+            "interestingness": 5,
             "contextuality": null,
-            "naturalness": null,
+            "naturalness": 5,
             "timeliness": null,
-            "repetitiveness": null,
-            "appropriateness": null
+            "repetitiveness": 5,
+            "appropriateness": 4
           },
           {
             "annotator_id": "JD",
@@ -41,13 +41,13 @@
         "rubric": [
           {
             "annotator_id": "ME",
-            "understandability": null,
-            "interestingness": null,
-            "contextuality": null,
-            "naturalness": null,
+            "understandability": 5,
+            "interestingness": 3,
+            "contextuality": 5,
+            "naturalness": 5,
             "timeliness": null,
-            "repetitiveness": null,
-            "appropriateness": null
+            "repetitiveness": 5,
+            "appropriateness": 3
           },
           {
             "annotator_id": "JD",
@@ -70,13 +70,13 @@
         "rubric": [
           {
             "annotator_id": "ME",
-            "understandability": null,
-            "interestingness": null,
-            "contextuality": null,
-            "naturalness": null,
+            "understandability": 5,
+            "interestingness": 3,
+            "contextuality": 5,
+            "naturalness": 5,
             "timeliness": null,
-            "repetitiveness": null,
-            "appropriateness": null
+            "repetitiveness": 5,
+            "appropriateness": 3
           },
           {
             "annotator_id": "JD",
@@ -99,13 +99,13 @@
         "rubric": [
           {
             "annotator_id": "ME",
-            "understandability": null,
-            "interestingness": null,
-            "contextuality": null,
-            "naturalness": null,
+            "understandability": 5,
+            "interestingness": 3,
+            "contextuality": 5,
+            "naturalness": 5,
             "timeliness": null,
-            "repetitiveness": null,
-            "appropriateness": null
+            "repetitiveness": 5,
+            "appropriateness": 4
           },
           {
             "annotator_id": "JD",
@@ -134,13 +134,13 @@
         "rubric": [
           {
             "annotator_id": "ME",
-            "understandability": null,
-            "interestingness": null,
+            "understandability": 5,
+            "interestingness": 4,
             "contextuality": null,
-            "naturalness": null,
+            "naturalness": 5,
             "timeliness": null,
-            "repetitiveness": null,
-            "appropriateness": null
+            "repetitiveness": 5,
+            "appropriateness": 3
           },
           {
             "annotator_id": "JD",
@@ -163,13 +163,13 @@
         "rubric": [
           {
             "annotator_id": "ME",
-            "understandability": null,
-            "interestingness": null,
-            "contextuality": null,
-            "naturalness": null,
+            "understandability": 5,
+            "interestingness": 3,
+            "contextuality": 5,
+            "naturalness": 5,
             "timeliness": null,
-            "repetitiveness": null,
-            "appropriateness": null
+            "repetitiveness": 5,
+            "appropriateness": 3
           },
           {
             "annotator_id": "JD",
@@ -192,13 +192,13 @@
         "rubric": [
           {
             "annotator_id": "ME",
-            "understandability": null,
-            "interestingness": null,
-            "contextuality": null,
-            "naturalness": null,
+            "understandability": 5,
+            "interestingness": 2,
+            "contextuality": 5,
+            "naturalness": 5,
             "timeliness": null,
-            "repetitiveness": null,
-            "appropriateness": null
+            "repetitiveness": 5,
+            "appropriateness": 3
           },
           {
             "annotator_id": "JD",
@@ -221,13 +221,13 @@
         "rubric": [
           {
             "annotator_id": "ME",
-            "understandability": null,
-            "interestingness": null,
-            "contextuality": null,
-            "naturalness": null,
+            "understandability": 5,
+            "interestingness": 3,
+            "contextuality": 5,
+            "naturalness": 5,
             "timeliness": null,
-            "repetitiveness": null,
-            "appropriateness": null
+            "repetitiveness": 5,
+            "appropriateness": 4
           },
           {
             "annotator_id": "JD",
@@ -250,13 +250,13 @@
         "rubric": [
           {
             "annotator_id": "ME",
-            "understandability": null,
-            "interestingness": null,
-            "contextuality": null,
-            "naturalness": null,
+            "understandability": 5,
+            "interestingness": 4,
+            "contextuality": 5,
+            "naturalness": 5,
             "timeliness": null,
-            "repetitiveness": null,
-            "appropriateness": null
+            "repetitiveness": 5,
+            "appropriateness": 3
           },
           {
             "annotator_id": "JD",
@@ -279,13 +279,13 @@
         "rubric": [
           {
             "annotator_id": "ME",
-            "understandability": null,
-            "interestingness": null,
-            "contextuality": null,
-            "naturalness": null,
+            "understandability": 5,
+            "interestingness": 3,
+            "contextuality": 5,
+            "naturalness": 5,
             "timeliness": null,
-            "repetitiveness": null,
-            "appropriateness": null
+            "repetitiveness": 5,
+            "appropriateness": 3
           },
           {
             "annotator_id": "JD",
@@ -308,13 +308,13 @@
         "rubric": [
           {
             "annotator_id": "ME",
-            "understandability": null,
-            "interestingness": null,
-            "contextuality": null,
-            "naturalness": null,
+            "understandability": 5,
+            "interestingness": 3,
+            "contextuality": 5,
+            "naturalness": 5,
             "timeliness": null,
-            "repetitiveness": null,
-            "appropriateness": null
+            "repetitiveness": 5,
+            "appropriateness": 3
           },
           {
             "annotator_id": "JD",
@@ -337,13 +337,13 @@
         "rubric": [
           {
             "annotator_id": "ME",
-            "understandability": null,
-            "interestingness": null,
-            "contextuality": null,
-            "naturalness": null,
+            "understandability": 5,
+            "interestingness": 3,
+            "contextuality": 5,
+            "naturalness": 5,
             "timeliness": null,
-            "repetitiveness": null,
-            "appropriateness": null
+            "repetitiveness": 5,
+            "appropriateness": 4
           },
           {
             "annotator_id": "JD",
@@ -366,13 +366,13 @@
         "rubric": [
           {
             "annotator_id": "ME",
-            "understandability": null,
-            "interestingness": null,
-            "contextuality": null,
-            "naturalness": null,
+            "understandability": 5,
+            "interestingness": 2,
+            "contextuality": 5,
+            "naturalness": 5,
             "timeliness": null,
-            "repetitiveness": null,
-            "appropriateness": null
+            "repetitiveness": 5,
+            "appropriateness": 3
           },
           {
             "annotator_id": "JD",
@@ -395,13 +395,13 @@
         "rubric": [
           {
             "annotator_id": "ME",
-            "understandability": null,
-            "interestingness": null,
-            "contextuality": null,
-            "naturalness": null,
+            "understandability": 5,
+            "interestingness": 4,
+            "contextuality": 5,
+            "naturalness": 5,
             "timeliness": null,
-            "repetitiveness": null,
-            "appropriateness": null
+            "repetitiveness": 5,
+            "appropriateness": 5
           },
           {
             "annotator_id": "JD",
@@ -424,13 +424,13 @@
         "rubric": [
           {
             "annotator_id": "ME",
-            "understandability": null,
-            "interestingness": null,
-            "contextuality": null,
-            "naturalness": null,
+            "understandability": 5,
+            "interestingness": 4,
+            "contextuality": 5,
+            "naturalness": 5,
             "timeliness": null,
-            "repetitiveness": null,
-            "appropriateness": null
+            "repetitiveness": 5,
+            "appropriateness": 3
           },
           {
             "annotator_id": "JD",
@@ -453,13 +453,13 @@
         "rubric": [
           {
             "annotator_id": "ME",
-            "understandability": null,
-            "interestingness": null,
-            "contextuality": null,
-            "naturalness": null,
+            "understandability": 5,
+            "interestingness": 4,
+            "contextuality": 5,
+            "naturalness": 5,
             "timeliness": null,
-            "repetitiveness": null,
-            "appropriateness": null
+            "repetitiveness": 5,
+            "appropriateness": 4
           },
           {
             "annotator_id": "JD",
@@ -482,13 +482,13 @@
         "rubric": [
           {
             "annotator_id": "ME",
-            "understandability": null,
-            "interestingness": null,
-            "contextuality": null,
-            "naturalness": null,
+            "understandability": 5,
+            "interestingness": 4,
+            "contextuality": 5,
+            "naturalness": 5,
             "timeliness": null,
-            "repetitiveness": null,
-            "appropriateness": null
+            "repetitiveness": 5,
+            "appropriateness": 2
           },
           {
             "annotator_id": "JD",
@@ -511,13 +511,13 @@
         "rubric": [
           {
             "annotator_id": "ME",
-            "understandability": null,
-            "interestingness": null,
-            "contextuality": null,
-            "naturalness": null,
+            "understandability": 5,
+            "interestingness": 4,
+            "contextuality": 5,
+            "naturalness": 5,
             "timeliness": null,
-            "repetitiveness": null,
-            "appropriateness": null
+            "repetitiveness": 5,
+            "appropriateness": 4
           },
           {
             "annotator_id": "JD",
@@ -540,13 +540,13 @@
         "rubric": [
           {
             "annotator_id": "ME",
-            "understandability": null,
-            "interestingness": null,
-            "contextuality": null,
-            "naturalness": null,
+            "understandability": 5,
+            "interestingness": 3,
+            "contextuality": 5,
+            "naturalness": 5,
             "timeliness": null,
-            "repetitiveness": null,
-            "appropriateness": null
+            "repetitiveness": 5,
+            "appropriateness": 3
           },
           {
             "annotator_id": "JD",
@@ -569,13 +569,13 @@
         "rubric": [
           {
             "annotator_id": "ME",
-            "understandability": null,
-            "interestingness": null,
-            "contextuality": null,
-            "naturalness": null,
+            "understandability": 5,
+            "interestingness": 3,
+            "contextuality": 5,
+            "naturalness": 5,
             "timeliness": null,
-            "repetitiveness": null,
-            "appropriateness": null
+            "repetitiveness": 5,
+            "appropriateness": 3
           },
           {
             "annotator_id": "JD",
@@ -604,13 +604,13 @@
         "rubric": [
           {
             "annotator_id": "ME",
-            "understandability": null,
-            "interestingness": null,
+            "understandability": 5,
+            "interestingness": 5,
             "contextuality": null,
-            "naturalness": null,
+            "naturalness": 5,
             "timeliness": null,
-            "repetitiveness": null,
-            "appropriateness": null
+            "repetitiveness": 5,
+            "appropriateness": 3
           },
           {
             "annotator_id": "JD",
@@ -633,13 +633,13 @@
         "rubric": [
           {
             "annotator_id": "ME",
-            "understandability": null,
-            "interestingness": null,
-            "contextuality": null,
-            "naturalness": null,
+            "understandability": 5,
+            "interestingness": 5,
+            "contextuality": 5,
+            "naturalness": 5,
             "timeliness": null,
-            "repetitiveness": null,
-            "appropriateness": null
+            "repetitiveness": 5,
+            "appropriateness": 5
           },
           {
             "annotator_id": "JD",
@@ -662,13 +662,13 @@
         "rubric": [
           {
             "annotator_id": "ME",
-            "understandability": null,
-            "interestingness": null,
-            "contextuality": null,
-            "naturalness": null,
+            "understandability": 5,
+            "interestingness": 3,
+            "contextuality": 5,
+            "naturalness": 5,
             "timeliness": null,
-            "repetitiveness": null,
-            "appropriateness": null
+            "repetitiveness": 5,
+            "appropriateness": 4
           },
           {
             "annotator_id": "JD",
@@ -697,13 +697,13 @@
         "rubric": [
           {
             "annotator_id": "ME",
-            "understandability": null,
-            "interestingness": null,
+            "understandability": 4,
+            "interestingness": 3,
             "contextuality": null,
-            "naturalness": null,
+            "naturalness": 5,
             "timeliness": null,
-            "repetitiveness": null,
-            "appropriateness": null
+            "repetitiveness": 5,
+            "appropriateness": 3
           },
           {
             "annotator_id": "JD",
@@ -726,13 +726,13 @@
         "rubric": [
           {
             "annotator_id": "ME",
-            "understandability": null,
-            "interestingness": null,
-            "contextuality": null,
-            "naturalness": null,
+            "understandability": 5,
+            "interestingness": 1,
+            "contextuality": 4,
+            "naturalness": 3,
             "timeliness": null,
-            "repetitiveness": null,
-            "appropriateness": null
+            "repetitiveness": 5,
+            "appropriateness": 3
           },
           {
             "annotator_id": "JD",
@@ -755,13 +755,13 @@
         "rubric": [
           {
             "annotator_id": "ME",
-            "understandability": null,
-            "interestingness": null,
-            "contextuality": null,
-            "naturalness": null,
-            "timeliness": null,
-            "repetitiveness": null,
-            "appropriateness": null
+            "understandability": 5,
+            "interestingness": 2,
+            "contextuality": 5,
+            "naturalness": 5,
+            "timeliness": 5,
+            "repetitiveness": 5,
+            "appropriateness": 3
           },
           {
             "annotator_id": "JD",
@@ -784,13 +784,13 @@
         "rubric": [
           {
             "annotator_id": "ME",
-            "understandability": null,
-            "interestingness": null,
-            "contextuality": null,
-            "naturalness": null,
-            "timeliness": null,
-            "repetitiveness": null,
-            "appropriateness": null
+            "understandability": 5,
+            "interestingness": 4,
+            "contextuality": 5,
+            "naturalness": 5,
+            "timeliness": 5,
+            "repetitiveness": 5,
+            "appropriateness": 2
           },
           {
             "annotator_id": "JD",
@@ -813,13 +813,13 @@
         "rubric": [
           {
             "annotator_id": "ME",
-            "understandability": null,
-            "interestingness": null,
-            "contextuality": null,
-            "naturalness": null,
+            "understandability": 5,
+            "interestingness": 1,
+            "contextuality": 5,
+            "naturalness": 5,
             "timeliness": null,
-            "repetitiveness": null,
-            "appropriateness": null
+            "repetitiveness": 5,
+            "appropriateness": 4
           },
           {
             "annotator_id": "JD",
@@ -842,13 +842,13 @@
         "rubric": [
           {
             "annotator_id": "ME",
-            "understandability": null,
-            "interestingness": null,
-            "contextuality": null,
-            "naturalness": null,
+            "understandability": 5,
+            "interestingness": 1,
+            "contextuality": 5,
+            "naturalness": 5,
             "timeliness": null,
-            "repetitiveness": null,
-            "appropriateness": null
+            "repetitiveness": 5,
+            "appropriateness": 3
           },
           {
             "annotator_id": "JD",
@@ -871,13 +871,13 @@
         "rubric": [
           {
             "annotator_id": "ME",
-            "understandability": null,
-            "interestingness": null,
-            "contextuality": null,
-            "naturalness": null,
+            "understandability": 4,
+            "interestingness": 4,
+            "contextuality": 5,
+            "naturalness": 5,
             "timeliness": null,
-            "repetitiveness": null,
-            "appropriateness": null
+            "repetitiveness": 5,
+            "appropriateness": 3
           },
           {
             "annotator_id": "JD",
@@ -906,13 +906,13 @@
         "rubric": [
           {
             "annotator_id": "ME",
-            "understandability": null,
-            "interestingness": null,
+            "understandability": 5,
+            "interestingness": 3,
             "contextuality": null,
-            "naturalness": null,
+            "naturalness": 5,
             "timeliness": null,
-            "repetitiveness": null,
-            "appropriateness": null
+            "repetitiveness": 5,
+            "appropriateness": 3
           },
           {
             "annotator_id": "JD",
@@ -935,13 +935,13 @@
         "rubric": [
           {
             "annotator_id": "ME",
-            "understandability": null,
-            "interestingness": null,
-            "contextuality": null,
-            "naturalness": null,
+            "understandability": 5,
+            "interestingness": 4,
+            "contextuality": 5,
+            "naturalness": 5,
             "timeliness": null,
-            "repetitiveness": null,
-            "appropriateness": null
+            "repetitiveness": 5,
+            "appropriateness": 3
           },
           {
             "annotator_id": "JD",
@@ -964,13 +964,13 @@
         "rubric": [
           {
             "annotator_id": "ME",
-            "understandability": null,
-            "interestingness": null,
-            "contextuality": null,
-            "naturalness": null,
+            "understandability": 5,
+            "interestingness": 3,
+            "contextuality": 5,
+            "naturalness": 5,
             "timeliness": null,
-            "repetitiveness": null,
-            "appropriateness": null
+            "repetitiveness": 5,
+            "appropriateness": 4
           },
           {
             "annotator_id": "JD",
@@ -993,13 +993,13 @@
         "rubric": [
           {
             "annotator_id": "ME",
-            "understandability": null,
-            "interestingness": null,
-            "contextuality": null,
-            "naturalness": null,
+            "understandability": 4,
+            "interestingness": 3,
+            "contextuality": 5,
+            "naturalness": 5,
             "timeliness": null,
-            "repetitiveness": null,
-            "appropriateness": null
+            "repetitiveness": 5,
+            "appropriateness": 3
           },
           {
             "annotator_id": "JD",
@@ -1022,13 +1022,13 @@
         "rubric": [
           {
             "annotator_id": "ME",
-            "understandability": null,
-            "interestingness": null,
-            "contextuality": null,
-            "naturalness": null,
+            "understandability": 5,
+            "interestingness": 4,
+            "contextuality": 5,
+            "naturalness": 5,
             "timeliness": null,
-            "repetitiveness": null,
-            "appropriateness": null
+            "repetitiveness": 5,
+            "appropriateness": 3
           },
           {
             "annotator_id": "JD",
@@ -1051,13 +1051,13 @@
         "rubric": [
           {
             "annotator_id": "ME",
-            "understandability": null,
-            "interestingness": null,
-            "contextuality": null,
-            "naturalness": null,
+            "understandability": 5,
+            "interestingness": 2,
+            "contextuality": 5,
+            "naturalness": 5,
             "timeliness": null,
-            "repetitiveness": null,
-            "appropriateness": null
+            "repetitiveness": 5,
+            "appropriateness": 3
           },
           {
             "annotator_id": "JD",
@@ -1086,13 +1086,13 @@
         "rubric": [
           {
             "annotator_id": "ME",
-            "understandability": null,
-            "interestingness": null,
+            "understandability": 5,
+            "interestingness": 4,
             "contextuality": null,
-            "naturalness": null,
+            "naturalness": 5,
             "timeliness": null,
-            "repetitiveness": null,
-            "appropriateness": null
+            "repetitiveness": 5,
+            "appropriateness": 3
           },
           {
             "annotator_id": "JD",
@@ -1115,13 +1115,13 @@
         "rubric": [
           {
             "annotator_id": "ME",
-            "understandability": null,
-            "interestingness": null,
-            "contextuality": null,
-            "naturalness": null,
+            "understandability": 5,
+            "interestingness": 4,
+            "contextuality": 5,
+            "naturalness": 5,
             "timeliness": null,
-            "repetitiveness": null,
-            "appropriateness": null
+            "repetitiveness": 5,
+            "appropriateness": 3
           },
           {
             "annotator_id": "JD",
@@ -1144,13 +1144,13 @@
         "rubric": [
           {
             "annotator_id": "ME",
-            "understandability": null,
-            "interestingness": null,
-            "contextuality": null,
-            "naturalness": null,
+            "understandability": 5,
+            "interestingness": 2,
+            "contextuality": 5,
+            "naturalness": 5,
             "timeliness": null,
-            "repetitiveness": null,
-            "appropriateness": null
+            "repetitiveness": 5,
+            "appropriateness": 3
           },
           {
             "annotator_id": "JD",
@@ -1173,13 +1173,13 @@
         "rubric": [
           {
             "annotator_id": "ME",
-            "understandability": null,
-            "interestingness": null,
-            "contextuality": null,
-            "naturalness": null,
+            "understandability": 5,
+            "interestingness": 3,
+            "contextuality": 5,
+            "naturalness": 5,
             "timeliness": null,
-            "repetitiveness": null,
-            "appropriateness": null
+            "repetitiveness": 5,
+            "appropriateness": 4
           },
           {
             "annotator_id": "JD",
@@ -1202,13 +1202,13 @@
         "rubric": [
           {
             "annotator_id": "ME",
-            "understandability": null,
-            "interestingness": null,
-            "contextuality": null,
-            "naturalness": null,
+            "understandability": 5,
+            "interestingness": 4,
+            "contextuality": 1,
+            "naturalness": 5,
             "timeliness": null,
-            "repetitiveness": null,
-            "appropriateness": null
+            "repetitiveness": 5,
+            "appropriateness": 1
           },
           {
             "annotator_id": "JD",
@@ -1237,13 +1237,13 @@
         "rubric": [
           {
             "annotator_id": "ME",
-            "understandability": null,
-            "interestingness": null,
+            "understandability": 5,
+            "interestingness": 2,
             "contextuality": null,
-            "naturalness": null,
+            "naturalness": 5,
             "timeliness": null,
-            "repetitiveness": null,
-            "appropriateness": null
+            "repetitiveness": 5,
+            "appropriateness": 3
           },
           {
             "annotator_id": "JD",
@@ -1266,13 +1266,13 @@
         "rubric": [
           {
             "annotator_id": "ME",
-            "understandability": null,
-            "interestingness": null,
-            "contextuality": null,
-            "naturalness": null,
+            "understandability": 5,
+            "interestingness": 4,
+            "contextuality": 5,
+            "naturalness": 5,
             "timeliness": null,
-            "repetitiveness": null,
-            "appropriateness": null
+            "repetitiveness": 5,
+            "appropriateness": 3
           },
           {
             "annotator_id": "JD",
@@ -1301,13 +1301,13 @@
         "rubric": [
           {
             "annotator_id": "ME",
-            "understandability": null,
-            "interestingness": null,
+            "understandability": 5,
+            "interestingness": 4,
             "contextuality": null,
-            "naturalness": null,
+            "naturalness": 5,
             "timeliness": null,
-            "repetitiveness": null,
-            "appropriateness": null
+            "repetitiveness": 5,
+            "appropriateness": 3
           },
           {
             "annotator_id": "JD",
@@ -1330,13 +1330,13 @@
         "rubric": [
           {
             "annotator_id": "ME",
-            "understandability": null,
-            "interestingness": null,
-            "contextuality": null,
-            "naturalness": null,
+            "understandability": 5,
+            "interestingness": 2,
+            "contextuality": 5,
+            "naturalness": 5,
             "timeliness": null,
-            "repetitiveness": null,
-            "appropriateness": null
+            "repetitiveness": 5,
+            "appropriateness": 3
           },
           {
             "annotator_id": "JD",
@@ -1359,13 +1359,13 @@
         "rubric": [
           {
             "annotator_id": "ME",
-            "understandability": null,
-            "interestingness": null,
-            "contextuality": null,
-            "naturalness": null,
+            "understandability": 5,
+            "interestingness": 2,
+            "contextuality": 5,
+            "naturalness": 5,
             "timeliness": null,
-            "repetitiveness": null,
-            "appropriateness": null
+            "repetitiveness": 5,
+            "appropriateness": 3
           },
           {
             "annotator_id": "JD",
@@ -1388,13 +1388,13 @@
         "rubric": [
           {
             "annotator_id": "ME",
-            "understandability": null,
-            "interestingness": null,
+            "understandability": 4,
+            "interestingness": 4,
             "contextuality": null,
-            "naturalness": null,
+            "naturalness": 4,
             "timeliness": null,
-            "repetitiveness": null,
-            "appropriateness": null
+            "repetitiveness": 5,
+            "appropriateness": 3
           },
           {
             "annotator_id": "JD",
@@ -1417,13 +1417,13 @@
         "rubric": [
           {
             "annotator_id": "ME",
-            "understandability": null,
-            "interestingness": null,
-            "contextuality": null,
-            "naturalness": null,
+            "understandability": 5,
+            "interestingness": 3,
+            "contextuality": 5,
+            "naturalness": 5,
             "timeliness": null,
-            "repetitiveness": null,
-            "appropriateness": null
+            "repetitiveness": 5,
+            "appropriateness": 3
           },
           {
             "annotator_id": "JD",
@@ -1446,13 +1446,13 @@
         "rubric": [
           {
             "annotator_id": "ME",
-            "understandability": null,
-            "interestingness": null,
-            "contextuality": null,
-            "naturalness": null,
+            "understandability": 5,
+            "interestingness": 2,
+            "contextuality": 5,
+            "naturalness": 5,
             "timeliness": null,
-            "repetitiveness": null,
-            "appropriateness": null
+            "repetitiveness": 5,
+            "appropriateness": 3
           },
           {
             "annotator_id": "JD",
@@ -1475,13 +1475,13 @@
         "rubric": [
           {
             "annotator_id": "ME",
-            "understandability": null,
-            "interestingness": null,
-            "contextuality": null,
-            "naturalness": null,
+            "understandability": 5,
+            "interestingness": 3,
+            "contextuality": 5,
+            "naturalness": 5,
             "timeliness": null,
-            "repetitiveness": null,
-            "appropriateness": null
+            "repetitiveness": 5,
+            "appropriateness": 3
           },
           {
             "annotator_id": "JD",
@@ -1504,13 +1504,13 @@
         "rubric": [
           {
             "annotator_id": "ME",
-            "understandability": null,
-            "interestingness": null,
-            "contextuality": null,
-            "naturalness": null,
+            "understandability": 5,
+            "interestingness": 3,
+            "contextuality": 5,
+            "naturalness": 5,
             "timeliness": null,
-            "repetitiveness": null,
-            "appropriateness": null
+            "repetitiveness": 5,
+            "appropriateness": 3
           },
           {
             "annotator_id": "JD",
@@ -1533,13 +1533,13 @@
         "rubric": [
           {
             "annotator_id": "ME",
-            "understandability": null,
-            "interestingness": null,
-            "contextuality": null,
-            "naturalness": null,
-            "timeliness": null,
-            "repetitiveness": null,
-            "appropriateness": null
+            "understandability": 5,
+            "interestingness": 2,
+            "contextuality": 5,
+            "naturalness": 5,
+            "timeliness": 2,
+            "repetitiveness": 5,
+            "appropriateness": 3
           },
           {
             "annotator_id": "JD",
@@ -1562,13 +1562,13 @@
         "rubric": [
           {
             "annotator_id": "ME",
-            "understandability": null,
-            "interestingness": null,
-            "contextuality": null,
-            "naturalness": null,
-            "timeliness": null,
-            "repetitiveness": null,
-            "appropriateness": null
+            "understandability": 5,
+            "interestingness": 2,
+            "contextuality": 5,
+            "naturalness": 5,
+            "timeliness": 2,
+            "repetitiveness": 5,
+            "appropriateness": 4
           },
           {
             "annotator_id": "JD",
@@ -1591,13 +1591,13 @@
         "rubric": [
           {
             "annotator_id": "ME",
-            "understandability": null,
-            "interestingness": null,
-            "contextuality": null,
-            "naturalness": null,
-            "timeliness": null,
-            "repetitiveness": null,
-            "appropriateness": null
+            "understandability": 5,
+            "interestingness": 2,
+            "contextuality": 5,
+            "naturalness": 5,
+            "timeliness": 2,
+            "repetitiveness": 5,
+            "appropriateness": 4
           },
           {
             "annotator_id": "JD",
@@ -1626,13 +1626,13 @@
         "rubric": [
           {
             "annotator_id": "ME",
-            "understandability": null,
-            "interestingness": null,
+            "understandability": 5,
+            "interestingness": 3,
             "contextuality": null,
-            "naturalness": null,
+            "naturalness": 5,
             "timeliness": null,
-            "repetitiveness": null,
-            "appropriateness": null
+            "repetitiveness": 5,
+            "appropriateness": 3
           },
           {
             "annotator_id": "JD",
@@ -1655,13 +1655,13 @@
         "rubric": [
           {
             "annotator_id": "ME",
-            "understandability": null,
-            "interestingness": null,
-            "contextuality": null,
-            "naturalness": null,
+            "understandability": 5,
+            "interestingness": 2,
+            "contextuality": 5,
+            "naturalness": 5,
             "timeliness": null,
-            "repetitiveness": null,
-            "appropriateness": null
+            "repetitiveness": 5,
+            "appropriateness": 3
           },
           {
             "annotator_id": "JD",
@@ -1684,13 +1684,13 @@
         "rubric": [
           {
             "annotator_id": "ME",
-            "understandability": null,
-            "interestingness": null,
-            "contextuality": null,
-            "naturalness": null,
+            "understandability": 5,
+            "interestingness": 2,
+            "contextuality": 5,
+            "naturalness": 5,
             "timeliness": null,
-            "repetitiveness": null,
-            "appropriateness": null
+            "repetitiveness": 5,
+            "appropriateness": 3
           },
           {
             "annotator_id": "JD",
@@ -1713,13 +1713,13 @@
         "rubric": [
           {
             "annotator_id": "ME",
-            "understandability": null,
-            "interestingness": null,
-            "contextuality": null,
-            "naturalness": null,
+            "understandability": 5,
+            "interestingness": 4,
+            "contextuality": 5,
+            "naturalness": 5,
             "timeliness": null,
-            "repetitiveness": null,
-            "appropriateness": null
+            "repetitiveness": 5,
+            "appropriateness": 2
           },
           {
             "annotator_id": "JD",
@@ -1748,13 +1748,13 @@
         "rubric": [
           {
             "annotator_id": "ME",
-            "understandability": null,
-            "interestingness": null,
+            "understandability": 5,
+            "interestingness": 1,
             "contextuality": null,
-            "naturalness": null,
+            "naturalness": 5,
             "timeliness": null,
-            "repetitiveness": null,
-            "appropriateness": null
+            "repetitiveness": 5,
+            "appropriateness": 3
           },
           {
             "annotator_id": "JD",
@@ -1777,13 +1777,13 @@
         "rubric": [
           {
             "annotator_id": "ME",
-            "understandability": null,
-            "interestingness": null,
-            "contextuality": null,
-            "naturalness": null,
+            "understandability": 5,
+            "interestingness": 1,
+            "contextuality": 5,
+            "naturalness": 5,
             "timeliness": null,
-            "repetitiveness": null,
-            "appropriateness": null
+            "repetitiveness": 5,
+            "appropriateness": 3
           },
           {
             "annotator_id": "JD",
@@ -1806,13 +1806,13 @@
         "rubric": [
           {
             "annotator_id": "ME",
-            "understandability": null,
-            "interestingness": null,
-            "contextuality": null,
-            "naturalness": null,
+            "understandability": 5,
+            "interestingness": 1,
+            "contextuality": 5,
+            "naturalness": 5,
             "timeliness": null,
-            "repetitiveness": null,
-            "appropriateness": null
+            "repetitiveness": 1,
+            "appropriateness": 3
           },
           {
             "annotator_id": "JD",
@@ -1835,13 +1835,13 @@
         "rubric": [
           {
             "annotator_id": "ME",
-            "understandability": null,
-            "interestingness": null,
-            "contextuality": null,
-            "naturalness": null,
+            "understandability": 5,
+            "interestingness": 1,
+            "contextuality": 5,
+            "naturalness": 5,
             "timeliness": null,
-            "repetitiveness": null,
-            "appropriateness": null
+            "repetitiveness": 1,
+            "appropriateness": 3
           },
           {
             "annotator_id": "JD",
@@ -1864,13 +1864,13 @@
         "rubric": [
           {
             "annotator_id": "ME",
-            "understandability": null,
-            "interestingness": null,
-            "contextuality": null,
-            "naturalness": null,
+            "understandability": 5,
+            "interestingness": 1,
+            "contextuality": 5,
+            "naturalness": 5,
             "timeliness": null,
-            "repetitiveness": null,
-            "appropriateness": null
+            "repetitiveness": 5,
+            "appropriateness": 3
           },
           {
             "annotator_id": "JD",
@@ -1893,13 +1893,13 @@
         "rubric": [
           {
             "annotator_id": "ME",
-            "understandability": null,
-            "interestingness": null,
-            "contextuality": null,
-            "naturalness": null,
+            "understandability": 5,
+            "interestingness": 1,
+            "contextuality": 5,
+            "naturalness": 5,
             "timeliness": null,
-            "repetitiveness": null,
-            "appropriateness": null
+            "repetitiveness": 5,
+            "appropriateness": 3
           },
           {
             "annotator_id": "JD",
@@ -1922,13 +1922,13 @@
         "rubric": [
           {
             "annotator_id": "ME",
-            "understandability": null,
-            "interestingness": null,
-            "contextuality": null,
-            "naturalness": null,
+            "understandability": 5,
+            "interestingness": 3,
+            "contextuality": 5,
+            "naturalness": 3,
             "timeliness": null,
-            "repetitiveness": null,
-            "appropriateness": null
+            "repetitiveness": 5,
+            "appropriateness": 3
           },
           {
             "annotator_id": "JD",
@@ -1951,13 +1951,13 @@
         "rubric": [
           {
             "annotator_id": "ME",
-            "understandability": null,
-            "interestingness": null,
-            "contextuality": null,
-            "naturalness": null,
+            "understandability": 5,
+            "interestingness": 2,
+            "contextuality": 5,
+            "naturalness": 5,
             "timeliness": null,
-            "repetitiveness": null,
-            "appropriateness": null
+            "repetitiveness": 5,
+            "appropriateness": 3
           },
           {
             "annotator_id": "JD",
@@ -1980,13 +1980,13 @@
         "rubric": [
           {
             "annotator_id": "ME",
-            "understandability": null,
-            "interestingness": null,
-            "contextuality": null,
-            "naturalness": null,
+            "understandability": 5,
+            "interestingness": 2,
+            "contextuality": 5,
+            "naturalness": 5,
             "timeliness": null,
-            "repetitiveness": null,
-            "appropriateness": null
+            "repetitiveness": 5,
+            "appropriateness": 3
           },
           {
             "annotator_id": "JD",
@@ -2009,13 +2009,13 @@
         "rubric": [
           {
             "annotator_id": "ME",
-            "understandability": null,
-            "interestingness": null,
-            "contextuality": null,
-            "naturalness": null,
+            "understandability": 5,
+            "interestingness": 1,
+            "contextuality": 5,
+            "naturalness": 5,
             "timeliness": null,
-            "repetitiveness": null,
-            "appropriateness": null
+            "repetitiveness": 5,
+            "appropriateness": 3
           },
           {
             "annotator_id": "JD",
@@ -2038,13 +2038,13 @@
         "rubric": [
           {
             "annotator_id": "ME",
-            "understandability": null,
-            "interestingness": null,
-            "contextuality": null,
-            "naturalness": null,
+            "understandability": 5,
+            "interestingness": 1,
+            "contextuality": 5,
+            "naturalness": 5,
             "timeliness": null,
-            "repetitiveness": null,
-            "appropriateness": null
+            "repetitiveness": 5,
+            "appropriateness": 3
           },
           {
             "annotator_id": "JD",
@@ -2073,13 +2073,13 @@
         "rubric": [
           {
             "annotator_id": "ME",
-            "understandability": null,
-            "interestingness": null,
+            "understandability": 5,
+            "interestingness": 4,
             "contextuality": null,
-            "naturalness": null,
+            "naturalness": 5,
             "timeliness": null,
-            "repetitiveness": null,
-            "appropriateness": null
+            "repetitiveness": 5,
+            "appropriateness": 3
           },
           {
             "annotator_id": "JD",
@@ -2102,13 +2102,13 @@
         "rubric": [
           {
             "annotator_id": "ME",
-            "understandability": null,
-            "interestingness": null,
-            "contextuality": null,
-            "naturalness": null,
+            "understandability": 5,
+            "interestingness": 4,
+            "contextuality": 5,
+            "naturalness": 5,
             "timeliness": null,
-            "repetitiveness": null,
-            "appropriateness": null
+            "repetitiveness": 5,
+            "appropriateness": 4
           },
           {
             "annotator_id": "JD",
@@ -2131,13 +2131,13 @@
         "rubric": [
           {
             "annotator_id": "ME",
-            "understandability": null,
-            "interestingness": null,
-            "contextuality": null,
-            "naturalness": null,
-            "timeliness": null,
-            "repetitiveness": null,
-            "appropriateness": null
+            "understandability": 5,
+            "interestingness": 2,
+            "contextuality": 5,
+            "naturalness": 5,
+            "timeliness": 1,
+            "repetitiveness": 5,
+            "appropriateness": 3
           },
           {
             "annotator_id": "JD",
@@ -2160,13 +2160,13 @@
         "rubric": [
           {
             "annotator_id": "ME",
-            "understandability": null,
-            "interestingness": null,
-            "contextuality": null,
-            "naturalness": null,
-            "timeliness": null,
-            "repetitiveness": null,
-            "appropriateness": null
+            "understandability": 5,
+            "interestingness": 3,
+            "contextuality": 5,
+            "naturalness": 5,
+            "timeliness": 1,
+            "repetitiveness": 5,
+            "appropriateness": 4
           },
           {
             "annotator_id": "JD",
@@ -2189,13 +2189,13 @@
         "rubric": [
           {
             "annotator_id": "ME",
-            "understandability": null,
-            "interestingness": null,
-            "contextuality": null,
-            "naturalness": null,
-            "timeliness": null,
-            "repetitiveness": null,
-            "appropriateness": null
+            "understandability": 5,
+            "interestingness": 1,
+            "contextuality": 5,
+            "naturalness": 5,
+            "timeliness": 2,
+            "repetitiveness": 5,
+            "appropriateness": 3
           },
           {
             "annotator_id": "JD",
@@ -2218,13 +2218,13 @@
         "rubric": [
           {
             "annotator_id": "ME",
-            "understandability": null,
-            "interestingness": null,
-            "contextuality": null,
-            "naturalness": null,
+            "understandability": 5,
+            "interestingness": 4,
+            "contextuality": 5,
+            "naturalness": 5,
             "timeliness": null,
-            "repetitiveness": null,
-            "appropriateness": null
+            "repetitiveness": 5,
+            "appropriateness": 1
           },
           {
             "annotator_id": "JD",
@@ -2247,13 +2247,13 @@
         "rubric": [
           {
             "annotator_id": "ME",
-            "understandability": null,
-            "interestingness": null,
-            "contextuality": null,
-            "naturalness": null,
+            "understandability": 5,
+            "interestingness": 3,
+            "contextuality": 5,
+            "naturalness": 5,
             "timeliness": null,
-            "repetitiveness": null,
-            "appropriateness": null
+            "repetitiveness": 5,
+            "appropriateness": 3
           },
           {
             "annotator_id": "JD",
@@ -2282,13 +2282,13 @@
         "rubric": [
           {
             "annotator_id": "ME",
-            "understandability": null,
-            "interestingness": null,
+            "understandability": 5,
+            "interestingness": 4,
             "contextuality": null,
-            "naturalness": null,
+            "naturalness": 5,
             "timeliness": null,
-            "repetitiveness": null,
-            "appropriateness": null
+            "repetitiveness": 5,
+            "appropriateness": 3
           },
           {
             "annotator_id": "JD",
@@ -2311,13 +2311,13 @@
         "rubric": [
           {
             "annotator_id": "ME",
-            "understandability": null,
-            "interestingness": null,
-            "contextuality": null,
-            "naturalness": null,
-            "timeliness": null,
-            "repetitiveness": null,
-            "appropriateness": null
+            "understandability": 5,
+            "interestingness": 4,
+            "contextuality": 5,
+            "naturalness": 5,
+            "timeliness": 4,
+            "repetitiveness": 5,
+            "appropriateness": 2
           },
           {
             "annotator_id": "JD",
@@ -2340,13 +2340,13 @@
         "rubric": [
           {
             "annotator_id": "ME",
-            "understandability": null,
-            "interestingness": null,
-            "contextuality": null,
-            "naturalness": null,
-            "timeliness": null,
-            "repetitiveness": null,
-            "appropriateness": null
+            "understandability": 5,
+            "interestingness": 4,
+            "contextuality": 5,
+            "naturalness": 5,
+            "timeliness": 4,
+            "repetitiveness": 5,
+            "appropriateness": 3
           },
           {
             "annotator_id": "JD",
@@ -2369,13 +2369,13 @@
         "rubric": [
           {
             "annotator_id": "ME",
-            "understandability": null,
-            "interestingness": null,
-            "contextuality": null,
-            "naturalness": null,
-            "timeliness": null,
-            "repetitiveness": null,
-            "appropriateness": null
+            "understandability": 5,
+            "interestingness": 3,
+            "contextuality": 5,
+            "naturalness": 5,
+            "timeliness": 5,
+            "repetitiveness": 5,
+            "appropriateness": 3
           },
           {
             "annotator_id": "JD",
@@ -2404,13 +2404,13 @@
         "rubric": [
           {
             "annotator_id": "ME",
-            "understandability": null,
-            "interestingness": null,
+            "understandability": 5,
+            "interestingness": 3,
             "contextuality": null,
-            "naturalness": null,
+            "naturalness": 5,
             "timeliness": null,
-            "repetitiveness": null,
-            "appropriateness": null
+            "repetitiveness": 5,
+            "appropriateness": 4
           },
           {
             "annotator_id": "JD",
@@ -2433,13 +2433,13 @@
         "rubric": [
           {
             "annotator_id": "ME",
-            "understandability": null,
-            "interestingness": null,
-            "contextuality": null,
-            "naturalness": null,
+            "understandability": 5,
+            "interestingness": 3,
+            "contextuality": 5,
+            "naturalness": 5,
             "timeliness": null,
-            "repetitiveness": null,
-            "appropriateness": null
+            "repetitiveness": 5,
+            "appropriateness": 4
           },
           {
             "annotator_id": "JD",
@@ -2462,13 +2462,13 @@
         "rubric": [
           {
             "annotator_id": "ME",
-            "understandability": null,
-            "interestingness": null,
-            "contextuality": null,
-            "naturalness": null,
+            "understandability": 5,
+            "interestingness": 3,
+            "contextuality": 5,
+            "naturalness": 5,
             "timeliness": null,
-            "repetitiveness": null,
-            "appropriateness": null
+            "repetitiveness": 5,
+            "appropriateness": 4
           },
           {
             "annotator_id": "JD",
@@ -2491,13 +2491,13 @@
         "rubric": [
           {
             "annotator_id": "ME",
-            "understandability": null,
-            "interestingness": null,
-            "contextuality": null,
-            "naturalness": null,
+            "understandability": 5,
+            "interestingness": 3,
+            "contextuality": 5,
+            "naturalness": 5,
             "timeliness": null,
-            "repetitiveness": null,
-            "appropriateness": null
+            "repetitiveness": 5,
+            "appropriateness": 4
           },
           {
             "annotator_id": "JD",
@@ -2520,13 +2520,13 @@
         "rubric": [
           {
             "annotator_id": "ME",
-            "understandability": null,
-            "interestingness": null,
-            "contextuality": null,
-            "naturalness": null,
+            "understandability": 5,
+            "interestingness": 3,
+            "contextuality": 5,
+            "naturalness": 5,
             "timeliness": null,
-            "repetitiveness": null,
-            "appropriateness": null
+            "repetitiveness": 5,
+            "appropriateness": 5
           },
           {
             "annotator_id": "JD",
@@ -2549,13 +2549,13 @@
         "rubric": [
           {
             "annotator_id": "ME",
-            "understandability": null,
-            "interestingness": null,
-            "contextuality": null,
-            "naturalness": null,
+            "understandability": 5,
+            "interestingness": 2,
+            "contextuality": 5,
+            "naturalness": 5,
             "timeliness": null,
-            "repetitiveness": null,
-            "appropriateness": null
+            "repetitiveness": 5,
+            "appropriateness": 3
           },
           {
             "annotator_id": "JD",
@@ -2584,13 +2584,13 @@
         "rubric": [
           {
             "annotator_id": "ME",
-            "understandability": null,
-            "interestingness": null,
+            "understandability": 5,
+            "interestingness": 3,
             "contextuality": null,
-            "naturalness": null,
+            "naturalness": 5,
             "timeliness": null,
-            "repetitiveness": null,
-            "appropriateness": null
+            "repetitiveness": 5,
+            "appropriateness": 3
           },
           {
             "annotator_id": "JD",
@@ -2613,13 +2613,13 @@
         "rubric": [
           {
             "annotator_id": "ME",
-            "understandability": null,
-            "interestingness": null,
-            "contextuality": null,
-            "naturalness": null,
+            "understandability": 4,
+            "interestingness": 3,
+            "contextuality": 5,
+            "naturalness": 5,
             "timeliness": null,
-            "repetitiveness": null,
-            "appropriateness": null
+            "repetitiveness": 5,
+            "appropriateness": 3
           },
           {
             "annotator_id": "JD",
@@ -2642,13 +2642,13 @@
         "rubric": [
           {
             "annotator_id": "ME",
-            "understandability": null,
-            "interestingness": null,
-            "contextuality": null,
-            "naturalness": null,
+            "understandability": 5,
+            "interestingness": 2,
+            "contextuality": 5,
+            "naturalness": 5,
             "timeliness": null,
-            "repetitiveness": null,
-            "appropriateness": null
+            "repetitiveness": 5,
+            "appropriateness": 3
           },
           {
             "annotator_id": "JD",
@@ -2671,13 +2671,13 @@
         "rubric": [
           {
             "annotator_id": "ME",
-            "understandability": null,
-            "interestingness": null,
-            "contextuality": null,
-            "naturalness": null,
+            "understandability": 5,
+            "interestingness": 2,
+            "contextuality": 5,
+            "naturalness": 5,
             "timeliness": null,
-            "repetitiveness": null,
-            "appropriateness": null
+            "repetitiveness": 5,
+            "appropriateness": 3
           },
           {
             "annotator_id": "JD",
@@ -2700,13 +2700,13 @@
         "rubric": [
           {
             "annotator_id": "ME",
-            "understandability": null,
-            "interestingness": null,
-            "contextuality": null,
-            "naturalness": null,
+            "understandability": 5,
+            "interestingness": 3,
+            "contextuality": 5,
+            "naturalness": 5,
             "timeliness": null,
-            "repetitiveness": null,
-            "appropriateness": null
+            "repetitiveness": 5,
+            "appropriateness": 3
           },
           {
             "annotator_id": "JD",
@@ -2729,13 +2729,13 @@
         "rubric": [
           {
             "annotator_id": "ME",
-            "understandability": null,
-            "interestingness": null,
-            "contextuality": null,
-            "naturalness": null,
+            "understandability": 5,
+            "interestingness": 4,
+            "contextuality": 5,
+            "naturalness": 5,
             "timeliness": null,
-            "repetitiveness": null,
-            "appropriateness": null
+            "repetitiveness": 5,
+            "appropriateness": 3
           },
           {
             "annotator_id": "JD",
@@ -2758,13 +2758,13 @@
         "rubric": [
           {
             "annotator_id": "ME",
-            "understandability": null,
-            "interestingness": null,
-            "contextuality": null,
-            "naturalness": null,
+            "understandability": 5,
+            "interestingness": 3,
+            "contextuality": 5,
+            "naturalness": 5,
             "timeliness": null,
-            "repetitiveness": null,
-            "appropriateness": null
+            "repetitiveness": 5,
+            "appropriateness": 4
           },
           {
             "annotator_id": "JD",
@@ -2787,13 +2787,13 @@
         "rubric": [
           {
             "annotator_id": "ME",
-            "understandability": null,
-            "interestingness": null,
-            "contextuality": null,
-            "naturalness": null,
+            "understandability": 5,
+            "interestingness": 3,
+            "contextuality": 5,
+            "naturalness": 5,
             "timeliness": null,
-            "repetitiveness": null,
-            "appropriateness": null
+            "repetitiveness": 5,
+            "appropriateness": 4
           },
           {
             "annotator_id": "JD",
@@ -2816,13 +2816,13 @@
         "rubric": [
           {
             "annotator_id": "ME",
-            "understandability": null,
-            "interestingness": null,
-            "contextuality": null,
-            "naturalness": null,
+            "understandability": 5,
+            "interestingness": 3,
+            "contextuality": 5,
+            "naturalness": 5,
             "timeliness": null,
-            "repetitiveness": null,
-            "appropriateness": null
+            "repetitiveness": 5,
+            "appropriateness": 5
           },
           {
             "annotator_id": "JD",
@@ -2845,13 +2845,13 @@
         "rubric": [
           {
             "annotator_id": "ME",
-            "understandability": null,
-            "interestingness": null,
-            "contextuality": null,
-            "naturalness": null,
+            "understandability": 5,
+            "interestingness": 2,
+            "contextuality": 5,
+            "naturalness": 5,
             "timeliness": null,
-            "repetitiveness": null,
-            "appropriateness": null
+            "repetitiveness": 5,
+            "appropriateness": 3
           },
           {
             "annotator_id": "JD",
@@ -2874,13 +2874,13 @@
         "rubric": [
           {
             "annotator_id": "ME",
-            "understandability": null,
-            "interestingness": null,
-            "contextuality": null,
-            "naturalness": null,
+            "understandability": 5,
+            "interestingness": 3,
+            "contextuality": 5,
+            "naturalness": 5,
             "timeliness": null,
-            "repetitiveness": null,
-            "appropriateness": null
+            "repetitiveness": 5,
+            "appropriateness": 3
           },
           {
             "annotator_id": "JD",
@@ -2909,13 +2909,13 @@
         "rubric": [
           {
             "annotator_id": "ME",
-            "understandability": null,
-            "interestingness": null,
+            "understandability": 5,
+            "interestingness": 4,
             "contextuality": null,
-            "naturalness": null,
+            "naturalness": 5,
             "timeliness": null,
-            "repetitiveness": null,
-            "appropriateness": null
+            "repetitiveness": 5,
+            "appropriateness": 4
           },
           {
             "annotator_id": "JD",
@@ -2938,13 +2938,13 @@
         "rubric": [
           {
             "annotator_id": "ME",
-            "understandability": null,
-            "interestingness": null,
-            "contextuality": null,
-            "naturalness": null,
+            "understandability": 5,
+            "interestingness": 2,
+            "contextuality": 5,
+            "naturalness": 5,
             "timeliness": null,
-            "repetitiveness": null,
-            "appropriateness": null
+            "repetitiveness": 5,
+            "appropriateness": 3
           },
           {
             "annotator_id": "JD",
@@ -2967,13 +2967,13 @@
         "rubric": [
           {
             "annotator_id": "ME",
-            "understandability": null,
-            "interestingness": null,
-            "contextuality": null,
-            "naturalness": null,
+            "understandability": 5,
+            "interestingness": 3,
+            "contextuality": 5,
+            "naturalness": 5,
             "timeliness": null,
-            "repetitiveness": null,
-            "appropriateness": null
+            "repetitiveness": 5,
+            "appropriateness": 4
           },
           {
             "annotator_id": "JD",
@@ -2996,13 +2996,13 @@
         "rubric": [
           {
             "annotator_id": "ME",
-            "understandability": null,
-            "interestingness": null,
-            "contextuality": null,
-            "naturalness": null,
+            "understandability": 5,
+            "interestingness": 4,
+            "contextuality": 5,
+            "naturalness": 5,
             "timeliness": null,
-            "repetitiveness": null,
-            "appropriateness": null
+            "repetitiveness": 5,
+            "appropriateness": 1
           },
           {
             "annotator_id": "JD",
@@ -3031,13 +3031,13 @@
         "rubric": [
           {
             "annotator_id": "ME",
-            "understandability": null,
-            "interestingness": null,
+            "understandability": 5,
+            "interestingness": 2,
             "contextuality": null,
-            "naturalness": null,
+            "naturalness": 5,
             "timeliness": null,
-            "repetitiveness": null,
-            "appropriateness": null
+            "repetitiveness": 5,
+            "appropriateness": 3
           },
           {
             "annotator_id": "JD",
@@ -3060,13 +3060,13 @@
         "rubric": [
           {
             "annotator_id": "ME",
-            "understandability": null,
-            "interestingness": null,
-            "contextuality": null,
-            "naturalness": null,
+            "understandability": 5,
+            "interestingness": 4,
+            "contextuality": 5,
+            "naturalness": 5,
             "timeliness": null,
-            "repetitiveness": null,
-            "appropriateness": null
+            "repetitiveness": 5,
+            "appropriateness": 2
           },
           {
             "annotator_id": "JD",
@@ -3089,13 +3089,13 @@
         "rubric": [
           {
             "annotator_id": "ME",
-            "understandability": null,
-            "interestingness": null,
-            "contextuality": null,
-            "naturalness": null,
+            "understandability": 5,
+            "interestingness": 4,
+            "contextuality": 5,
+            "naturalness": 5,
             "timeliness": null,
-            "repetitiveness": null,
-            "appropriateness": null
+            "repetitiveness": 5,
+            "appropriateness": 5
           },
           {
             "annotator_id": "JD",
@@ -3118,13 +3118,13 @@
         "rubric": [
           {
             "annotator_id": "ME",
-            "understandability": null,
-            "interestingness": null,
-            "contextuality": null,
-            "naturalness": null,
+            "understandability": 5,
+            "interestingness": 1,
+            "contextuality": 5,
+            "naturalness": 5,
             "timeliness": null,
-            "repetitiveness": null,
-            "appropriateness": null
+            "repetitiveness": 5,
+            "appropriateness": 3
           },
           {
             "annotator_id": "JD",
@@ -3147,13 +3147,13 @@
         "rubric": [
           {
             "annotator_id": "ME",
-            "understandability": null,
-            "interestingness": null,
-            "contextuality": null,
-            "naturalness": null,
+            "understandability": 5,
+            "interestingness": 4,
+            "contextuality": 5,
+            "naturalness": 5,
             "timeliness": null,
-            "repetitiveness": null,
-            "appropriateness": null
+            "repetitiveness": 5,
+            "appropriateness": 5
           },
           {
             "annotator_id": "JD",
@@ -3182,13 +3182,13 @@
         "rubric": [
           {
             "annotator_id": "ME",
-            "understandability": null,
-            "interestingness": null,
-            "contextuality": null,
-            "naturalness": null,
+            "understandability": 5,
+            "interestingness": 4,
+            "contextuality": 5,
+            "naturalness": 5,
             "timeliness": null,
-            "repetitiveness": null,
-            "appropriateness": null
+            "repetitiveness": 5,
+            "appropriateness": 2
           },
           {
             "annotator_id": "JD",
@@ -3211,13 +3211,13 @@
         "rubric": [
           {
             "annotator_id": "ME",
-            "understandability": null,
-            "interestingness": null,
-            "contextuality": null,
-            "naturalness": null,
+            "understandability": 5,
+            "interestingness": 3,
+            "contextuality": 5,
+            "naturalness": 5,
             "timeliness": null,
-            "repetitiveness": null,
-            "appropriateness": null
+            "repetitiveness": 5,
+            "appropriateness": 3
           },
           {
             "annotator_id": "JD",
@@ -3240,13 +3240,13 @@
         "rubric": [
           {
             "annotator_id": "ME",
-            "understandability": null,
-            "interestingness": null,
-            "contextuality": null,
-            "naturalness": null,
+            "understandability": 5,
+            "interestingness": 4,
+            "contextuality": 5,
+            "naturalness": 5,
             "timeliness": null,
-            "repetitiveness": null,
-            "appropriateness": null
+            "repetitiveness": 5,
+            "appropriateness": 5
           },
           {
             "annotator_id": "JD",
@@ -3269,13 +3269,13 @@
         "rubric": [
           {
             "annotator_id": "ME",
-            "understandability": null,
-            "interestingness": null,
-            "contextuality": null,
-            "naturalness": null,
-            "timeliness": null,
-            "repetitiveness": null,
-            "appropriateness": null
+            "understandability": 5,
+            "interestingness": 4,
+            "contextuality": 5,
+            "naturalness": 5,
+            "timeliness": 2,
+            "repetitiveness": 5,
+            "appropriateness": 4
           },
           {
             "annotator_id": "JD",
@@ -3298,13 +3298,13 @@
         "rubric": [
           {
             "annotator_id": "ME",
-            "understandability": null,
-            "interestingness": null,
-            "contextuality": null,
-            "naturalness": null,
-            "timeliness": null,
-            "repetitiveness": null,
-            "appropriateness": null
+            "understandability": 5,
+            "interestingness": 3,
+            "contextuality": 5,
+            "naturalness": 5,
+            "timeliness": 4,
+            "repetitiveness": 5,
+            "appropriateness": 4
           },
           {
             "annotator_id": "JD",
@@ -3327,13 +3327,13 @@
         "rubric": [
           {
             "annotator_id": "ME",
-            "understandability": null,
-            "interestingness": null,
-            "contextuality": null,
-            "naturalness": null,
+            "understandability": 5,
+            "interestingness": 2,
+            "contextuality": 5,
+            "naturalness": 5,
             "timeliness": null,
-            "repetitiveness": null,
-            "appropriateness": null
+            "repetitiveness": 5,
+            "appropriateness": 3
           },
           {
             "annotator_id": "JD",
@@ -3356,13 +3356,13 @@
         "rubric": [
           {
             "annotator_id": "ME",
-            "understandability": null,
-            "interestingness": null,
-            "contextuality": null,
-            "naturalness": null,
+            "understandability": 5,
+            "interestingness": 4,
+            "contextuality": 5,
+            "naturalness": 5,
             "timeliness": null,
-            "repetitiveness": null,
-            "appropriateness": null
+            "repetitiveness": 5,
+            "appropriateness": 4
           },
           {
             "annotator_id": "JD",
@@ -3385,13 +3385,13 @@
         "rubric": [
           {
             "annotator_id": "ME",
-            "understandability": null,
-            "interestingness": null,
-            "contextuality": null,
-            "naturalness": null,
+            "understandability": 5,
+            "interestingness": 2,
+            "contextuality": 5,
+            "naturalness": 5,
             "timeliness": null,
-            "repetitiveness": null,
-            "appropriateness": null
+            "repetitiveness": 5,
+            "appropriateness": 3
           },
           {
             "annotator_id": "JD",
