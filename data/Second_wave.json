@@ -9,13 +9,13 @@
       "sacrifice": false,
       "book_move": false,
       "rubric": {
-        "understandability": ,
-        "interestingness": ,
-        "contextuality": ,
-        "naturalness": ,
-        "timeliness": ,
-        "repetitiveness": ,
-        "appropriateness": 
+        "understandability": 5,
+        "interestingness": 4,
+        "contextuality": null,
+        "naturalness": 5,
+        "timeliness": null,
+        "repetitiveness": null,
+        "appropriateness": 3
       }
     },
     {
@@ -26,13 +26,13 @@
       "sacrifice": false,
       "book_move": false,
       "rubric": {
-        "understandability": ,
-        "interestingness": ,
-        "contextuality": ,
-        "naturalness": ,
-        "timeliness": ,
-        "repetitiveness": ,
-        "appropriateness": 
+        "understandability": 5,
+        "interestingness": 1,
+        "contextuality": 5,
+        "naturalness": 5,
+        "timeliness": 5,
+        "repetitiveness": 5,
+        "appropriateness": 3
       }
     },
     {
@@ -43,13 +43,13 @@
       "sacrifice": false,
       "book_move": false,
       "rubric": {
-        "understandability": ,
-        "interestingness": ,
-        "contextuality": ,
-        "naturalness": ,
-        "timeliness": ,
-        "repetitiveness": ,
-        "appropriateness": 
+        "understandability": 5,
+        "interestingness": 2,
+        "contextuality": 5,
+        "naturalness": 5,
+        "timeliness": 5,
+        "repetitiveness": 5,
+        "appropriateness": 3
       }
     },
     {
@@ -59,13 +59,13 @@
       "sacrifice": false,
       "book_move": false,
       "rubric": {
-        "understandability": ,
-        "interestingness": ,
-        "contextuality": ,
-        "naturalness": ,
-        "timeliness": ,
-        "repetitiveness": ,
-        "appropriateness": 
+        "understandability": 5,
+        "interestingness": 2,
+        "contextuality": 5,
+        "naturalness": 5,
+        "timeliness": 5,
+        "repetitiveness": 5,
+        "appropriateness": 3
       }
     },
     {
@@ -75,13 +75,13 @@
       "sacrifice": false,
       "book_move": false,
       "rubric": {
-        "understandability": ,
-        "interestingness": ,
-        "contextuality": ,
-        "naturalness": ,
-        "timeliness": ,
-        "repetitiveness": ,
-        "appropriateness": 
+        "understandability": 5,
+        "interestingness": 3,
+        "contextuality": 5,
+        "naturalness": 5,
+        "timeliness": 5,
+        "repetitiveness": 5,
+        "appropriateness": 3
       }
     },
     {
@@ -91,13 +91,13 @@
       "sacrifice": false,
       "book_move": false,
       "rubric": {
-        "understandability": ,
-        "interestingness": ,
-        "contextuality": ,
-        "naturalness": ,
-        "timeliness": ,
-        "repetitiveness": ,
-        "appropriateness": 
+        "understandability": 5,
+        "interestingness": 2,
+        "contextuality": 5,
+        "naturalness": 5,
+        "timeliness": 5,
+        "repetitiveness": 5,
+        "appropriateness": 4
       }
     },
     {
@@ -107,13 +107,13 @@
       "sacrifice": false,
       "book_move": false,
       "rubric": {
-        "understandability": ,
-        "interestingness": ,
-        "contextuality": ,
-        "naturalness": ,
-        "timeliness": ,
-        "repetitiveness": ,
-        "appropriateness": 
+        "understandability": 5,
+        "interestingness": 4,
+        "contextuality": 5,
+        "naturalness": 5,
+        "timeliness": 5,
+        "repetitiveness": 5,
+        "appropriateness": 5
       }
     }
   ]
@@ -129,13 +129,13 @@
       "sacrifice": false,
       "book_move": false,
       "rubric": {
-        "understandability": ,
-        "interestingness": ,
-        "contextuality": ,
-        "naturalness": ,
-        "timeliness": ,
-        "repetitiveness": ,
-        "appropriateness": 
+        "understandability": 5,
+        "interestingness": 1,
+        "contextuality": null,
+        "naturalness": 5,
+        "timeliness": null,
+        "repetitiveness": null,
+        "appropriateness": 3
       }
     },
     {
@@ -145,13 +145,13 @@
       "sacrifice": false,
       "book_move": false,
       "rubric": {
-        "understandability": ,
-        "interestingness": ,
-        "contextuality": ,
-        "naturalness": ,
-        "timeliness": ,
-        "repetitiveness": ,
-        "appropriateness": 
+        "understandability": 5,
+        "interestingness": 3,
+        "contextuality": 5,
+        "naturalness": 5,
+        "timeliness": null,
+        "repetitiveness": 5,
+        "appropriateness": 3
       }
     },
     {
@@ -161,13 +161,13 @@
       "sacrifice": false,
       "book_move": false,
       "rubric": {
-        "understandability": ,
-        "interestingness": ,
-        "contextuality": ,
-        "naturalness": ,
-        "timeliness": ,
-        "repetitiveness": ,
-        "appropriateness": 
+        "understandability": 5,
+        "interestingness": 3,
+        "contextuality": 5,
+        "naturalness": 5,
+        "timeliness": 5,
+        "repetitiveness": 5,
+        "appropriateness": 3
       }
     },
     {
@@ -177,13 +177,13 @@
       "sacrifice": false,
       "book_move": false,
       "rubric": {
-        "understandability": ,
-        "interestingness": ,
-        "contextuality": ,
-        "naturalness": ,
-        "timeliness": ,
-        "repetitiveness": ,
-        "appropriateness": 
+        "understandability": 5,
+        "interestingness": 1,
+        "contextuality": 5,
+        "naturalness": 5,
+        "timeliness": 5,
+        "repetitiveness": 5,
+        "appropriateness": 3
       }
     },
     {
@@ -193,13 +193,13 @@
       "sacrifice": false,
       "book_move": false,
       "rubric": {
-        "understandability": ,
-        "interestingness": ,
-        "contextuality": ,
-        "naturalness": ,
-        "timeliness": ,
-        "repetitiveness": ,
-        "appropriateness": 
+        "understandability": 5,
+        "interestingness": 3,
+        "contextuality": 5,
+        "naturalness": 5,
+        "timeliness": 5,
+        "repetitiveness": 5,
+        "appropriateness": 3
       }
     },
     {
@@ -210,13 +210,13 @@
       "sacrifice": false,
       "book_move": false,
       "rubric": {
-        "understandability": ,
-        "interestingness": ,
-        "contextuality": ,
-        "naturalness": ,
-        "timeliness": ,
-        "repetitiveness": ,
-        "appropriateness": 
+        "understandability": 5,
+        "interestingness": 4,
+        "contextuality": 5,
+        "naturalness": 5,
+        "timeliness": 5,
+        "repetitiveness": 5,
+        "appropriateness": 3
       }
     },
     {
@@ -227,13 +227,13 @@
       "sacrifice": false,
       "book_move": false,
       "rubric": {
-        "understandability": ,
-        "interestingness": ,
-        "contextuality": ,
-        "naturalness": ,
-        "timeliness": ,
-        "repetitiveness": ,
-        "appropriateness": 
+        "understandability": 5,
+        "interestingness": 4,
+        "contextuality": 5,
+        "naturalness": 5,
+        "timeliness": 5,
+        "repetitiveness": 5,
+        "appropriateness": 4
       }
     },
     {
@@ -243,13 +243,13 @@
       "sacrifice": false,
       "book_move": false,
       "rubric": {
-        "understandability": ,
-        "interestingness": ,
-        "contextuality": ,
-        "naturalness": ,
-        "timeliness": ,
-        "repetitiveness": ,
-        "appropriateness": 
+        "understandability": 5,
+        "interestingness": 4,
+        "contextuality": 5,
+        "naturalness": 5,
+        "timeliness": 5,
+        "repetitiveness": 5,
+        "appropriateness": 3
       }
     },
     {
@@ -259,13 +259,13 @@
       "sacrifice": false,
       "book_move": false,
       "rubric": {
-        "understandability": ,
-        "interestingness": ,
-        "contextuality": ,
-        "naturalness": ,
-        "timeliness": ,
-        "repetitiveness": ,
-        "appropriateness": 
+        "understandability": 5,
+        "interestingness": 3,
+        "contextuality": 5,
+        "naturalness": 5,
+        "timeliness": 5,
+        "repetitiveness": 5,
+        "appropriateness": 4
       }
     },
     {
@@ -275,13 +275,13 @@
       "sacrifice": false,
       "book_move": false,
       "rubric": {
-        "understandability": ,
-        "interestingness": ,
-        "contextuality": ,
-        "naturalness": ,
-        "timeliness": ,
-        "repetitiveness": ,
-        "appropriateness": 
+        "understandability": 5,
+        "interestingness": 3,
+        "contextuality": 5,
+        "naturalness": 5,
+        "timeliness": 5,
+        "repetitiveness": 5,
+        "appropriateness": 3
       }
     },
     {
@@ -291,30 +291,30 @@
       "sacrifice": false,
       "book_move": false,
       "rubric": {
-        "understandability": ,
-        "interestingness": ,
-        "contextuality": ,
-        "naturalness": ,
-        "timeliness": ,
-        "repetitiveness": ,
-        "appropriateness": 
+        "understandability": 5,
+        "interestingness": 4,
+        "contextuality": 5,
+        "naturalness": 5,
+        "timeliness": 5,
+        "repetitiveness": 5,
+        "appropriateness": 3
       }
     },
     {
       "speaker": "B",
       "text": "To?",
       "in_reply_to": "do u feel like travelling",
-      "timestamp": null,
+      "timestamp": "2024-01-20T04:01:00Z",
       "sacrifice": false,
       "book_move": false,
       "rubric": {
-        "understandability": ,
-        "interestingness": ,
-        "contextuality": ,
-        "naturalness": ,
-        "timeliness": ,
-        "repetitiveness": ,
-        "appropriateness": 
+        "understandability": 5,
+        "interestingness": 1,
+        "contextuality": 5,
+        "naturalness": 5,
+        "timeliness": 5,
+        "repetitiveness": 5,
+        "appropriateness": 3
       }
     },
     {
@@ -324,13 +324,13 @@
       "sacrifice": false,
       "book_move": false,
       "rubric": {
-        "understandability": ,
-        "interestingness": ,
-        "contextuality": ,
-        "naturalness": ,
-        "timeliness": ,
-        "repetitiveness": ,
-        "appropriateness": 
+        "understandability": 5,
+        "interestingness": 2,
+        "contextuality": 5,
+        "naturalness": 5,
+        "timeliness": 5,
+        "repetitiveness": 5,
+        "appropriateness": 3
       }
     },
     {
@@ -340,13 +340,13 @@
       "sacrifice": false,
       "book_move": false,
       "rubric": {
-        "understandability": ,
-        "interestingness": ,
-        "contextuality": ,
-        "naturalness": ,
-        "timeliness": ,
-        "repetitiveness": ,
-        "appropriateness": 
+        "understandability": 5,
+        "interestingness": 4,
+        "contextuality": 5,
+        "naturalness": 5,
+        "timeliness": 5,
+        "repetitiveness": 5,
+        "appropriateness": 4
       }
     },
     {
@@ -357,13 +357,13 @@
       "sacrifice": false,
       "book_move": false,
       "rubric": {
-        "understandability": ,
-        "interestingness": ,
-        "contextuality": ,
-        "naturalness": ,
-        "timeliness": ,
-        "repetitiveness": ,
-        "appropriateness": 
+        "understandability": 5,
+        "interestingness": 2,
+        "contextuality": 5,
+        "naturalness": 5,
+        "timeliness": 5,
+        "repetitiveness": 5,
+        "appropriateness": 3
       }
     },
     {
@@ -373,13 +373,13 @@
       "sacrifice": false,
       "book_move": false,
       "rubric": {
-        "understandability": ,
-        "interestingness": ,
-        "contextuality": ,
-        "naturalness": ,
-        "timeliness": ,
-        "repetitiveness": ,
-        "appropriateness": 
+        "understandability": 5,
+        "interestingness": 4,
+        "contextuality": 5,
+        "naturalness": 5,
+        "timeliness": 5,
+        "repetitiveness": 5,
+        "appropriateness": 3
       }
     },
     {
@@ -389,13 +389,13 @@
       "sacrifice": false,
       "book_move": false,
       "rubric": {
-        "understandability": ,
-        "interestingness": ,
-        "contextuality": ,
-        "naturalness": ,
-        "timeliness": ,
-        "repetitiveness": ,
-        "appropriateness": 
+        "understandability": 5,
+        "interestingness": 3,
+        "contextuality": 5,
+        "naturalness": 5,
+        "timeliness": 5,
+        "repetitiveness": 5,
+        "appropriateness": 2
       }
     },
     {
@@ -405,13 +405,13 @@
       "sacrifice": false,
       "book_move": false,
       "rubric": {
-        "understandability": ,
-        "interestingness": ,
-        "contextuality": ,
-        "naturalness": ,
-        "timeliness": ,
-        "repetitiveness": ,
-        "appropriateness": 
+        "understandability": 5,
+        "interestingness": 3,
+        "contextuality": 5,
+        "naturalness": 5,
+        "timeliness": 5,
+        "repetitiveness": 5,
+        "appropriateness": 3
       }
     },
     {
@@ -421,13 +421,13 @@
       "sacrifice": false,
       "book_move": false,
       "rubric": {
-        "understandability": ,
-        "interestingness": ,
-        "contextuality": ,
-        "naturalness": ,
-        "timeliness": ,
-        "repetitiveness": ,
-        "appropriateness": 
+        "understandability": 5,
+        "interestingness": 3,
+        "contextuality": 5,
+        "naturalness": 5,
+        "timeliness": 5,
+        "repetitiveness": 5,
+        "appropriateness": 3
       }
     },
     {
@@ -438,13 +438,13 @@
       "sacrifice": false,
       "book_move": false,
       "rubric": {
-        "understandability": ,
-        "interestingness": ,
-        "contextuality": ,
-        "naturalness": ,
-        "timeliness": ,
-        "repetitiveness": ,
-        "appropriateness": 
+        "understandability": 5,
+        "interestingness": 3,
+        "contextuality": 5,
+        "naturalness": 5,
+        "timeliness": 5,
+        "repetitiveness": 5,
+        "appropriateness": 3
       }
     },
     {
@@ -454,13 +454,13 @@
       "sacrifice": false,
       "book_move": false,
       "rubric": {
-        "understandability": ,
-        "interestingness": ,
-        "contextuality": ,
-        "naturalness": ,
-        "timeliness": ,
-        "repetitiveness": ,
-        "appropriateness": 
+        "understandability": 5,
+        "interestingness": 3,
+        "contextuality": 5,
+        "naturalness": 5,
+        "timeliness": 5,
+        "repetitiveness": 5,
+        "appropriateness": 4
       }
     },
     {
@@ -470,13 +470,13 @@
       "sacrifice": false,
       "book_move": false,
       "rubric": {
-        "understandability": ,
-        "interestingness": ,
-        "contextuality": ,
-        "naturalness": ,
-        "timeliness": ,
-        "repetitiveness": ,
-        "appropriateness": 
+        "understandability": 5,
+        "interestingness": 3,
+        "contextuality": 5,
+        "naturalness": 5,
+        "timeliness": 5,
+        "repetitiveness": 5,
+        "appropriateness": 5
       }
     }
   ]
@@ -492,13 +492,13 @@
         "sacrifice": false,
         "book_move": false,
         "rubric": {
-            "understandability": ,
-            "interestingness": ,
-            "contextuality": ,
-            "naturalness": ,
-            "timeliness": ,
-            "repetitiveness": ,
-            "appropriateness": 
+            "understandability": 5,
+            "interestingness": 4,
+            "contextuality": null,
+            "naturalness": 5,
+            "timeliness": null,
+            "repetitiveness": 5,
+            "appropriateness": 3
             }
         },
     {
@@ -508,13 +508,13 @@
     "sacrifice": false,
     "book_move": false,
     "rubric": {
-        "understandability": ,
-        "interestingness": ,
-        "contextuality": ,
-        "naturalness": ,
-        "timeliness": ,
-        "repetitiveness": ,
-        "appropriateness": 
+        "understandability": 5,
+        "interestingness": 5,
+        "contextuality": 5,
+        "naturalness": 5,
+        "timeliness": null,
+        "repetitiveness": 5,
+        "appropriateness": 4
     }
     },
     {
@@ -524,13 +524,13 @@
       "sacrifice": false,
       "book_move": false,
       "rubric": {
-        "understandability": ,
-        "interestingness": ,
-        "contextuality": ,
-        "naturalness": ,
-        "timeliness": ,
-        "repetitiveness": ,
-        "appropriateness": 
+        "understandability": 5,
+        "interestingness": 1,
+        "contextuality": 5,
+        "naturalness": 5,
+        "timeliness": 5,
+        "repetitiveness": 5,
+        "appropriateness": 3
       }
     },
     {
@@ -540,13 +540,13 @@
       "sacrifice": false,
       "book_move": false,
       "rubric": {
-        "understandability": ,
-        "interestingness": ,
-        "contextuality": ,
-        "naturalness": ,
-        "timeliness": ,
-        "repetitiveness": ,
-        "appropriateness": 
+        "understandability": 5,
+        "interestingness": 3,
+        "contextuality": 5,
+        "naturalness": 5,
+        "timeliness": 5,
+        "repetitiveness": 5,
+        "appropriateness": 4
       }
     },
     {
@@ -556,13 +556,13 @@
       "sacrifice": false,
       "book_move": false,
       "rubric": {
-        "understandability": ,
-        "interestingness": ,
-        "contextuality": ,
-        "naturalness": ,
-        "timeliness": ,
-        "repetitiveness": ,
-        "appropriateness": 
+        "understandability": 5,
+        "interestingness": 3,
+        "contextuality": 5,
+        "naturalness": 5,
+        "timeliness": 5,
+        "repetitiveness": 5,
+        "appropriateness": 4
       }
     },
     {
@@ -572,13 +572,13 @@
     "sacrifice": false,
     "book_move": false,
     "rubric": {
-        "understandability": ,
-        "interestingness": ,
-        "contextuality": ,
-        "naturalness": ,
-        "timeliness": ,
-        "repetitiveness": ,
-        "appropriateness": 
+        "understandability": 5,
+        "interestingness": 2,
+        "contextuality": 5,
+        "naturalness": 5,
+        "timeliness": 5,
+        "repetitiveness": 5,
+        "appropriateness": 3
         }
     },
     {
@@ -588,13 +588,13 @@
       "sacrifice": false,
       "book_move": false,
       "rubric": {
-        "understandability": ,
-        "interestingness": ,
-        "contextuality": ,
-        "naturalness": ,
-        "timeliness": ,
-        "repetitiveness": ,
-        "appropriateness": 
+        "understandability": 5,
+        "interestingness": 3,
+        "contextuality": 5,
+        "naturalness": 5,
+        "timeliness": 5,
+        "repetitiveness": 5,
+        "appropriateness": 4
       }
     },
     {
@@ -604,13 +604,13 @@
       "sacrifice": false,
       "book_move": false,
       "rubric": {
-        "understandability": ,
-        "interestingness": ,
-        "contextuality": ,
-        "naturalness": ,
-        "timeliness": ,
-        "repetitiveness": ,
-        "appropriateness": 
+        "understandability": 5,
+        "interestingness": 3,
+        "contextuality": 5,
+        "naturalness": 5,
+        "timeliness": 5,
+        "repetitiveness": 5,
+        "appropriateness": 5
       }
     },
     {
@@ -620,13 +620,13 @@
       "sacrifice": false,
       "book_move": false,
       "rubric": {
-        "understandability": ,
-        "interestingness": ,
-        "contextuality": ,
-        "naturalness": ,
-        "timeliness": ,
-        "repetitiveness": ,
-        "appropriateness": 
+        "understandability": 5,
+        "interestingness": 4,
+        "contextuality": 5,
+        "naturalness": 5,
+        "timeliness": 5,
+        "repetitiveness": 5,
+        "appropriateness": 3
       }
     },
     {
@@ -636,13 +636,13 @@
       "sacrifice": false,
       "book_move": false,
       "rubric": {
-        "understandability": ,
-        "interestingness": ,
-        "contextuality": ,
-        "naturalness": ,
-        "timeliness": ,
-        "repetitiveness": ,
-        "appropriateness": 
+        "understandability": 5,
+        "interestingness": 4,
+        "contextuality": 3,
+        "naturalness": 5,
+        "timeliness": 5,
+        "repetitiveness": 5,
+        "appropriateness": 3
       }
     },
     {
@@ -652,13 +652,13 @@
       "sacrifice": false,
       "book_move": false,
       "rubric": {
-        "understandability": ,
-        "interestingness": ,
-        "contextuality": ,
-        "naturalness": ,
-        "timeliness": ,
-        "repetitiveness": ,
-        "appropriateness": 
+        "understandability": 5,
+        "interestingness": 3,
+        "contextuality": 5,
+        "naturalness": 5,
+        "timeliness": 5,
+        "repetitiveness": 5,
+        "appropriateness": 5
       }
     },
     {
@@ -668,13 +668,13 @@
       "sacrifice": false,
       "book_move": false,
       "rubric": {
-        "understandability": ,
-        "interestingness": ,
-        "contextuality": ,
-        "naturalness": ,
-        "timeliness": ,
-        "repetitiveness": ,
-        "appropriateness": 
+        "understandability": 5,
+        "interestingness": 4,
+        "contextuality": 5,
+        "naturalness": 5,
+        "timeliness": 5,
+        "repetitiveness": 5,
+        "appropriateness": 5
       }
     },
     {
@@ -684,13 +684,13 @@
       "sacrifice": false,
       "book_move": false,
       "rubric": {
-        "understandability": ,
-        "interestingness": ,
-        "contextuality": ,
-        "naturalness": ,
-        "timeliness": ,
-        "repetitiveness": ,
-        "appropriateness": 
+        "understandability": 5,
+        "interestingness": 3,
+        "contextuality": 5,
+        "naturalness": 5,
+        "timeliness": 5,
+        "repetitiveness": 5,
+        "appropriateness":5 
       }
     },
     {
@@ -700,13 +700,13 @@
       "sacrifice": false,
       "book_move": false,
       "rubric": {
-        "understandability": ,
-        "interestingness": ,
-        "contextuality": ,
-        "naturalness": ,
-        "timeliness": ,
-        "repetitiveness": ,
-        "appropriateness": 
+        "understandability": 5,
+        "interestingness": 5,
+        "contextuality": 5,
+        "naturalness": 5,
+        "timeliness": 5,
+        "repetitiveness": 5,
+        "appropriateness": 3
       }
     }
 ]
@@ -722,13 +722,13 @@
       "sacrifice": false,
       "book_move": false,
       "rubric": {
-        "understandability": ,
-        "interestingness": ,
-        "contextuality": ,
-        "naturalness": ,
-        "timeliness": ,
-        "repetitiveness": ,
-        "appropriateness": 
+        "understandability": 5,
+        "interestingness": 4,
+        "contextuality": null,
+        "naturalness": 5,
+        "timeliness": null,
+        "repetitiveness": null,
+        "appropriateness": 3
       }
     },
     {
@@ -739,13 +739,13 @@
       "sacrifice": false,
       "book_move": false,
       "rubric": {
-        "understandability": ,
-        "interestingness": ,
-        "contextuality": ,
-        "naturalness": ,
-        "timeliness": ,
-        "repetitiveness": ,
-        "appropriateness": 
+        "understandability": 5,
+        "interestingness": 4,
+        "contextuality": 5,
+        "naturalness": 5,
+        "timeliness": 5,
+        "repetitiveness": 5,
+        "appropriateness": 4
       }
     },
     {
@@ -755,13 +755,13 @@
       "sacrifice": false,
       "book_move": false,
       "rubric": {
-        "understandability": ,
-        "interestingness": ,
-        "contextuality": ,
-        "naturalness": ,
-        "timeliness": ,
-        "repetitiveness": ,
-        "appropriateness": 
+        "understandability": 5,
+        "interestingness": 4,
+        "contextuality": 5,
+        "naturalness": 5,
+        "timeliness": 5,
+        "repetitiveness": 5,
+        "appropriateness": 3
       }
     },
     {
@@ -771,13 +771,13 @@
       "sacrifice": false,
       "book_move": false,
       "rubric": {
-        "understandability": ,
-        "interestingness": ,
-        "contextuality": ,
-        "naturalness": ,
-        "timeliness": ,
-        "repetitiveness": ,
-        "appropriateness": 
+        "understandability": 5,
+        "interestingness": 3,
+        "contextuality": 5,
+        "naturalness": 5,
+        "timeliness": 5,
+        "repetitiveness": 5,
+        "appropriateness": 3
       }
     },
     {
@@ -788,13 +788,13 @@
       "sacrifice": false,
       "book_move": false,
       "rubric": {
-        "understandability": ,
-        "interestingness": ,
-        "contextuality": ,
-        "naturalness": ,
-        "timeliness": ,
-        "repetitiveness": ,
-        "appropriateness": 
+        "understandability": 5,
+        "interestingness": 3,
+        "contextuality": 5,
+        "naturalness": 5,
+        "timeliness": 5,
+        "repetitiveness": 5,
+        "appropriateness": 3
       }
     },
     {
@@ -804,13 +804,13 @@
       "sacrifice": false,
       "book_move": false,
       "rubric": {
-        "understandability": ,
-        "interestingness": ,
-        "contextuality": ,
-        "naturalness": ,
-        "timeliness": ,
-        "repetitiveness": ,
-        "appropriateness": 
+        "understandability": 5,
+        "interestingness": 2,
+        "contextuality": 5,
+        "naturalness": 5,
+        "timeliness": 5,
+        "repetitiveness": 5,
+        "appropriateness": 3
       }
     },
     {
@@ -820,13 +820,13 @@
       "sacrifice": false,
       "book_move": false,
       "rubric": {
-        "understandability": ,
-        "interestingness": ,
-        "contextuality": ,
-        "naturalness": ,
-        "timeliness": ,
-        "repetitiveness": ,
-        "appropriateness": 
+        "understandability": 5,
+        "interestingness": 4,
+        "contextuality": 5,
+        "naturalness": 5,
+        "timeliness": 5,
+        "repetitiveness": 5,
+        "appropriateness": 3
       }
     },
     {
@@ -836,13 +836,13 @@
       "sacrifice": false,
       "book_move": false,
       "rubric": {
-        "understandability": ,
-        "interestingness": ,
-        "contextuality": ,
-        "naturalness": ,
-        "timeliness": ,
-        "repetitiveness": ,
-        "appropriateness": 
+        "understandability": 5,
+        "interestingness": 3,
+        "contextuality": 5,
+        "naturalness": 5,
+        "timeliness": 5,
+        "repetitiveness": 5,
+        "appropriateness": 3
       }
     },
     {
@@ -853,13 +853,13 @@
       "sacrifice": false,
       "book_move": false,
       "rubric": {
-        "understandability": ,
-        "interestingness": ,
-        "contextuality": ,
-        "naturalness": ,
-        "timeliness": ,
-        "repetitiveness": ,
-        "appropriateness": 
+        "understandability": 5,
+        "interestingness": 3,
+        "contextuality": 5,
+        "naturalness": 5,
+        "timeliness": 5,
+        "repetitiveness": 5,
+        "appropriateness": 3
       }
     },
     {
@@ -869,13 +869,13 @@
       "sacrifice": false,
       "book_move": false,
       "rubric": {
-        "understandability": ,
-        "interestingness": ,
-        "contextuality": ,
-        "naturalness": ,
-        "timeliness": ,
-        "repetitiveness": ,
-        "appropriateness": 
+        "understandability": 5,
+        "interestingness": 3,
+        "contextuality": 5,
+        "naturalness": 5,
+        "timeliness": 5,
+        "repetitiveness": 5,
+        "appropriateness": 3
       }
     },
     {
@@ -885,13 +885,13 @@
       "sacrifice": false,
       "book_move": false,
       "rubric": {
-        "understandability": ,
-        "interestingness": ,
-        "contextuality": ,
-        "naturalness": ,
-        "timeliness": ,
-        "repetitiveness": ,
-        "appropriateness": 
+        "understandability": 5,
+        "interestingness": 3,
+        "contextuality": 5,
+        "naturalness": 5,
+        "timeliness": 5,
+        "repetitiveness": 5,
+        "appropriateness": 3
       }
     },
     {
@@ -901,13 +901,13 @@
       "sacrifice": false,
       "book_move": false,
       "rubric": {
-        "understandability": ,
-        "interestingness": ,
-        "contextuality": ,
-        "naturalness": ,
-        "timeliness": ,
-        "repetitiveness": ,
-        "appropriateness": 
+        "understandability": 5,
+        "interestingness": 4,
+        "contextuality": 5,
+        "naturalness": 5,
+        "timeliness": 5,
+        "repetitiveness": 5,
+        "appropriateness": 3
       }
     },
     {
@@ -918,13 +918,13 @@
       "sacrifice": false,
       "book_move": false,
       "rubric": {
-        "understandability": ,
-        "interestingness": ,
-        "contextuality": ,
-        "naturalness": ,
-        "timeliness": ,
-        "repetitiveness": ,
-        "appropriateness": 
+        "understandability": 5,
+        "interestingness": 2,
+        "contextuality": 5,
+        "naturalness": 5,
+        "timeliness": 5,
+        "repetitiveness": 5,
+        "appropriateness": 3
       }
     }
   ]
@@ -940,13 +940,13 @@
       "sacrifice": false,
       "book_move": false,
       "rubric": {
-        "understandability": ,
-        "interestingness": ,
-        "contextuality": ,
-        "naturalness": ,
-        "timeliness": ,
-        "repetitiveness": ,
-        "appropriateness": 
+        "understandability": 5,
+        "interestingness": 4,
+        "contextuality": null,
+        "naturalness": 5,
+        "timeliness": null,
+        "repetitiveness": null,
+        "appropriateness": 4
       }
     },
     {
@@ -956,13 +956,13 @@
       "sacrifice": false,
       "book_move": false,
       "rubric": {
-        "understandability": ,
-        "interestingness": ,
-        "contextuality": ,
-        "naturalness": ,
-        "timeliness": ,
-        "repetitiveness": ,
-        "appropriateness": 
+        "understandability": 5,
+        "interestingness": 1,
+        "contextuality": 5,
+        "naturalness": 5,
+        "timeliness": 5,
+        "repetitiveness": 5,
+        "appropriateness": 3
       }
     },
     {
@@ -972,13 +972,13 @@
       "sacrifice": false,
       "book_move": false,
       "rubric": {
-        "understandability": ,
-        "interestingness": ,
-        "contextuality": ,
-        "naturalness": ,
-        "timeliness": ,
-        "repetitiveness": ,
-        "appropriateness": 
+        "understandability": 5,
+        "interestingness": 3,
+        "contextuality": 5,
+        "naturalness": 5,
+        "timeliness": 5,
+        "repetitiveness": 5,
+        "appropriateness": 3
       }
     },
     {
@@ -988,13 +988,13 @@
       "sacrifice": false,
       "book_move": false,
       "rubric": {
-        "understandability": ,
-        "interestingness": ,
-        "contextuality": ,
-        "naturalness": ,
-        "timeliness": ,
-        "repetitiveness": ,
-        "appropriateness": 
+        "understandability": 5,
+        "interestingness": 4,
+        "contextuality": 5,
+        "naturalness": 5,
+        "timeliness": 5,
+        "repetitiveness": 5,
+        "appropriateness": 3
       }
     },
     {
@@ -1004,13 +1004,13 @@
       "sacrifice": false,
       "book_move": false,
       "rubric": {
-        "understandability": ,
-        "interestingness": ,
-        "contextuality": ,
-        "naturalness": ,
-        "timeliness": ,
-        "repetitiveness": ,
-        "appropriateness": 
+        "understandability": 5,
+        "interestingness": 5,
+        "contextuality": 5,
+        "naturalness": 5,
+        "timeliness": 5,
+        "repetitiveness": 5,
+        "appropriateness": 5
       }
     },
     {
@@ -1021,13 +1021,13 @@
       "sacrifice": false,
       "book_move": false,
       "rubric": {
-        "understandability": ,
-        "interestingness": ,
-        "contextuality": ,
-        "naturalness": ,
-        "timeliness": ,
-        "repetitiveness": ,
-        "appropriateness": 
+        "understandability": 5,
+        "interestingness": 1,
+        "contextuality": 5,
+        "naturalness": 5,
+        "timeliness": 5,
+        "repetitiveness": 5,
+        "appropriateness": 3
       }
     },
     {
@@ -1038,30 +1038,30 @@
       "sacrifice": false,
       "book_move": false,
       "rubric": {
-        "understandability": ,
-        "interestingness": ,
-        "contextuality": ,
-        "naturalness": ,
-        "timeliness": ,
-        "repetitiveness": ,
-        "appropriateness": 
+        "understandability": 5,
+        "interestingness": 2,
+        "contextuality": 5,
+        "naturalness": 5,
+        "timeliness": 5,
+        "repetitiveness": 5,
+        "appropriateness": 3
       }
     },
     {
       "speaker": "B",
       "text": "Yeeee. I thought they would've been light like my bruck down air forces",
-      "in_reply_to": "You needed someone to tell you 😂😂"
+      "in_reply_to": "You needed someone to tell you 😂😂",
       "timestamp": "2024-09-30T23:01:00Z",
       "sacrifice": false,
       "book_move": false,
       "rubric": {
-        "understandability": ,
-        "interestingness": ,
-        "contextuality": ,
-        "naturalness": ,
-        "timeliness": ,
-        "repetitiveness": ,
-        "appropriateness": 
+        "understandability": 5,
+        "interestingness": 3,
+        "contextuality": 5,
+        "naturalness": 5,
+        "timeliness": 5,
+        "repetitiveness": 5,
+        "appropriateness": 4
       }
     },
     {
@@ -1071,13 +1071,13 @@
       "sacrifice": false,
       "book_move": false,
       "rubric": {
-        "understandability": ,
-        "interestingness": ,
-        "contextuality": ,
-        "naturalness": ,
-        "timeliness": ,
-        "repetitiveness": ,
-        "appropriateness": 
+        "understandability": 5,
+        "interestingness": 1,
+        "contextuality": 5,
+        "naturalness": 5,
+        "timeliness": 5,
+        "repetitiveness": 5,
+        "appropriateness": 3
       }
     },
     {
@@ -1087,30 +1087,30 @@
       "sacrifice": false,
       "book_move": false,
       "rubric": {
-        "understandability": ,
-        "interestingness": ,
-        "contextuality": ,
-        "naturalness": ,
-        "timeliness": ,
-        "repetitiveness": ,
-        "appropriateness": 
+        "understandability": 5,
+        "interestingness": 4,
+        "contextuality": 5,
+        "naturalness": 5,
+        "timeliness": 5,
+        "repetitiveness": 5,
+        "appropriateness": 3
       }
     },
     {
       "speaker": "B",
       "text": "Ongggg",
       "in_reply_to": "Nah timbs will have you stomping around",
-      "timestamp": null,
+      "timestamp": "2024-09-30T23:02:00Z",
       "sacrifice": false,
       "book_move": false,
       "rubric": {
-        "understandability": ,
-        "interestingness": ,
-        "contextuality": ,
-        "naturalness": ,
-        "timeliness": ,
-        "repetitiveness": ,
-        "appropriateness": 
+        "understandability": 5,
+        "interestingness": 2,
+        "contextuality": 5,
+        "naturalness": 5,
+        "timeliness": 5,
+        "repetitiveness": 5,
+        "appropriateness": 3
       }
     },
     {
@@ -1120,13 +1120,13 @@
       "sacrifice": false,
       "book_move": false,
       "rubric": {
-        "understandability": ,
-        "interestingness": ,
-        "contextuality": ,
-        "naturalness": ,
-        "timeliness": ,
-        "repetitiveness": ,
-        "appropriateness": 
+        "understandability": 5,
+        "interestingness": 3,
+        "contextuality": 5,
+        "naturalness": 5,
+        "timeliness": 5,
+        "repetitiveness": 5,
+        "appropriateness": 3
       }
     },
     {
@@ -1136,13 +1136,13 @@
       "sacrifice": false,
       "book_move": false,
       "rubric": {
-        "understandability": ,
-        "interestingness": ,
-        "contextuality": ,
-        "naturalness": ,
-        "timeliness": ,
-        "repetitiveness": ,
-        "appropriateness": 
+        "understandability": 5,
+        "interestingness": 4,
+        "contextuality": 5,
+        "naturalness": 5,
+        "timeliness": 5,
+        "repetitiveness": 5,
+        "appropriateness": 4
       }
     }
   ]
@@ -1155,16 +1155,16 @@
       "speaker": "A",
       "text": "Hby? Haha Ukraine seems fun?",
       "timestamp": null,
-      "sacrifice": false,
+      "sacrifice": true,
       "book_move": false,
       "rubric": {
-        "understandability": ,
-        "interestingness": ,
-        "contextuality": ,
-        "naturalness": ,
-        "timeliness": ,
-        "repetitiveness": ,
-        "appropriateness": 
+        "understandability": 5,
+        "interestingness": 3,
+        "contextuality": null,
+        "naturalness": 5,
+        "timeliness": null,
+        "repetitiveness": null,
+        "appropriateness": 1
       }
     },
     {
@@ -1174,13 +1174,13 @@
       "sacrifice": false,
       "book_move": false,
       "rubric": {
-        "understandability": ,
-        "interestingness": ,
-        "contextuality": ,
-        "naturalness": ,
-        "timeliness": ,
-        "repetitiveness": ,
-        "appropriateness": 
+        "understandability": 5,
+        "interestingness": 3,
+        "contextuality": null,
+        "naturalness": 5,
+        "timeliness": null,
+        "repetitiveness": 5,
+        "appropriateness": 3
       }
     },
     {
@@ -1190,13 +1190,13 @@
       "sacrifice": false,
       "book_move": false,
       "rubric": {
-        "understandability": ,
-        "interestingness": ,
-        "contextuality": ,
-        "naturalness": ,
-        "timeliness": ,
-        "repetitiveness": ,
-        "appropriateness": 
+        "understandability": 5,
+        "interestingness": 3,
+        "contextuality": 5,
+        "naturalness": 5,
+        "timeliness": null,
+        "repetitiveness": 5,
+        "appropriateness": 3
       }
     },
     {
@@ -1206,13 +1206,13 @@
       "sacrifice": false,
       "book_move": false,
       "rubric": {
-        "understandability": ,
-        "interestingness": ,
-        "contextuality": ,
-        "naturalness": ,
-        "timeliness": ,
-        "repetitiveness": ,
-        "appropriateness": 
+        "understandability": 5,
+        "interestingness": 3,
+        "contextuality": 5,
+        "naturalness": 5,
+        "timeliness": null,
+        "repetitiveness": 5,
+        "appropriateness": 2
       }
     },
     {
@@ -1222,13 +1222,13 @@
       "sacrifice": false,
       "book_move": false,
       "rubric": {
-        "understandability": ,
-        "interestingness": ,
-        "contextuality": ,
-        "naturalness": ,
-        "timeliness": ,
-        "repetitiveness": ,
-        "appropriateness": 
+        "understandability": 5,
+        "interestingness": 3,
+        "contextuality": 5,
+        "naturalness": 5,
+        "timeliness": null,
+        "repetitiveness": 5,
+        "appropriateness": 4
       }
     },
     {
@@ -1238,13 +1238,13 @@
       "sacrifice": false,
       "book_move": false,
       "rubric": {
-        "understandability": ,
-        "interestingness": ,
-        "contextuality": ,
-        "naturalness": ,
-        "timeliness": ,
-        "repetitiveness": ,
-        "appropriateness": 
+        "understandability": 5,
+        "interestingness": 3,
+        "contextuality": 5,
+        "naturalness": 5,
+        "timeliness": null,
+        "repetitiveness": 5,
+        "appropriateness": 2
       }
     },
     {
@@ -1254,13 +1254,13 @@
       "sacrifice": false,
       "book_move": false,
       "rubric": {
-        "understandability": ,
-        "interestingness": ,
-        "contextuality": ,
-        "naturalness": ,
-        "timeliness": ,
-        "repetitiveness": ,
-        "appropriateness": 
+        "understandability": 5,
+        "interestingness": 4,
+        "contextuality": 5,
+        "naturalness": 5,
+        "timeliness": null,
+        "repetitiveness": 5,
+        "appropriateness": 5
       }
     }
   ]
@@ -1271,19 +1271,18 @@
   "messages": [
     {
       "speaker": "A",
-      "text": "Would you enjoy cuddling me ?
-                🙈😘😊",
+      "text": "Would you enjoy cuddling me ? 🙈😘😊",
       "timestamp": "2000-01-01T21:42:00Z",
       "sacrifice": false,
       "book_move": false,
       "rubric": {
-        "understandability": ,
-        "interestingness": ,
-        "contextuality": ,
-        "naturalness": ,
-        "timeliness": ,
-        "repetitiveness": ,
-        "appropriateness": 
+        "understandability": 5,
+        "interestingness": 3,
+        "contextuality": null,
+        "naturalness": 5,
+        "timeliness": null,
+        "repetitiveness": null,
+        "appropriateness": 2
       }
     },
     {
@@ -1293,13 +1292,13 @@
       "sacrifice": false,
       "book_move": false,
       "rubric": {
-        "understandability": ,
-        "interestingness": ,
-        "contextuality": ,
-        "naturalness": ,
-        "timeliness": ,
-        "repetitiveness": ,
-        "appropriateness": 
+        "understandability": 5,
+        "interestingness": 3,
+        "contextuality": 5,
+        "naturalness": 5,
+        "timeliness": null,
+        "repetitiveness": 5,
+        "appropriateness": 1
       }
     },
     {
@@ -1309,13 +1308,13 @@
       "sacrifice": false,
       "book_move": false,
       "rubric": {
-        "understandability": ,
-        "interestingness": ,
-        "contextuality": ,
-        "naturalness": ,
-        "timeliness": ,
-        "repetitiveness": ,
-        "appropriateness": 
+        "understandability": 5,
+        "interestingness": 3,
+        "contextuality": 5,
+        "naturalness": 5,
+        "timeliness": null,
+        "repetitiveness": 3,
+        "appropriateness": 3
       }
     },
     {
@@ -1325,13 +1324,13 @@
       "sacrifice": false,
       "book_move": false,
       "rubric": {
-        "understandability": ,
-        "interestingness": ,
-        "contextuality": ,
-        "naturalness": ,
-        "timeliness": ,
-        "repetitiveness": ,
-        "appropriateness": 
+        "understandability": 5,
+        "interestingness": 3,
+        "contextuality": 5,
+        "naturalness": 5,
+        "timeliness": 2,
+        "repetitiveness": 2,
+        "appropriateness": 2
       }
     },
     {
@@ -1341,13 +1340,13 @@
       "sacrifice": false,
       "book_move": false,
       "rubric": {
-        "understandability": ,
-        "interestingness": ,
-        "contextuality": ,
-        "naturalness": ,
-        "timeliness": ,
-        "repetitiveness": ,
-        "appropriateness": 
+        "understandability": 5,
+        "interestingness": 3,
+        "contextuality": 5,
+        "naturalness": 5,
+        "timeliness": 1,
+        "repetitiveness": 5,
+        "appropriateness": 3
       }
     },
     {
@@ -1357,13 +1356,13 @@
       "sacrifice": false,
       "book_move": false,
       "rubric": {
-        "understandability": ,
-        "interestingness": ,
-        "contextuality": ,
-        "naturalness": ,
-        "timeliness": ,
-        "repetitiveness": ,
-        "appropriateness": 
+        "understandability": 5,
+        "interestingness": 3,
+        "contextuality": 5,
+        "naturalness": 5,
+        "timeliness": 1,
+        "repetitiveness": 5,
+        "appropriateness": 3
       }
     },
     {
@@ -1373,13 +1372,13 @@
       "sacrifice": false,
       "book_move": false,
       "rubric": {
-        "understandability": ,
-        "interestingness": ,
-        "contextuality": ,
-        "naturalness": ,
-        "timeliness": ,
-        "repetitiveness": ,
-        "appropriateness": 
+        "understandability": 5,
+        "interestingness": 3,
+        "contextuality": 3,
+        "naturalness": 5,
+        "timeliness": 1,
+        "repetitiveness": 5,
+        "appropriateness": 3
       }
     },
     {
@@ -1389,13 +1388,13 @@
       "sacrifice": false,
       "book_move": false,
       "rubric": {
-        "understandability": ,
-        "interestingness": ,
-        "contextuality": ,
-        "naturalness": ,
-        "timeliness": ,
-        "repetitiveness": ,
-        "appropriateness": 
+        "understandability": 5,
+        "interestingness": 3,
+        "contextuality": 3,
+        "naturalness": 5,
+        "timeliness": 1,
+        "repetitiveness": 5,
+        "appropriateness": 1
       }
     },
     {
@@ -1405,13 +1404,13 @@
       "sacrifice": false,
       "book_move": false,
       "rubric": {
-        "understandability": ,
-        "interestingness": ,
-        "contextuality": ,
-        "naturalness": ,
-        "timeliness": ,
-        "repetitiveness": ,
-        "appropriateness": 
+        "understandability": 5,
+        "interestingness": 2,
+        "contextuality": 5,
+        "naturalness": 5,
+        "timeliness": 1,
+        "repetitiveness": 1,
+        "appropriateness": 1
       }
     },
     {
@@ -1421,13 +1420,13 @@
       "sacrifice": false,
       "book_move": false,
       "rubric": {
-        "understandability": ,
-        "interestingness": ,
-        "contextuality": ,
-        "naturalness": ,
-        "timeliness": ,
-        "repetitiveness": ,
-        "appropriateness": 
+        "understandability": 5,
+        "interestingness": 2,
+        "contextuality": 5,
+        "naturalness": 5,
+        "timeliness": 1,
+        "repetitiveness": 1,
+        "appropriateness": 1
       }
     }
   ]
@@ -1443,13 +1442,13 @@
       "sacrifice": false,
       "book_move": false,
       "rubric": {
-        "understandability": ,
-        "interestingness": ,
-        "contextuality": ,
-        "naturalness": ,
-        "timeliness": ,
-        "repetitiveness": ,
-        "appropriateness": 
+        "understandability": 2,
+        "interestingness": 3,
+        "contextuality": null,
+        "naturalness": 2,
+        "timeliness": null,
+        "repetitiveness": null,
+        "appropriateness": 3
       }
     },
     {
@@ -1459,13 +1458,13 @@
       "sacrifice": false,
       "book_move": false,
       "rubric": {
-        "understandability": ,
-        "interestingness": ,
-        "contextuality": ,
-        "naturalness": ,
-        "timeliness": ,
-        "repetitiveness": ,
-        "appropriateness": 
+        "understandability": 5,
+        "interestingness": 2,
+        "contextuality": 5,
+        "naturalness": 5,
+        "timeliness": null,
+        "repetitiveness": 5,
+        "appropriateness": 3
       }
     },
     {
@@ -1475,13 +1474,13 @@
       "sacrifice": false,
       "book_move": false,
       "rubric": {
-        "understandability": ,
-        "interestingness": ,
-        "contextuality": ,
-        "naturalness": ,
-        "timeliness": ,
-        "repetitiveness": ,
-        "appropriateness": 
+        "understandability": 5,
+        "interestingness": 2,
+        "contextuality": 5,
+        "naturalness": 5,
+        "timeliness": null,
+        "repetitiveness": 5,
+        "appropriateness": 3
       }
     },
     {
@@ -1491,13 +1490,13 @@
       "sacrifice": false,
       "book_move": false,
       "rubric": {
-        "understandability": ,
-        "interestingness": ,
-        "contextuality": ,
-        "naturalness": ,
-        "timeliness": ,
-        "repetitiveness": ,
-        "appropriateness": 
+        "understandability": 5,
+        "interestingness": 3,
+        "contextuality": 5,
+        "naturalness": 5,
+        "timeliness": null,
+        "repetitiveness": 5,
+        "appropriateness": 3
       }
     },
     {
@@ -1507,13 +1506,13 @@
       "sacrifice": false,
       "book_move": false,
       "rubric": {
-        "understandability": ,
-        "interestingness": ,
-        "contextuality": ,
-        "naturalness": ,
-        "timeliness": ,
-        "repetitiveness": ,
-        "appropriateness": 
+        "understandability": 5,
+        "interestingness": 5,
+        "contextuality": 5,
+        "naturalness": 5,
+        "timeliness": null,
+        "repetitiveness": 5,
+        "appropriateness": 5
       }
     },
     {
@@ -1523,13 +1522,13 @@
       "sacrifice": false,
       "book_move": false,
       "rubric": {
-        "understandability": ,
-        "interestingness": ,
-        "contextuality": ,
-        "naturalness": ,
-        "timeliness": ,
-        "repetitiveness": ,
-        "appropriateness": 
+        "understandability": 5,
+        "interestingness": 3,
+        "contextuality": 5,
+        "naturalness": 5,
+        "timeliness": null,
+        "repetitiveness": 5,
+        "appropriateness": 4
       }
     },
     {
@@ -1539,13 +1538,13 @@
       "sacrifice": false,
       "book_move": false,
       "rubric": {
-        "understandability": ,
-        "interestingness": ,
-        "contextuality": ,
-        "naturalness": ,
-        "timeliness": ,
-        "repetitiveness": ,
-        "appropriateness": 
+        "understandability": 5,
+        "interestingness": 2,
+        "contextuality": 5,
+        "naturalness": 5,
+        "timeliness": null,
+        "repetitiveness": 5,
+        "appropriateness": 3
       }
     },
     {
@@ -1555,13 +1554,13 @@
       "sacrifice": false,
       "book_move": false,
       "rubric": {
-        "understandability": ,
-        "interestingness": ,
-        "contextuality": ,
-        "naturalness": ,
-        "timeliness": ,
-        "repetitiveness": ,
-        "appropriateness": 
+        "understandability": 5,
+        "interestingness": 1,
+        "contextuality": 5,
+        "naturalness": 5,
+        "timeliness": null,
+        "repetitiveness": 5,
+        "appropriateness": 3
       }
     },
     {
@@ -1571,17 +1570,17 @@
       "sacrifice": false,
       "book_move": false,
       "rubric": {
-        "understandability": ,
-        "interestingness": ,
-        "contextuality": ,
-        "naturalness": ,
-        "timeliness": ,
-        "repetitiveness": ,
-        "appropriateness": 
+        "understandability": 5,
+        "interestingness": 4,
+        "contextuality": 5,
+        "naturalness": 5,
+        "timeliness": null,
+        "repetitiveness": 5,
+        "appropriateness": 4
       }
     }
   ]
-}
+},
 {
   "conversation_id": "",
   "no_of_messages": 5,
@@ -1590,16 +1589,16 @@
   "speaker": "A",
   "text": "Your great aunt just passed away. LOL",
   "timestamp": null,
-  "sacrifice": false,
+  "sacrifice": true,
   "book_move": false,
   "rubric": {
-    "understandability": ,
-    "interestingness": ,
-    "contextuality": ,
-    "naturalness": ,
-    "timeliness": ,
-    "repetitiveness": ,
-    "appropriateness": 
+    "understandability": 5,
+    "interestingness": 5,
+    "contextuality": null,
+    "naturalness": 5,
+    "timeliness": null,
+    "repetitiveness": null,
+    "appropriateness": 1
   }
 },
 {
@@ -1609,13 +1608,13 @@
   "sacrifice": false,
   "book_move": false,
   "rubric": {
-    "understandability": ,
-    "interestingness": ,
-    "contextuality": ,
-    "naturalness": ,
-    "timeliness": ,
-    "repetitiveness": ,
-    "appropriateness": 
+    "understandability": 5,
+    "interestingness": 3,
+    "contextuality": 5,
+    "naturalness": 5,
+    "timeliness": null,
+    "repetitiveness": 5,
+    "appropriateness": 4
   }
 },
 {
@@ -1625,13 +1624,13 @@
   "sacrifice": false,
   "book_move": false,
   "rubric": {
-    "understandability": ,
-    "interestingness": ,
-    "contextuality": ,
-    "naturalness": ,
-    "timeliness": ,
-    "repetitiveness": ,
-    "appropriateness": 
+    "understandability": 5,
+    "interestingness": 3,
+    "contextuality": 5,
+    "naturalness": 5,
+    "timeliness": null,
+    "repetitiveness": 5,
+    "appropriateness": 3
   }
 },
 {
@@ -1641,13 +1640,13 @@
   "sacrifice": false,
   "book_move": false,
   "rubric": {
-    "understandability": ,
-    "interestingness": ,
-    "contextuality": ,
-    "naturalness": ,
-    "timeliness": ,
-    "repetitiveness": ,
-    "appropriateness": 
+    "understandability": 5,
+    "interestingness": 3,
+    "contextuality": 5,
+    "naturalness": 5,
+    "timeliness": null,
+    "repetitiveness": 5,
+    "appropriateness": 4
   }
 },
 {
@@ -1657,13 +1656,13 @@
   "sacrifice": false,
   "book_move": false,
   "rubric": {
-    "understandability": ,
-    "interestingness": ,
-    "contextuality": ,
-    "naturalness": ,
-    "timeliness": ,
-    "repetitiveness": ,
-    "appropriateness": 
+    "understandability": 5,
+    "interestingness": 4,
+    "contextuality": 5,
+    "naturalness": 5,
+    "timeliness": null,
+    "repetitiveness": 5,
+    "appropriateness": 3
   }
 }
   ]
@@ -1679,13 +1678,13 @@
       "sacrifice": false,
       "book_move": false,
       "rubric": {
-        "understandability": ,
-        "interestingness": ,
-        "contextuality": ,
-        "naturalness": ,
-        "timeliness": ,
-        "repetitiveness": ,
-        "appropriateness": 
+        "understandability": 5,
+        "interestingness": 3,
+        "contextuality": null,
+        "naturalness": 5,
+        "timeliness": null,
+        "repetitiveness": 5,
+        "appropriateness": 3
       }
     },
     {
@@ -1695,13 +1694,13 @@
       "sacrifice": false,
       "book_move": false,
       "rubric": {
-        "understandability": ,
-        "interestingness": ,
-        "contextuality": ,
-        "naturalness": ,
-        "timeliness": ,
-        "repetitiveness": ,
-        "appropriateness": 
+        "understandability": 5,
+        "interestingness": 3,
+        "contextuality": 5,
+        "naturalness": 5,
+        "timeliness": null,
+        "repetitiveness": 5,
+        "appropriateness": 2
       }
     },
     {
@@ -1711,13 +1710,13 @@
       "sacrifice": false,
       "book_move": false,
       "rubric": {
-        "understandability": ,
-        "interestingness": ,
-        "contextuality": ,
-        "naturalness": ,
-        "timeliness": ,
-        "repetitiveness": ,
-        "appropriateness": 
+        "understandability": 5,
+        "interestingness": 3,
+        "contextuality": 5,
+        "naturalness": 5,
+        "timeliness": null,
+        "repetitiveness": 5,
+        "appropriateness": 4
       }
     },
     {
@@ -1727,13 +1726,13 @@
       "sacrifice": false,
       "book_move": false,
       "rubric": {
-        "understandability": ,
-        "interestingness": ,
-        "contextuality": ,
-        "naturalness": ,
-        "timeliness": ,
-        "repetitiveness": ,
-        "appropriateness": 
+        "understandability": 5,
+        "interestingness": 3,
+        "contextuality": 5,
+        "naturalness": 5,
+        "timeliness": null,
+        "repetitiveness": 5,
+        "appropriateness": 1
       }
     },
     {
@@ -1743,13 +1742,13 @@
       "sacrifice": false,
       "book_move": false,
       "rubric": {
-        "understandability": ,
-        "interestingness": ,
-        "contextuality": ,
-        "naturalness": ,
-        "timeliness": ,
-        "repetitiveness": ,
-        "appropriateness": 
+        "understandability": 5,
+        "interestingness": 3,
+        "contextuality": 5,
+        "naturalness": 5,
+        "timeliness": null,
+        "repetitiveness": 5,
+        "appropriateness": 3
       }
     }
   ]
@@ -1765,13 +1764,13 @@
       "sacrifice": false,
       "book_move": false,
       "rubric": {
-        "understandability": ,
-        "interestingness": ,
-        "contextuality": ,
-        "naturalness": ,
-        "timeliness": ,
-        "repetitiveness": ,
-        "appropriateness": 
+        "understandability": 5,
+        "interestingness": 3,
+        "contextuality": null,
+        "naturalness": 5,
+        "timeliness": null,
+        "repetitiveness": 5,
+        "appropriateness": 3
       }
     },
     {
@@ -1781,13 +1780,13 @@
       "sacrifice": false,
       "book_move": false,
       "rubric": {
-        "understandability": ,
-        "interestingness": ,
-        "contextuality": ,
-        "naturalness": ,
-        "timeliness": ,
-        "repetitiveness": ,
-        "appropriateness": 
+        "understandability": 5,
+        "interestingness": 1,
+        "contextuality": 5,
+        "naturalness": 5,
+        "timeliness": 5,
+        "repetitiveness": 5,
+        "appropriateness": 3
       }
     },
     {
@@ -1797,13 +1796,13 @@
       "sacrifice": false,
       "book_move": false,
       "rubric": {
-        "understandability": ,
-        "interestingness": ,
-        "contextuality": ,
-        "naturalness": ,
-        "timeliness": ,
-        "repetitiveness": ,
-        "appropriateness": 
+        "understandability": 5,
+        "interestingness": 3,
+        "contextuality": 2,
+        "naturalness": 5,
+        "timeliness": 5,
+        "repetitiveness": 5,
+        "appropriateness": 3
       }
     },
     {
@@ -1813,13 +1812,13 @@
       "sacrifice": false,
       "book_move": false,
       "rubric": {
-        "understandability": ,
-        "interestingness": ,
-        "contextuality": ,
-        "naturalness": ,
-        "timeliness": ,
-        "repetitiveness": ,
-        "appropriateness": 
+        "understandability": 5,
+        "interestingness": 3,
+        "contextuality": 5,
+        "naturalness": 5,
+        "timeliness": 5,
+        "repetitiveness": 5,
+        "appropriateness": 4
       }
     },
     {
@@ -1829,13 +1828,13 @@
       "sacrifice": false,
       "book_move": false,
       "rubric": {
-        "understandability": ,
-        "interestingness": ,
-        "contextuality": ,
-        "naturalness": ,
-        "timeliness": ,
-        "repetitiveness": ,
-        "appropriateness": 
+        "understandability": 5,
+        "interestingness": 3,
+        "contextuality": 5,
+        "naturalness": 5,
+        "timeliness": 5,
+        "repetitiveness": 5,
+        "appropriateness": 3
       }
     }
   ]
@@ -1851,13 +1850,13 @@
       "sacrifice": false,
       "book_move": false,
       "rubric": {
-        "understandability": ,
-        "interestingness": ,
-        "contextuality": ,
-        "naturalness": ,
-        "timeliness": ,
-        "repetitiveness": ,
-        "appropriateness": 
+        "understandability": 5,
+        "interestingness": 3,
+        "contextuality": null,
+        "naturalness": 5,
+        "timeliness": null,
+        "repetitiveness": null,
+        "appropriateness": 3
       }
     },
     {
@@ -1867,13 +1866,13 @@
       "sacrifice": false,
       "book_move": false,
       "rubric": {
-        "understandability": ,
-        "interestingness": ,
-        "contextuality": ,
-        "naturalness": ,
-        "timeliness": ,
-        "repetitiveness": ,
-        "appropriateness": 
+        "understandability": 5,
+        "interestingness": 3,
+        "contextuality": null,
+        "naturalness": 5,
+        "timeliness": null,
+        "repetitiveness": 5,
+        "appropriateness": 3
       }
     },
     {
@@ -1883,13 +1882,13 @@
       "sacrifice": false,
       "book_move": false,
       "rubric": {
-        "understandability": ,
-        "interestingness": ,
-        "contextuality": ,
-        "naturalness": ,
-        "timeliness": ,
-        "repetitiveness": ,
-        "appropriateness": 
+        "understandability": 5,
+        "interestingness": 3,
+        "contextuality": 5,
+        "naturalness": 5,
+        "timeliness": null,
+        "repetitiveness": 5,
+        "appropriateness": 3
       }
     },
     {
@@ -1899,13 +1898,13 @@
       "sacrifice": false,
       "book_move": false,
       "rubric": {
-        "understandability": ,
-        "interestingness": ,
-        "contextuality": ,
-        "naturalness": ,
-        "timeliness": ,
-        "repetitiveness": ,
-        "appropriateness": 
+        "understandability": 5,
+        "interestingness": 3,
+        "contextuality": 5,
+        "naturalness": 5,
+        "timeliness": null,
+        "repetitiveness": 5,
+        "appropriateness": 3
       }
     },
     {
@@ -1915,13 +1914,13 @@
       "sacrifice": false,
       "book_move": false,
       "rubric": {
-        "understandability": ,
-        "interestingness": ,
-        "contextuality": ,
-        "naturalness": ,
-        "timeliness": ,
-        "repetitiveness": ,
-        "appropriateness": 
+        "understandability": 5,
+        "interestingness": 3,
+        "contextuality": 5,
+        "naturalness": 5,
+        "timeliness": null,
+        "repetitiveness": 5,
+        "appropriateness": 4
       }
     },
     {
@@ -1931,13 +1930,13 @@
       "sacrifice": false,
       "book_move": false,
       "rubric": {
-        "understandability": ,
-        "interestingness": ,
-        "contextuality": ,
-        "naturalness": ,
-        "timeliness": ,
-        "repetitiveness": ,
-        "appropriateness": 
+        "understandability": 5,
+        "interestingness": 3,
+        "contextuality": 1,
+        "naturalness": 5,
+        "timeliness": null,
+        "repetitiveness": 5,
+        "appropriateness": 3
       }
     },
     {
@@ -1947,13 +1946,13 @@
       "sacrifice": false,
       "book_move": false,
       "rubric": {
-        "understandability": ,
-        "interestingness": ,
-        "contextuality": ,
-        "naturalness": ,
-        "timeliness": ,
-        "repetitiveness": ,
-        "appropriateness": 
+        "understandability": 5,
+        "interestingness": 3,
+        "contextuality": 5,
+        "naturalness": 5,
+        "timeliness": null,
+        "repetitiveness": 5,
+        "appropriateness": 4
       }
     },
     {
@@ -1963,13 +1962,13 @@
       "sacrifice": false,
       "book_move": false,
       "rubric": {
-        "understandability": ,
-        "interestingness": ,
-        "contextuality": ,
-        "naturalness": ,
-        "timeliness": ,
-        "repetitiveness": ,
-        "appropriateness": 
+        "understandability": 5,
+        "interestingness": 4,
+        "contextuality": 5,
+        "naturalness": 5,
+        "timeliness": null,
+        "repetitiveness": 5,
+        "appropriateness": 4
       }
     },
     {
@@ -1979,29 +1978,13 @@
       "sacrifice": false,
       "book_move": false,
       "rubric": {
-        "understandability": ,
-        "interestingness": ,
-        "contextuality": ,
-        "naturalness": ,
-        "timeliness": ,
-        "repetitiveness": ,
-        "appropriateness": 
-      }
-    },
-    {
-      "speaker": "",
-      "text": "",
-      "timestamp": null,
-      "sacrifice": false,
-      "book_move": false,
-      "rubric": {
-        "understandability": ,
-        "interestingness": ,
-        "contextuality": ,
-        "naturalness": ,
-        "timeliness": ,
-        "repetitiveness": ,
-        "appropriateness": 
+        "understandability": 5,
+        "interestingness": 3,
+        "contextuality": 5,
+        "naturalness": 5,
+        "timeliness": null,
+        "repetitiveness": 5,
+        "appropriateness": 5
       }
     }
   ]
@@ -2017,13 +2000,13 @@
       "sacrifice": false,
       "book_move": false,
       "rubric": {
-        "understandability": ,
-        "interestingness": ,
-        "contextuality": ,
-        "naturalness": ,
-        "timeliness": ,
-        "repetitiveness": ,
-        "appropriateness": 
+        "understandability": 5,
+        "interestingness": 3,
+        "contextuality": null,
+        "naturalness": 5,
+        "timeliness": null,
+        "repetitiveness": null,
+        "appropriateness": 3
       }
     },
     {
@@ -2033,13 +2016,13 @@
       "sacrifice": false,
       "book_move": false,
       "rubric": {
-        "understandability": ,
-        "interestingness": ,
-        "contextuality": ,
-        "naturalness": ,
-        "timeliness": ,
-        "repetitiveness": ,
-        "appropriateness": 
+        "understandability": 5,
+        "interestingness": 3,
+        "contextuality": 5,
+        "naturalness": 5,
+        "timeliness": null,
+        "repetitiveness": 5,
+        "appropriateness": 3
       }
     },
     {
@@ -2049,13 +2032,13 @@
       "sacrifice": false,
       "book_move": false,
       "rubric": {
-        "understandability": ,
-        "interestingness": ,
-        "contextuality": ,
-        "naturalness": ,
-        "timeliness": ,
-        "repetitiveness": ,
-        "appropriateness": 
+        "understandability": 5,
+        "interestingness": 2,
+        "contextuality": 5,
+        "naturalness": 5,
+        "timeliness": null,
+        "repetitiveness": 5,
+        "appropriateness": 4
       }
     },
     {
@@ -2065,29 +2048,29 @@
       "sacrifice": false,
       "book_move": false,
       "rubric": {
-        "understandability": ,
-        "interestingness": ,
-        "contextuality": ,
-        "naturalness": ,
-        "timeliness": ,
-        "repetitiveness": ,
-        "appropriateness": 
+        "understandability": 5,
+        "interestingness": 3,
+        "contextuality": 5,
+        "naturalness": 5,
+        "timeliness": null,
+        "repetitiveness": 5,
+        "appropriateness": 3
       }
     },
     {
       "speaker": "B",
       "text": "Not sure I want to see you tho",
       "timestamp": null,
-      "sacrifice": false,
+      "sacrifice": true,
       "book_move": false,
       "rubric": {
-        "understandability": ,
-        "interestingness": ,
-        "contextuality": ,
-        "naturalness": ,
-        "timeliness": ,
-        "repetitiveness": ,
-        "appropriateness": 
+        "understandability": 5,
+        "interestingness": 4,
+        "contextuality": 5,
+        "naturalness": 5,
+        "timeliness": null,
+        "repetitiveness": 5,
+        "appropriateness": 1
       }
     },
     {
@@ -2097,13 +2080,13 @@
       "sacrifice": false,
       "book_move": false,
       "rubric": {
-        "understandability": ,
-        "interestingness": ,
-        "contextuality": ,
-        "naturalness": ,
-        "timeliness": ,
-        "repetitiveness": ,
-        "appropriateness": 
+        "understandability": 5,
+        "interestingness": 1,
+        "contextuality": 5,
+        "naturalness": 5,
+        "timeliness": null,
+        "repetitiveness": 5,
+        "appropriateness": 3
       }
     }
   ]
@@ -2119,13 +2102,13 @@
       "sacrifice": false,
       "book_move": false,
       "rubric": {
-        "understandability": ,
-        "interestingness": ,
-        "contextuality": ,
-        "naturalness": ,
-        "timeliness": ,
-        "repetitiveness": ,
-        "appropriateness": 
+        "understandability": 5,
+        "interestingness": 3,
+        "contextuality": null,
+        "naturalness": 5,
+        "timeliness": null,
+        "repetitiveness": null,
+        "appropriateness": 2
       }
     },
     {
@@ -2135,13 +2118,13 @@
       "sacrifice": false,
       "book_move": false,
       "rubric": {
-        "understandability": ,
-        "interestingness": ,
-        "contextuality": ,
-        "naturalness": ,
-        "timeliness": ,
-        "repetitiveness": ,
-        "appropriateness": 
+        "understandability": 5,
+        "interestingness": 1,
+        "contextuality": 5,
+        "naturalness": 5,
+        "timeliness": null,
+        "repetitiveness": 5,
+        "appropriateness": 3
       }
     },
     {
@@ -2151,13 +2134,13 @@
       "sacrifice": false,
       "book_move": false,
       "rubric": {
-        "understandability": ,
-        "interestingness": ,
-        "contextuality": ,
-        "naturalness": ,
-        "timeliness": ,
-        "repetitiveness": ,
-        "appropriateness": 
+        "understandability": 5,
+        "interestingness": 4,
+        "contextuality": 5,
+        "naturalness": 5,
+        "timeliness": null,
+        "repetitiveness": 5,
+        "appropriateness": 4
       }
     },
     {
@@ -2167,13 +2150,13 @@
       "sacrifice": false,
       "book_move": false,
       "rubric": {
-        "understandability": ,
-        "interestingness": ,
-        "contextuality": ,
-        "naturalness": ,
-        "timeliness": ,
-        "repetitiveness": ,
-        "appropriateness": 
+        "understandability": 5,
+        "interestingness": 1,
+        "contextuality": 5,
+        "naturalness": 5,
+        "timeliness": null,
+        "repetitiveness": 5,
+        "appropriateness": 3
       }
     },
     {
@@ -2183,13 +2166,13 @@
       "sacrifice": false,
       "book_move": false,
       "rubric": {
-        "understandability": ,
-        "interestingness": ,
-        "contextuality": ,
-        "naturalness": ,
-        "timeliness": ,
-        "repetitiveness": ,
-        "appropriateness": 
+        "understandability": 5,
+        "interestingness": 2,
+        "contextuality": 5,
+        "naturalness": 5,
+        "timeliness": null,
+        "repetitiveness": 5,
+        "appropriateness": 3
       }
     },
     {
@@ -2199,13 +2182,13 @@
       "sacrifice": false,
       "book_move": false,
       "rubric": {
-        "understandability": ,
-        "interestingness": ,
-        "contextuality": ,
-        "naturalness": ,
-        "timeliness": ,
-        "repetitiveness": ,
-        "appropriateness": 
+        "understandability": 5,
+        "interestingness": 3,
+        "contextuality": 5,
+        "naturalness": 5,
+        "timeliness": null,
+        "repetitiveness": 5,
+        "appropriateness": 3
       }
     },
     {
@@ -2215,13 +2198,13 @@
       "sacrifice": false,
       "book_move": false,
       "rubric": {
-        "understandability": ,
-        "interestingness": ,
-        "contextuality": ,
-        "naturalness": ,
-        "timeliness": ,
-        "repetitiveness": ,
-        "appropriateness": 
+        "understandability": 5,
+        "interestingness": 3,
+        "contextuality": 5,
+        "naturalness": 5,
+        "timeliness": null,
+        "repetitiveness": 5,
+        "appropriateness": 3
       }
     },
     {
@@ -2231,13 +2214,13 @@
       "sacrifice": false,
       "book_move": false,
       "rubric": {
-        "understandability": ,
-        "interestingness": ,
-        "contextuality": ,
-        "naturalness": ,
-        "timeliness": ,
-        "repetitiveness": ,
-        "appropriateness": 
+        "understandability": 5,
+        "interestingness": 3,
+        "contextuality": 5,
+        "naturalness": 5,
+        "timeliness": null,
+        "repetitiveness": 5,
+        "appropriateness": 4
       }
     },
     {
@@ -2247,13 +2230,13 @@
       "sacrifice": false,
       "book_move": false,
       "rubric": {
-        "understandability": ,
-        "interestingness": ,
-        "contextuality": ,
-        "naturalness": ,
-        "timeliness": ,
-        "repetitiveness": ,
-        "appropriateness": 
+        "understandability": 5,
+        "interestingness": 3,
+        "contextuality": 5,
+        "naturalness": 5,
+        "timeliness": null,
+        "repetitiveness": 5,
+        "appropriateness": 3
       }
     },
     {
@@ -2263,13 +2246,13 @@
       "sacrifice": false,
       "book_move": false,
       "rubric": {
-        "understandability": ,
-        "interestingness": ,
-        "contextuality": ,
-        "naturalness": ,
-        "timeliness": ,
-        "repetitiveness": ,
-        "appropriateness": 
+        "understandability": 5,
+        "interestingness": 2,
+        "contextuality": 5,
+        "naturalness": 5,
+        "timeliness": null,
+        "repetitiveness": 5,
+        "appropriateness": 3
       }
     }
   ]
@@ -2285,13 +2268,13 @@
       "sacrifice": false,
       "book_move": false,
       "rubric": {
-        "understandability": ,
-        "interestingness": ,
-        "contextuality": ,
-        "naturalness": ,
-        "timeliness": ,
-        "repetitiveness": ,
-        "appropriateness": 
+        "understandability": 5,
+        "interestingness": 4,
+        "contextuality": null,
+        "naturalness": 5,
+        "timeliness": null,
+        "repetitiveness": null,
+        "appropriateness": 4
       }
     },
     {
@@ -2301,13 +2284,13 @@
       "sacrifice": false,
       "book_move": false,
       "rubric": {
-        "understandability": ,
-        "interestingness": ,
-        "contextuality": ,
-        "naturalness": ,
-        "timeliness": ,
-        "repetitiveness": ,
-        "appropriateness": 
+        "understandability": 5,
+        "interestingness": 3,
+        "contextuality": 5,
+        "naturalness": 5,
+        "timeliness": 2,
+        "repetitiveness": 5,
+        "appropriateness": 3
       }
     },
     {
@@ -2317,13 +2300,13 @@
       "sacrifice": false,
       "book_move": false,
       "rubric": {
-        "understandability": ,
-        "interestingness": ,
-        "contextuality": ,
-        "naturalness": ,
-        "timeliness": ,
-        "repetitiveness": ,
-        "appropriateness": 
+        "understandability": 5,
+        "interestingness": 3,
+        "contextuality": 5,
+        "naturalness": 5,
+        "timeliness": 3,
+        "repetitiveness": 5,
+        "appropriateness": 3
       }
     },
     {
@@ -2333,13 +2316,13 @@
       "sacrifice": false,
       "book_move": false,
       "rubric": {
-        "understandability": ,
-        "interestingness": ,
-        "contextuality": ,
-        "naturalness": ,
-        "timeliness": ,
-        "repetitiveness": ,
-        "appropriateness": 
+        "understandability": 5,
+        "interestingness": 3,
+        "contextuality": 5,
+        "naturalness": 5,
+        "timeliness": 4,
+        "repetitiveness": 5,
+        "appropriateness": 3
       }
     },
     {
@@ -2349,13 +2332,13 @@
       "sacrifice": false,
       "book_move": false,
       "rubric": {
-        "understandability": ,
-        "interestingness": ,
-        "contextuality": ,
-        "naturalness": ,
-        "timeliness": ,
-        "repetitiveness": ,
-        "appropriateness": 
+        "understandability": 5,
+        "interestingness": 3,
+        "contextuality": 5,
+        "naturalness": 5,
+        "timeliness": 5,
+        "repetitiveness": 5,
+        "appropriateness": 3
       }
     },
     {
@@ -2365,13 +2348,13 @@
       "sacrifice": false,
       "book_move": false,
       "rubric": {
-        "understandability": ,
-        "interestingness": ,
-        "contextuality": ,
-        "naturalness": ,
-        "timeliness": ,
-        "repetitiveness": ,
-        "appropriateness": 
+        "understandability": 5,
+        "interestingness": 3,
+        "contextuality": 5,
+        "naturalness": 5,
+        "timeliness": 5,
+        "repetitiveness": 5,
+        "appropriateness": 4
       }
     },
     {
@@ -2381,13 +2364,13 @@
       "sacrifice": false,
       "book_move": false,
       "rubric": {
-        "understandability": ,
-        "interestingness": ,
-        "contextuality": ,
-        "naturalness": ,
-        "timeliness": ,
-        "repetitiveness": ,
-        "appropriateness": 
+        "understandability": 5,
+        "interestingness": 2,
+        "contextuality": 5,
+        "naturalness": 5,
+        "timeliness": 5,
+        "repetitiveness": 5,
+        "appropriateness": 3
       }
     }
   ]
@@ -2397,168 +2380,167 @@
   "no_of_messages": 10,
   "messages": [
     {
-  "speaker": "A",
-  "text": "You reckon I get a reply this week?
-          🤓",
-  "timestamp": "2000-01-01T00:34:00Z",
-  "sacrifice": false,
-  "book_move": false,
-  "rubric": {
-    "understandability": ,
-    "interestingness": ,
-    "contextuality": ,
-    "naturalness": ,
-    "timeliness": ,
-    "repetitiveness": ,
-    "appropriateness": 
+    "speaker": "A",
+    "text": "You reckon I get a reply this week? 🤓",
+    "timestamp": "2000-01-01T00:34:00Z",
+    "sacrifice": false,
+    "book_move": false,
+    "rubric": {
+      "understandability": 5,
+      "interestingness": 3,
+      "contextuality": null,
+      "naturalness": 5,
+      "timeliness": null,
+      "repetitiveness": null,
+      "appropriateness": 4
+    }
+  },
+  {
+    "speaker": "B",
+    "text": "no x",
+    "timestamp": "2000-01-01T18:06:00Z",
+    "sacrifice": false,
+    "book_move": false,
+    "rubric": {
+      "understandability": 5,
+      "interestingness": 2,
+      "contextuality": 5,
+      "naturalness": 5,
+      "timeliness": 2,
+      "repetitiveness": 5,
+      "appropriateness": 4
+    }
+  },
+  {
+    "speaker": "B",
+    "text": "do u want to get a coffee this week",
+    "timestamp": "2000-01-01T18:06:00Z",
+    "sacrifice": false,
+    "book_move": false,
+    "rubric": {
+      "understandability": 5,
+      "interestingness": 3,
+      "contextuality": 5,
+      "naturalness": 5,
+      "timeliness": 2,
+      "repetitiveness": 5,
+      "appropriateness": 3
+    }
+  },
+  {
+    "speaker": "A",
+    "text": "No.",
+    "in_reply_to": "do u want to get a coffee this week",
+    "timestamp": "2000-01-01T18:07:00Z",
+    "sacrifice": false,
+    "book_move": false,
+    "rubric": {
+      "understandability": 5,
+      "interestingness": 2,
+      "contextuality": 5,
+      "naturalness": 5,
+      "timeliness": 5,
+      "repetitiveness": 5,
+      "appropriateness": 3
+    }
+  },
+  {
+    "speaker": "A",
+    "text": "Coffee is stinky",
+    "timestamp": "2000-01-01T18:08:00Z",
+    "sacrifice": false,
+    "book_move": false,
+    "rubric": {
+      "understandability": 5,
+      "interestingness": 4,
+      "contextuality": 5,
+      "naturalness": 5,
+      "timeliness": 5,
+      "repetitiveness": 5,
+      "appropriateness": 3
+    }
+  },
+  {
+    "speaker": "A",
+    "text": "I'll watch you drink some tho🤓",
+    "timestamp": "2000-01-01T18:08:00Z",
+    "sacrifice": false,
+    "book_move": false,
+    "rubric": {
+      "understandability": 5,
+      "interestingness": 3,
+      "contextuality": 5,
+      "naturalness": 5,
+      "timeliness": 5,
+      "repetitiveness": 5,
+      "appropriateness": 4
+    }
+  },
+  {
+    "speaker": "B",
+    "text": "we can chat somewhere else if u want i'm not bothered",
+    "timestamp": "2000-01-01T18:08:00Z",
+    "sacrifice": false,
+    "book_move": false,
+    "rubric": {
+      "understandability": 5,
+      "interestingness": 3,
+      "contextuality": 5,
+      "naturalness": 5,
+      "timeliness": 5,
+      "repetitiveness": 5,
+      "appropriateness": 4
+    }
+  },
+  {
+    "speaker": "A",
+    "text": "Sounds scary 🥴",
+    "timestamp": "2000-01-01T18:09:00Z",
+    "sacrifice": false,
+    "book_move": false,
+    "rubric": {
+      "understandability": 5,
+      "interestingness": 4,
+      "contextuality": 5,
+      "naturalness": 5,
+      "timeliness": 5,
+      "repetitiveness": 5,
+      "appropriateness": 3
+    }
+  },
+  {
+    "speaker": "A",
+    "text": "You decide I'll pull up",
+    "timestamp": "2000-01-01T18:09:00Z",
+    "sacrifice": false,
+    "book_move": false,
+    "rubric": {
+      "understandability": 5,
+      "interestingness": 3,
+      "contextuality": 5,
+      "naturalness": 5,
+      "timeliness": 5,
+      "repetitiveness": 5,
+      "appropriateness": 3
+    }
+  },
+  {
+    "speaker": "B",
+    "text": "u should be",
+    "in_reply_to":"Sounds scary 🥴",
+    "timestamp": "2000-01-01T18:10:00Z",
+    "sacrifice": false,
+    "book_move": false,
+    "rubric": {
+      "understandability": 5,
+      "interestingness": 4,
+      "contextuality": 5,
+      "naturalness": 5,
+      "timeliness": 5,
+      "repetitiveness": 5,
+      "appropriateness": 3
+    }
   }
-},
-{
-  "speaker": "B",
-  "text": "no x",
-  "timestamp": "2000-01-01T18:06:00Z",
-  "sacrifice": false,
-  "book_move": false,
-  "rubric": {
-    "understandability": ,
-    "interestingness": ,
-    "contextuality": ,
-    "naturalness": ,
-    "timeliness": ,
-    "repetitiveness": ,
-    "appropriateness": 
+    ]
   }
-},
-{
-  "speaker": "B",
-  "text": "do u want to get a coffee this week",
-  "timestamp": "2000-01-01T18:06:00Z",
-  "sacrifice": false,
-  "book_move": false,
-  "rubric": {
-    "understandability": ,
-    "interestingness": ,
-    "contextuality": ,
-    "naturalness": ,
-    "timeliness": ,
-    "repetitiveness": ,
-    "appropriateness": 
-  }
-},
-{
-  "speaker": "A",
-  "text": "No.",
-  "in_reply_to": "do u want to get a coffee this week",
-  "timestamp": "2000-01-01T18:07:00Z",
-  "sacrifice": false,
-  "book_move": false,
-  "rubric": {
-    "understandability": ,
-    "interestingness": ,
-    "contextuality": ,
-    "naturalness": ,
-    "timeliness": ,
-    "repetitiveness": ,
-    "appropriateness": 
-  }
-},
-{
-  "speaker": "A",
-  "text": "Coffee is stinky",
-  "timestamp": "2000-01-01T18:08:00Z",
-  "sacrifice": false,
-  "book_move": false,
-  "rubric": {
-    "understandability": ,
-    "interestingness": ,
-    "contextuality": ,
-    "naturalness": ,
-    "timeliness": ,
-    "repetitiveness": ,
-    "appropriateness": 
-  }
-},
-{
-  "speaker": "A",
-  "text": "I'll watch you drink some tho🤓",
-  "timestamp": "2000-01-01T18:08:00Z",
-  "sacrifice": false,
-  "book_move": false,
-  "rubric": {
-    "understandability": ,
-    "interestingness": ,
-    "contextuality": ,
-    "naturalness": ,
-    "timeliness": ,
-    "repetitiveness": ,
-    "appropriateness": 
-  }
-},
-{
-  "speaker": "B",
-  "text": "we can chat somewhere else if u want i'm not bothered",
-  "timestamp": "2000-01-01T18:08:00Z",
-  "sacrifice": false,
-  "book_move": false,
-  "rubric": {
-    "understandability": ,
-    "interestingness": ,
-    "contextuality": ,
-    "naturalness": ,
-    "timeliness": ,
-    "repetitiveness": ,
-    "appropriateness": 
-  }
-},
-{
-  "speaker": "A",
-  "text": "Sounds scary 🥴",
-  "timestamp": "2000-01-01T18:09:00Z",
-  "sacrifice": false,
-  "book_move": false,
-  "rubric": {
-    "understandability": ,
-    "interestingness": ,
-    "contextuality": ,
-    "naturalness": ,
-    "timeliness": ,
-    "repetitiveness": ,
-    "appropriateness": 
-  }
-},
-{
-  "speaker": "A",
-  "text": "You decide I'll pull up",
-  "timestamp": "2000-01-01T18:09:00Z",
-  "sacrifice": false,
-  "book_move": false,
-  "rubric": {
-    "understandability": ,
-    "interestingness": ,
-    "contextuality": ,
-    "naturalness": ,
-    "timeliness": ,
-    "repetitiveness": ,
-    "appropriateness": 
-  }
-},
-{
-  "speaker": "B",
-  "text": "u should be",
-  "in_reply_to":"Sounds scary 🥴",
-  "timestamp": "2000-01-01T18:10:00Z",
-  "sacrifice": false,
-  "book_move": false,
-  "rubric": {
-    "understandability": ,
-    "interestingness": ,
-    "contextuality": ,
-    "naturalness": ,
-    "timeliness": ,
-    "repetitiveness": ,
-    "appropriateness": 
-  }
-}
-  ]
-}
 ]
