@@ -13,13 +13,13 @@
         {
           "annotator_id": "ME",
           "scores": {
-            "understandability": null,
-            "interestingness": null,
+            "understandability": 5,
+            "interestingness": 4,
             "contextuality": null,
-            "naturalness": null,
+            "naturalness": 5,
             "timeliness": null,
             "repetitiveness": null,
-            "appropriateness": null
+            "appropriateness": 2
           }
         },
         {
@@ -46,13 +46,13 @@
         {
           "annotator_id": "ME",
           "scores": {
-            "understandability": null,
-            "interestingness": null,
-            "contextuality": null,
-            "naturalness": null,
+            "understandability": 5,
+            "interestingness": 5,
+            "contextuality": 3,
+            "naturalness": 5,
             "timeliness": null,
-            "repetitiveness": null,
-            "appropriateness": null
+            "repetitiveness": 5,
+            "appropriateness": 1
           }
         },
         {
@@ -79,13 +79,13 @@
         {
           "annotator_id": "ME",
           "scores": {
-            "understandability": null,
-            "interestingness": null,
-            "contextuality": null,
-            "naturalness": null,
+            "understandability": 5,
+            "interestingness": 2,
+            "contextuality": 3,
+            "naturalness": 5,
             "timeliness": null,
-            "repetitiveness": null,
-            "appropriateness": null
+            "repetitiveness": 5,
+            "appropriateness": 2
           }
         },
         {
@@ -118,13 +118,13 @@
         {
           "annotator_id": "ME",
           "scores": {
-            "understandability": null,
-            "interestingness": null,
+            "understandability": 5,
+            "interestingness": 3,
             "contextuality": null,
-            "naturalness": null,
+            "naturalness": 5,
             "timeliness": null,
             "repetitiveness": null,
-            "appropriateness": null
+            "appropriateness": 3
           }
         },
         {
@@ -151,13 +151,13 @@
         {
           "annotator_id": "ME",
           "scores": {
-            "understandability": null,
-            "interestingness": null,
+            "understandability": 5,
+            "interestingness": 3,
             "contextuality": null,
-            "naturalness": null,
+            "naturalness": 5,
             "timeliness": null,
-            "repetitiveness": null,
-            "appropriateness": null
+            "repetitiveness": 5,
+            "appropriateness": 3
           }
         },
         {
@@ -184,13 +184,13 @@
         {
           "annotator_id": "ME",
           "scores": {
-            "understandability": null,
-            "interestingness": null,
-            "contextuality": null,
-            "naturalness": null,
+            "understandability": 5,
+            "interestingness": 4,
+            "contextuality": 5,
+            "naturalness": 5,
             "timeliness": null,
-            "repetitiveness": null,
-            "appropriateness": null
+            "repetitiveness": 5,
+            "appropriateness": 4
           }
         },
         {
@@ -217,13 +217,13 @@
         {
           "annotator_id": "ME",
           "scores": {
-            "understandability": null,
-            "interestingness": null,
-            "contextuality": null,
-            "naturalness": null,
+            "understandability": 5,
+            "interestingness": 3,
+            "contextuality": 5,
+            "naturalness": 5,
             "timeliness": null,
-            "repetitiveness": null,
-            "appropriateness": null
+            "repetitiveness": 5,
+            "appropriateness": 3
           }
         },
         {
@@ -250,13 +250,13 @@
         {
           "annotator_id": "ME",
           "scores": {
-            "understandability": null,
-            "interestingness": null,
-            "contextuality": null,
-            "naturalness": null,
+            "understandability": 5,
+            "interestingness": 2,
+            "contextuality": 5,
+            "naturalness": 5,
             "timeliness": null,
-            "repetitiveness": null,
-            "appropriateness": null
+            "repetitiveness": 5,
+            "appropriateness": 3
           }
         },
         {
@@ -275,7 +275,7 @@
     },
     {
       "speaker": "A",
-      "text": "Honestly I wouldn’t mind HAHAHAHHA",
+      "text": "Honestly I wouldn't mind HAHAHAHHA",
       "timestamp": null,
       "sacrifice": false,
       "book_move": false,
@@ -283,13 +283,13 @@
         {
           "annotator_id": "ME",
           "scores": {
-            "understandability": null,
-            "interestingness": null,
-            "contextuality": null,
-            "naturalness": null,
+            "understandability": 5,
+            "interestingness": 3,
+            "contextuality": 5,
+            "naturalness": 5,
             "timeliness": null,
-            "repetitiveness": null,
-            "appropriateness": null
+            "repetitiveness": 5,
+            "appropriateness": 3
           }
         },
         {
@@ -316,13 +316,13 @@
         {
           "annotator_id": "ME",
           "scores": {
-            "understandability": null,
-            "interestingness": null,
-            "contextuality": null,
-            "naturalness": null,
+            "understandability": 5,
+            "interestingness": 3,
+            "contextuality": 5,
+            "naturalness": 5,
             "timeliness": null,
-            "repetitiveness": null,
-            "appropriateness": null
+            "repetitiveness": 5,
+            "appropriateness": 3
           }
         },
         {
@@ -349,13 +349,13 @@
         {
           "annotator_id": "ME",
           "scores": {
-            "understandability": null,
-            "interestingness": null,
-            "contextuality": null,
-            "naturalness": null,
+            "understandability": 5,
+            "interestingness": 4,
+            "contextuality": 5,
+            "naturalness": 5,
             "timeliness": null,
-            "repetitiveness": null,
-            "appropriateness": null
+            "repetitiveness": 5,
+            "appropriateness": 3
           }
         },
         {
@@ -382,13 +382,13 @@
         {
           "annotator_id": "ME",
           "scores": {
-            "understandability": null,
-            "interestingness": null,
-            "contextuality": null,
-            "naturalness": null,
+            "understandability": 5,
+            "interestingness": 2,
+            "contextuality": 5,
+            "naturalness": 5,
             "timeliness": null,
-            "repetitiveness": null,
-            "appropriateness": null
+            "repetitiveness": 5,
+            "appropriateness": 4
           }
         },
         {
@@ -416,18 +416,18 @@
       "text": "How's your day going?",
       "timestamp": null,
       "sacrifice": false,
-      "book_move": false,
+      "book_move": true,
       "rubric": [
         {
           "annotator_id": "ME",
           "scores": {
-            "understandability": null,
-            "interestingness": null,
+            "understandability": 5,
+            "interestingness": 2,
             "contextuality": null,
-            "naturalness": null,
+            "naturalness": 5,
             "timeliness": null,
             "repetitiveness": null,
-            "appropriateness": null
+            "appropriateness": 3
           }
         },
         {
@@ -454,13 +454,13 @@
         {
           "annotator_id": "ME",
           "scores": {
-            "understandability": null,
-            "interestingness": null,
-            "contextuality": null,
-            "naturalness": null,
+            "understandability": 5,
+            "interestingness": 3,
+            "contextuality": 5,
+            "naturalness": 5,
             "timeliness": null,
-            "repetitiveness": null,
-            "appropriateness": null
+            "repetitiveness": 5,
+            "appropriateness": 3
           }
         },
         {
@@ -487,13 +487,13 @@
         {
           "annotator_id": "ME",
           "scores": {
-            "understandability": null,
-            "interestingness": null,
-            "contextuality": null,
-            "naturalness": null,
+            "understandability": 5,
+            "interestingness": 4,
+            "contextuality": 5,
+            "naturalness": 5,
             "timeliness": null,
-            "repetitiveness": null,
-            "appropriateness": null
+            "repetitiveness": 5,
+            "appropriateness": 3
           }
         },
         {
@@ -520,13 +520,13 @@
         {
           "annotator_id": "ME",
           "scores": {
-            "understandability": null,
-            "interestingness": null,
-            "contextuality": null,
-            "naturalness": null,
+            "understandability": 5,
+            "interestingness": 2,
+            "contextuality": 5,
+            "naturalness": 5,
             "timeliness": null,
-            "repetitiveness": null,
-            "appropriateness": null
+            "repetitiveness": 5,
+            "appropriateness": 3
           }
         },
         {
@@ -553,13 +553,13 @@
         {
           "annotator_id": "ME",
           "scores": {
-            "understandability": null,
-            "interestingness": null,
-            "contextuality": null,
-            "naturalness": null,
+            "understandability": 5,
+            "interestingness": 3,
+            "contextuality": 5,
+            "naturalness": 5,
             "timeliness": null,
-            "repetitiveness": null,
-            "appropriateness": null
+            "repetitiveness": 5,
+            "appropriateness": 3
           }
         },
         {
@@ -586,13 +586,13 @@
         {
           "annotator_id": "ME",
           "scores": {
-            "understandability": null,
-            "interestingness": null,
-            "contextuality": null,
-            "naturalness": null,
+            "understandability": 5,
+            "interestingness": 3,
+            "contextuality": 5,
+            "naturalness": 5,
             "timeliness": null,
-            "repetitiveness": null,
-            "appropriateness": null
+            "repetitiveness": 5,
+            "appropriateness": 3
           }
         },
         {
@@ -619,13 +619,13 @@
         {
           "annotator_id": "ME",
           "scores": {
-            "understandability": null,
-            "interestingness": null,
-            "contextuality": null,
-            "naturalness": null,
+            "understandability": 5,
+            "interestingness": 3,
+            "contextuality": 5,
+            "naturalness": 5,
             "timeliness": null,
-            "repetitiveness": null,
-            "appropriateness": null
+            "repetitiveness": 5,
+            "appropriateness": 3
           }
         },
         {
@@ -652,13 +652,13 @@
         {
           "annotator_id": "ME",
           "scores": {
-            "understandability": null,
-            "interestingness": null,
-            "contextuality": null,
-            "naturalness": null,
+            "understandability": 5,
+            "interestingness": 3,
+            "contextuality": 5,
+            "naturalness": 5,
             "timeliness": null,
-            "repetitiveness": null,
-            "appropriateness": null
+            "repetitiveness": 5,
+            "appropriateness": 3
           }
         },
         {
@@ -685,13 +685,13 @@
         {
           "annotator_id": "ME",
           "scores": {
-            "understandability": null,
-            "interestingness": null,
-            "contextuality": null,
-            "naturalness": null,
+            "understandability": 5,
+            "interestingness": 3,
+            "contextuality": 5,
+            "naturalness": 5,
             "timeliness": null,
-            "repetitiveness": null,
-            "appropriateness": null
+            "repetitiveness": 5,
+            "appropriateness": 3
           }
         },
         {
@@ -718,13 +718,13 @@
         {
           "annotator_id": "ME",
           "scores": {
-            "understandability": null,
-            "interestingness": null,
-            "contextuality": null,
-            "naturalness": null,
+            "understandability": 5,
+            "interestingness": 3,
+            "contextuality": 5,
+            "naturalness": 5,
             "timeliness": null,
-            "repetitiveness": null,
-            "appropriateness": null
+            "repetitiveness": 5,
+            "appropriateness": 3
           }
         },
         {
@@ -751,13 +751,13 @@
         {
           "annotator_id": "ME",
           "scores": {
-            "understandability": null,
-            "interestingness": null,
-            "contextuality": null,
-            "naturalness": null,
+            "understandability": 5,
+            "interestingness": 3,
+            "contextuality": 5,
+            "naturalness": 5,
             "timeliness": null,
-            "repetitiveness": null,
-            "appropriateness": null
+            "repetitiveness": 5,
+            "appropriateness": 3
           }
         },
         {
@@ -784,13 +784,13 @@
         {
           "annotator_id": "ME",
           "scores": {
-            "understandability": null,
-            "interestingness": null,
-            "contextuality": null,
-            "naturalness": null,
+            "understandability": 5,
+            "interestingness": 2,
+            "contextuality": 5,
+            "naturalness": 5,
             "timeliness": null,
-            "repetitiveness": null,
-            "appropriateness": null
+            "repetitiveness": 5,
+            "appropriateness": 3
           }
         },
         {
@@ -817,13 +817,13 @@
         {
           "annotator_id": "ME",
           "scores": {
-            "understandability": null,
-            "interestingness": null,
-            "contextuality": null,
-            "naturalness": null,
+            "understandability": 5,
+            "interestingness": 2,
+            "contextuality": 5,
+            "naturalness": 5,
             "timeliness": null,
-            "repetitiveness": null,
-            "appropriateness": null
+            "repetitiveness": 5,
+            "appropriateness": 3
           }
         },
         {
@@ -850,13 +850,13 @@
         {
           "annotator_id": "ME",
           "scores": {
-            "understandability": null,
-            "interestingness": null,
-            "contextuality": null,
-            "naturalness": null,
+            "understandability": 5,
+            "interestingness": 3,
+            "contextuality": 5,
+            "naturalness": 5,
             "timeliness": null,
-            "repetitiveness": null,
-            "appropriateness": null
+            "repetitiveness": 5,
+            "appropriateness": 3
           }
         },
         {
@@ -883,13 +883,13 @@
         {
           "annotator_id": "ME",
           "scores": {
-            "understandability": null,
-            "interestingness": null,
-            "contextuality": null,
-            "naturalness": null,
+            "understandability": 5,
+            "interestingness": 3,
+            "contextuality": 5,
+            "naturalness": 5,
             "timeliness": null,
-            "repetitiveness": null,
-            "appropriateness": null
+            "repetitiveness": 5,
+            "appropriateness": 3
           }
         },
         {
@@ -916,13 +916,13 @@
         {
           "annotator_id": "ME",
           "scores": {
-            "understandability": null,
-            "interestingness": null,
-            "contextuality": null,
-            "naturalness": null,
+            "understandability": 5,
+            "interestingness": 3,
+            "contextuality": 5,
+            "naturalness": 5,
             "timeliness": null,
-            "repetitiveness": null,
-            "appropriateness": null
+            "repetitiveness": 5,
+            "appropriateness": 5
           }
         },
         {
@@ -947,7 +947,7 @@
   "messages": [
     {
       "speaker": "A",
-      "text": "You’re a baby 😅",
+      "text": "You're a baby 😅",
       "timestamp": null,
       "sacrifice": false,
       "book_move": false,
@@ -955,13 +955,13 @@
         {
           "annotator_id": "ME",
           "scores": {
-            "understandability": null,
-            "interestingness": null,
+            "understandability": 5,
+            "interestingness": 3,
             "contextuality": null,
-            "naturalness": null,
+            "naturalness": 5,
             "timeliness": null,
-            "repetitiveness": null,
-            "appropriateness": null
+            "repetitiveness": 5,
+            "appropriateness": 3
           }
         },
         {
@@ -988,13 +988,13 @@
         {
           "annotator_id": "ME",
           "scores": {
-            "understandability": null,
-            "interestingness": null,
-            "contextuality": null,
-            "naturalness": null,
+            "understandability": 5,
+            "interestingness": 3,
+            "contextuality": 5,
+            "naturalness": 5,
             "timeliness": null,
-            "repetitiveness": null,
-            "appropriateness": null
+            "repetitiveness": 5,
+            "appropriateness": 4
           }
         },
         {
@@ -1013,7 +1013,7 @@
     },
     {
       "speaker": "A",
-      "text": "You can’t even buy a drink. I’m dead",
+      "text": "You can't even buy a drink. I'm dead",
       "timestamp": "2000-01-01T18:47:00Z",
       "sacrifice": false,
       "book_move": false,
@@ -1021,13 +1021,13 @@
         {
           "annotator_id": "ME",
           "scores": {
-            "understandability": null,
-            "interestingness": null,
-            "contextuality": null,
-            "naturalness": null,
-            "timeliness": null,
-            "repetitiveness": null,
-            "appropriateness": null
+            "understandability": 5,
+            "interestingness": 3,
+            "contextuality": 5,
+            "naturalness": 5,
+            "timeliness": 4,
+            "repetitiveness": 4,
+            "appropriateness": 3
           }
         },
         {
@@ -1046,7 +1046,7 @@
     },
     {
       "speaker": "B",
-      "text": "you’re on here for free drinks? 😂",
+      "text": "you're on here for free drinks? 😂",
       "timestamp": "2000-01-01T19:17:00Z",
       "sacrifice": false,
       "book_move": false,
@@ -1054,13 +1054,13 @@
         {
           "annotator_id": "ME",
           "scores": {
-            "understandability": null,
-            "interestingness": null,
-            "contextuality": null,
-            "naturalness": null,
-            "timeliness": null,
-            "repetitiveness": null,
-            "appropriateness": null
+            "understandability": 5,
+            "interestingness": 3,
+            "contextuality": 5,
+            "naturalness": 5,
+            "timeliness": 4,
+            "repetitiveness": 5,
+            "appropriateness": 5
           }
         },
         {
@@ -1087,13 +1087,13 @@
         {
           "annotator_id": "ME",
           "scores": {
-            "understandability": null,
-            "interestingness": null,
-            "contextuality": null,
-            "naturalness": null,
+            "understandability": 5,
+            "interestingness": 3,
+            "contextuality": 5,
+            "naturalness": 5,
             "timeliness": null,
-            "repetitiveness": null,
-            "appropriateness": null
+            "repetitiveness": 5,
+            "appropriateness": 3
           }
         },
         {
@@ -1120,13 +1120,13 @@
         {
           "annotator_id": "ME",
           "scores": {
-            "understandability": null,
-            "interestingness": null,
-            "contextuality": null,
-            "naturalness": null,
+            "understandability": 5,
+            "interestingness": 3,
+            "contextuality": 5,
+            "naturalness": 5,
             "timeliness": null,
-            "repetitiveness": null,
-            "appropriateness": null
+            "repetitiveness": 5,
+            "appropriateness": 5
           }
         },
         {
@@ -1153,13 +1153,13 @@
         {
           "annotator_id": "ME",
           "scores": {
-            "understandability": null,
-            "interestingness": null,
-            "contextuality": null,
-            "naturalness": null,
+            "understandability": 5,
+            "interestingness": 2,
+            "contextuality": 3,
+            "naturalness": 5,
             "timeliness": null,
-            "repetitiveness": null,
-            "appropriateness": null
+            "repetitiveness": 2,
+            "appropriateness": 3
           }
         },
         {
@@ -1186,13 +1186,13 @@
         {
           "annotator_id": "ME",
           "scores": {
-            "understandability": null,
-            "interestingness": null,
-            "contextuality": null,
-            "naturalness": null,
+            "understandability": 5,
+            "interestingness": 4,
+            "contextuality": 5,
+            "naturalness": 5,
             "timeliness": null,
-            "repetitiveness": null,
-            "appropriateness": null
+            "repetitiveness": 5,
+            "appropriateness": 5
           }
         },
         {
@@ -1211,7 +1211,7 @@
     },
     {
       "speaker": "A",
-      "text": "Don’t test me I’ll black out just to prove a point",
+      "text": "Don't test me I'll black out just to prove a point",
       "timestamp": null,
       "sacrifice": false,
       "book_move": false,
@@ -1219,13 +1219,13 @@
         {
           "annotator_id": "ME",
           "scores": {
-            "understandability": null,
-            "interestingness": null,
-            "contextuality": null,
-            "naturalness": null,
+            "understandability": 5,
+            "interestingness": 4,
+            "contextuality": 5,
+            "naturalness": 5,
             "timeliness": null,
-            "repetitiveness": null,
-            "appropriateness": null
+            "repetitiveness": 5,
+            "appropriateness": 4
           }
         },
         {
@@ -1244,7 +1244,7 @@
     },
     {
       "speaker": "B",
-      "text": "i got a pen and paper for you let me know when you’re ready😘",
+      "text": "i got a pen and paper for you let me know when you're ready😘",
       "timestamp": null,
       "sacrifice": false,
       "book_move": false,
@@ -1252,13 +1252,13 @@
         {
           "annotator_id": "ME",
           "scores": {
-            "understandability": null,
-            "interestingness": null,
-            "contextuality": null,
-            "naturalness": null,
+            "understandability": 5,
+            "interestingness": 5,
+            "contextuality": 5,
+            "naturalness": 5,
             "timeliness": null,
-            "repetitiveness": null,
-            "appropriateness": null
+            "repetitiveness": 5,
+            "appropriateness": 5
           }
         },
         {
